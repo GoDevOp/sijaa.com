@@ -1,0 +1,29 @@
+$(function() {
+    var resizeMatrix = function() {
+        if($(window).width() < 960) {
+            $('.detailBox').addClass('hide')
+            $('.detailBox').removeClass('show');
+        } else {
+            $('.detailBox').removeAttr("style");
+            $('.detailBox').addClass('show');
+            $('a[id*="hideDetail"]').addClass('hide');
+            $('a[id*="showDetail"]').removeClass('hide');
+        }
+    };
+    
+    /* remove 1px border from hovered package header 
+    and reset it again after leaving the package */
+    $('article[class*="package"]').mouseover(function() {
+        if(!$('html').hasClass('lt-ie9')) {
+            $(this).find('.headline').css('border','0 none');
+        }
+    });
+    $('article[class*="package"]').mouseleave(function() {
+        $(this).find('.headline').css('border-left','1px solid #ffffff');
+    });
+
+    /* initial start to set visibility of detail boxes */
+    resizeMatrix();
+    /* and do this again on every resize */
+    $(window).resize(resizeMatrix);
+});

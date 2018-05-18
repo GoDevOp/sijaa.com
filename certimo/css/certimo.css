@@ -1,0 +1,303 @@
+﻿@charset "utf-8";
+
+html body {
+    background-color: #F6F6F7;
+    background-image:none;
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #445163;
+    text-align: left;
+    font-size: 12px;
+}
+
+html body{
+    line-height: 18px;
+}
+
+h1{
+    font-size:20px;
+}
+
+h2{
+    font-size:14px;
+    margin:0;
+    line-height:150%
+}
+
+h3{
+    margin:0 0 9px 0 ;
+    font-size:12px;
+}
+
+a:link {
+    color: #0069B4;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.clearup{
+    clear:both;
+}
+
+div, a, img,  a img{
+    padding:0px;
+    margin:0px;
+    border:none;
+}
+
+.microsite #tcContainer {
+    position: relative;
+    width: 960px;
+    height: auto;
+    margin: 0px auto;   
+}
+
+.microsite #tcHeader {
+    position: relative;
+    width: 960px;
+    height: 72px;
+}
+
+.microsite #tcLogoTC {
+    position: relative;
+    float: left;
+    margin: 6px 0 0 0;
+}
+
+.microsite #tcClaim {
+    position: relative;
+    float: left;
+    font-size: 13px;
+    font-weight: normal;
+    margin: 31px 0px 0px 0px;
+}
+
+.microsite .contentBox{
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #fff;
+    min-height: 570px;
+    padding:9px;
+}
+
+.tc1Col {
+    width: 307px;
+    margin: 0;
+    padding: 0px;
+    float: left;
+    position:relative;
+}
+
+.tc1Col img{
+    position:absolute;
+    right:-12px;
+    top:141px;
+}
+
+.tc2Col {
+    width: 612px;
+    margin: 0px;
+    float: left;
+    clear: right;
+    padding:9px;
+}
+
+.tc3Col {
+    margin: 0px;
+    float: left;
+    clear: right;
+    padding:9px;
+}
+
+.tc3Col p {
+	padding: 0 18px 0 18px;
+	
+}
+
+.microsite #tcFooter {
+    width: 924px;
+    margin: 8px 0px 8px 0px;
+    color: #707A8D;
+    font-size: 10px;
+}
+.microsite #tcFooter{
+    margin-left:18px;
+}
+.copyFooter {
+    color:#707A8D;
+    font-size:10px;
+    margin:0 0 0 18px;
+    float:left;
+}
+.kontaktFooter {
+    color:#707A8D;
+    font-size:10px;
+    margin:0 18px 0 0;
+    float:right;
+}
+
+#tcFooterCopy a:hover, #tcFooterContact a:hover {
+    color: #0069B4;
+}
+
+.actionArea {
+    display:block;
+    padding:9px;
+}
+
+.actionArea ul.nav{
+    display:inline;
+}
+
+.actionArea ul.nav li{
+    float:left;
+    margin:0 0px;
+    padding:6px;
+    list-style:none;
+}
+
+.actionArea ul.nav li{
+    margin-right:6px;
+}
+
+.inactive{
+    background:#e9e9e9;
+    color:#2c3644;
+    cursor:pointer;
+}
+
+.active{
+    background:#d3ddf2 ;
+    color:#000;
+}
+
+.link{
+    padding:9px;
+    background:#d3ddf2;
+    margin-bottom:3px
+}
+
+.link p{
+    background:#f7f6f6;
+    padding:6px;
+    margin-bottom:9px;
+}
+
+.link.signatur  p{
+    background:#f7f6f6;
+    margin-left: 219px;
+    min-height:59px;
+    vertical-align:top; 
+}
+
+.moreBtn {
+    margin:3px 6px 0  0;
+    vertical-align: top;
+}
+    
+.link img{
+    float:left;
+    margin-right:9px;
+}
+
+    
+.link .tcCodeArea{
+    display:inline-block;
+    vertical-align: top;
+    width:767px;
+}
+    
+.link .tcCodeArea textarea{
+    width:755px;
+    margin:0px;
+    padding:5px;
+    border: 1px solid #DDD;
+    border-top:2px solid #DDD;
+    display:block;
+    margin-top:9px;
+    overflow:hidden;
+    resize:vertical;
+    font-size:12px;
+    width:98.5%;
+}
+    
+.link .tcCodeArea textarea:hover{
+    background-color:#EEE;
+}
+
+span.fileIcon {
+    display:inline-block;
+    background-image: url("/WWW/microsites/certimo/img/spriteDld.png");
+    width:16px;
+    height:16px;
+    margin-right:4px;
+}
+
+span.fileIcon.font {
+    font-weight:bold; 
+    vertical-align: top;
+    background-image:none;
+    width:auto;
+}
+
+span.fileIcon.pdf {
+    background-position:left top;
+}
+
+span.fileIcon.zip {
+    background-position: center bottom;
+}
+
+.tcRights{
+    padding:0 9px;
+    display:none;
+}
+
+.tcRights div{
+    background: none repeat scroll 0 0 #E9E9E9;
+    padding:9px;
+}
+.tcRights ol {
+    width:80%;
+}
+
+ul {
+    padding: 0px 0px 0px 20px;
+    margin:25px 0;
+    list-style-type:square;
+}
+
+ul li {
+    border: medium none;
+    float: none;
+    list-style-image:url("/WWW/microsites/certimo/img/bullet-p.gif");
+    line-height:150%;
+}
+
+ol li { 
+    margin-bottom:4px;
+}
+
+ul h2 {
+    text-indent:-20px;
+}
+
+.tcListe li {
+    list-style-image:url("/WWW/microsites/certimo/img/tc_hook.png");
+    list-style-position:outside;
+    line-height:22px;
+    margin-left: 6px;
+}
+
+.tcListe p{
+    margin-left: 11px;
+    text-indent: -4px;
+}
+
+.clearup {
+    clear: both;
+}

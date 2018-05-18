@@ -1,0 +1,125 @@
+.referenceName {
+	height: auto;
+	width: 170px;
+	text-align: center;
+	display: inline-block;
+	padding: 35px 0;
+	margin: 0;
+}
+#referenceDescription {
+	white-space: pre-wrap;
+}
+.referenceListItem {
+	background-color: #fff;
+	height: 100px;
+	margin: 0 20px 20px 0 !important;
+	padding-left: 0 !important;
+	text-align: center;
+	width: 200px !important;
+	position: relative;
+	float: left !important;
+}
+.referenceListItem img{
+	position: relative;
+	top: 50%;
+	-moz-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	-o-transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
+}
+.referenceListItem h3{
+	font-size: 12px !important;
+    line-height: 18px;
+    position: relative;
+	-moz-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	-o-transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
+    width: 80%;
+    margin: 25% auto 0;
+    font-weight: bold;
+}
+.referenceListItem a:hover{
+	text-decoration: none;
+}
+.referenceListWrapper{
+	margin: 0 !important; 
+}
+.referenceListItem:hover{
+	border: 1px solid #0069b4;
+}
+.detail{
+	display: none;
+}
+.myDetail{
+	height: 100%;
+	padding: 25px 0;
+	width: 100%;
+}
+.myDetail .detail{
+	display: inline-block;
+	height: auto;
+	margin: 25px 0;
+	width: 100%;
+}
+#cboxCurrent, #cboxPrevious, #cboxNext{
+	display: none !important;
+}
+.refrenceIcons{
+	position: absolute;
+    top: 10px;
+    left: 5px;
+    z-index: 99;
+    color: #ccc;
+    -webkit-transition: all 0.4s ease-in-out;
+	-moz-transition: all 0.4s ease-in-out;
+	-o-transition: all 0.4s ease-in-out;
+	transition: all 0.4s ease-in-out;
+}
+.refrenceIconLink:before{
+	font-size: 20px !important;
+}
+.refrenceIconLink{
+	background-color: #ccc;
+	color: #fff;
+	border-radius: 150px;
+}
+.refrenceIconPlus:before{
+	font-size: 25px !important;
+}
+.referenceListItem:hover .refrenceIconPlus{
+    color: #0069b4;
+}
+.referenceListItem:hover .refrenceIconLink{
+	background-color: #0069b4 !important;
+	color: #fff !important;
+}
+.refrenceNoLogo{
+	color:#666;
+}
+.refrenceQuoteIcon{
+    background-image: url(/WWW/sec/themes/tcportal_tcgui/img/reference/icon-reference-quote-grey.png);
+    width: 23px;
+    height: 23px;
+    display: block;
+    background-position: left top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 6px;
+    top: 8px;
+    z-index: 99;
+}
+.refrenceQuoteIcon:hover{
+    background-image: url(/WWW/sec/themes/tcportal_tcgui/img/reference/icon-reference-quote-blue.png);
+}
+.referenceListItem:hover .refrenceQuoteIcon{
+    background-image: url(/WWW/sec/themes/tcportal_tcgui/img/reference/icon-reference-quote-blue.png);
+}
+/*css sepcial for Ko Version*/
+.referenceListWrapperKo{
+	margin: 35px 0;
+}
+#referenceDetails {
+	margin-bottom: 5px;
+}

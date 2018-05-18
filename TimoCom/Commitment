@@ -1,0 +1,1807 @@
+
+    
+<!DOCTYPE html>
+<!--[if IE 7]> <html class="no-js lt-ie10 lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie10 lt-ie9"> <![endif]-->
+<!--[if IE 9]> <html class="no-js lt-ie10"> <![endif]-->
+<html lang="en" class="no-js">
+<head>
+    
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="author" content="TimoCom Soft- und Hardware GmbH">
+    <meta name="revisit-after" content="5 days">
+    <meta name="robots" content="index,follow">
+    <meta name="robots" content="noodp">
+    <meta name="referrer" content="origin">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="theme-color" content="#0069B4">
+    
+
+    
+    
+        
+    
+    
+		
+
+		
+			
+    <link rel="alternate" href="https://www.timocom.bg/TimoCom/Ангажимент" hreflang="bg" />
+
+    <link rel="alternate" href="https://www.timocom.cz/TimoCom/Aktivity" hreflang="cs" />
+
+    <link rel="alternate" href="https://www.timocom.dk/TimoCom/Engagement" hreflang="da" />
+
+    <link rel="alternate" href="https://www.timocom.de/TimoCom/Engagement" hreflang="de" />
+
+    <link rel="alternate" href="https://www.timocom.gr/TimoCom/δέσμευση" hreflang="el" />
+
+    <link rel="alternate" href="https://www.timocom.co.uk/TimoCom/Commitment" hreflang="en" />
+
+    <link rel="alternate" href="https://www.timocom.es/TimoCom/Compromiso" hreflang="es" />
+
+    <link rel="alternate" href="https://www.timocom.fi/TimoCom/Vapaaehtoistyö" hreflang="fi" />
+
+    <link rel="alternate" href="https://www.timocom.fr/TimoCom/Engagement" hreflang="fr" />
+
+    <link rel="alternate" href="https://www.timocom.com.hr/TimoCom/Angažman" hreflang="hr" />
+
+    <link rel="alternate" href="https://www.timocom.hu/TimoCom/Elhivatottság" hreflang="hu" />
+
+    <link rel="alternate" href="https://www.timocom.it/TimoCom/Impegno" hreflang="it" />
+
+    <link rel="alternate" href="https://www.timocom.lt/TimoCom/Veikla" hreflang="lt" />
+
+    <link rel="alternate" href="https://www.timocom.lv/TimoCom/Saistības" hreflang="lv" />
+
+    <link rel="alternate" href="https://mk.timocom.com/TimoCom/Ангажман" hreflang="mk" />
+
+    <link rel="alternate" href="https://www.timocom.nl/TimoCom/Engagement" hreflang="nl" />
+
+    <link rel="alternate" href="https://no.timocom.com/TimoCom/Engasjement" hreflang="no" />
+
+    <link rel="alternate" href="https://www.timocom.pl/TimoCom/Zaangażowanie" hreflang="pl" />
+
+    <link rel="alternate" href="https://www.timocom.pt/TimoCom/Empenhamento" hreflang="pt" />
+
+    <link rel="alternate" href="https://www.timocom.ro/TimoCom/Angajament" hreflang="ro" />
+
+    <link rel="alternate" href="https://www.timocom.ru/TimoCom/Мероприятия" hreflang="ru" />
+
+    <link rel="alternate" href="https://www.timocom.sk/TimoCom/Aktivity" hreflang="sk" />
+
+    <link rel="alternate" href="https://www.timocom.si/TimoCom/Angažma" hreflang="sl" />
+
+    <link rel="alternate" href="https://www.timocom.rs/TimoCom/Angažman" hreflang="sr" />
+
+    <link rel="alternate" href="https://www.timocom.se/TimoCom/Engagemang" hreflang="sv" />
+
+    <link rel="alternate" href="https://www.timocom.com.tr/TimoCom/Taahhüt" hreflang="tr" />
+
+    <link rel="alternate" href="https://www.timocom.com.ua/TimoCom/Зобов-язання" hreflang="uk" />
+
+		
+	
+     
+    <link rel="stylesheet" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/css/core.min.css?v=1526285106">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/mobile-icons/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/mobile-icons/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/mobile-icons/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/mobile-icons/apple-touch-icon-57-precomposed.png">
+    <link rel="icon" sizes="72x72" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/mobile-icons/android-icon-72.png">
+    <link rel="icon" sizes="128x128" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/mobile-icons/android-icon-128.png">
+    <link rel="icon" sizes="144x144" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/mobile-icons/android-icon-144.png">
+    <link rel="icon" sizes="192x192" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/mobile-icons/android-icon-192.png">
+    <link rel="shortcut icon" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/favicon.ico">
+    <!--[if lte IE 9]>
+        <link rel="stylesheet" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/css/ie.min.css?v=1526285106">
+    <![endif]-->
+    <link rel="stylesheet" href="/WWW/sec/themes/tcportal_tcgui/css/tcportal.min.css?v=1526285106">
+    
+        <link rel="stylesheet" href="/WWW/sec/themes/tcportal_tcgui/css/fullsize.min.css?v=1526285106">
+    
+
+    <script src="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/js/vendor.min.js?v=1526285106"></script>
+
+    <link href="https://plus.google.com/112173973951136550729" rel="publisher">
+    <script src="/WWW/sec/themes/tcportal_tcgui/js/analytics/tcTrackEvent.min.js?v=1526285106"></script>
+
+    
+<!-- Copyright (c) 2000-2017 etracker GmbH. All rights reserved. -->
+<!-- This material may not be reproduced, displayed, modified or distributed -->
+<!-- without the express prior written permission of the copyright holder. -->
+<!-- etracker tracklet 4.1 -->
+<script type="text/javascript">
+    var et_pagename = "/TimoCom/Commitment";
+</script>
+<script id="_etLoader" type="text/javascript" charset="UTF-8" data-secure-code="M59E9x" data-slave-codes="M59CPK" src="//static.etracker.com/code/e.js"></script>
+<!-- etracker tracklet 4.1 end -->
+
+<meta name="twitter:site" content="@TimoCom" /><link rel="canonical" href="https://www.timocom.co.uk/TimoCom/Commitment" /><meta name="twitter:image:src" content="https://www.timocom.co.uk/WWW/sec/themes/tcportal_tcgui/img/socialMedia/fbSharingBild.jpg" /><meta name="twitter:title" content="Commitment | TimoCom | Freight Exchange - TimoCom" /><meta property="og:title" content="Commitment | TimoCom | Freight Exchange - TimoCom" /><meta name="twitter:card" content="summary_large_image" /><meta name="description" content="TimoCom shows social responsibility and is committed to environmental sustainability. We are convinced of the importance of corporate social responsibility." /><meta property="og:image" content="https://www.timocom.co.uk/WWW/sec/themes/tcportal_tcgui/img/socialMedia/fbSharingBild.jpg" /><meta property="og:type" content="website" /><meta property="og:description" content="TimoCom shows social responsibility and is committed to environmental sustainability. We are convinced of the importance of corporate social responsibility." /><title>Commitment | TimoCom | Freight Exchange - TimoCom </title><meta name="twitter:creator" content="@TimoCom" /><meta property="og:url" content="https://www.timocom.co.uk/TimoCom/Commitment" /><meta property="og:site_name" content="" /><meta name="twitter:description" content="TimoCom shows social responsibility and is committed to environmental sustainability. We are convinced of the importance of corporate social responsibility." /></head>
+
+<body data-spy="scroll" data-target=".bs-docs-sidebar" class="scrolloff" data-who="pro02">
+    
+
+<header>
+    <div class="container visible-print">
+        <img src="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/tclogos/timocom-black.png" title="TimoCom Logo" alt="TimoCom Logo">
+    </div>
+    <div class="appheader" id="nav">
+        <div id="mainnav" class="navbar navbar-fixed-top">
+            <div class="navbar-inner">
+                <div class="container-fluid">
+                    <a data-toggle="collapse" data-target=".nav-collapse" class="btn btn-navbar">
+                        <i class="icon-show-lines"></i>
+                    </a>
+                    <a data-placement="bottom" title="TimoCom" href="/" class="brand dropdown nowrap visible-phone visible-tablet">
+                        <i title="TimoCom" class="logo-timocom-white"></i> <b class="caret hidden-phone"></b>
+                    </a>
+                    <div class="nav-collapse collapse">
+                        
+		
+
+		
+			
+
+<div class="clearfix">
+    <ul class="nav pull-left">
+        
+            
+                <li>
+                    <a data-placement="bottom" title="TimoCom" href="/" class="brand nowrap visible-desktop hidden-tablet ">
+                        <i title="TimoCom" class="logo-timocom-white"></i></a>
+                </li>
+            
+            <li class="dropdown">
+                
+                    
+                
+                <ul class="dropdown-menu" role="menu">
+                    <div class="mega-content">
+                        <div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/" target="_self" title="The market leader among Europe's vehicle and freight exchanges! Reasonable monthly flat rate - with no hidden costs. Up to 4-week free, non-obligatory test phase." >Welcome</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                        </div>
+                    </div>
+                </ul>
+            </li>
+        
+            
+            <li class="dropdown">
+                
+                    
+                        <a title=""
+                            
+                            
+                                
+                                    href="/The-Freight-Exchange/Transport-exchange"
+                                
+                            
+                            
+                            >Transport platform</a>
+                    
+                
+                <ul class="dropdown-menu" role="menu">
+                    <div class="mega-content">
+                        <div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">The Freight Exchange</li>
+                                
+                                
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/The-Freight-Exchange/Transport-exchange" target="_self" title="Reasonable monthly flat rate – with no hidden costs. Up to four week free, non-obligatory testphase. The market leader among Europe's vehicle and freight exchanges!" >Transport exchange</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/The-Freight-Exchange/Freight-offers" target="_self" title="All types of freights are offered in the freight exchange TC Truck&amp;Cargo. From a large envelope that is transported by courier to an oversize machine." >Freight offers</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/The-Freight-Exchange/Vehicle-offers" target="_self" title="Available vehicle space for all types of loads. From curtain siders to silo semi-trailers." >Vehicle offers</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/The-Freight-Exchange/Warehouse-offers" target="_self" title="Europe's largest warehousing exchange – with up to 30,000 warehousing and logistics possibilities. Find all contact details as well as warehousing type and usage in TimoCom's warehousing directory." >Warehouse offers</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">Transport tenders</li>
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/Tendering-system" target="_self" title="The tendering system for the contract market." >Tendering system</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/The-Tendering-Platform/Service-provider-search" target="_self" title="Reach a logistics network of over 40,000 verified companies with only one tender." >Service provider search</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/The-Tendering-Platform/Current-tenders" target="_self" title="Obtain long-term transport contracts and permanent business partners." >Current tenders</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">Transport orders</li>
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/Transport-platform/Quote-request" target="_self" title="TC Transport Order – Quote requests & order handling on TimoCom's transport platform" >Quote request</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Transport-platform/Order-Handling" target="_self" title="TC Transport Order – Quote requests & order handling on TimoCom's transport platform" >Order Handling</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">Tracking</li>
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/Tracking/Vehicle-localisation" target="_self" title="All vehicle telematics systems at a glance. Increased security in managing your fleet with GPS tracking in TimoCom Tracking." >Vehicle localisation</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Tracking/Telematics-provider" target="_self" title="Fleet management with GPS exact vehicle localisation: our partners in terms of truck tracking are renowned European telematics providers." >Telematics provider</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                            
+                                </div><div>
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">Connecting customers</li>
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/Transport-platform/Business-directory" target="_self" title="TC Profile is your professional business card in TC Truck&amp;Cargo! Enter your most important company details and keep them up-to-date. Other TimoCom users do the same." >Business directory</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Transport-platform/Messenger" target="_self" title="Diverse communication tool integrated into Europe's largest transport platform. Simplify your personal business communication with the TimoCom Messenger" >Messenger</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Transport-platform/TimoCom-mobile" target="_self" title="With the TimoCom app you have mobile access to Europe's biggest transport platform and can find freight and offer vehicle space wherever you are." >TimoCom mobile</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">Services</li>
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="https://updatepool.timocom.com/en/update" target="_blank" title="Update Pool. All TimoCom updates and new features down to the point." >Update Pool</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Transport-platform/References" target="_self" title="The following freight forwarding and transport companies as well as companies from manufacturing and trade successfully work with the transport platform TimoCom." >References</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Download/Customers-recruit-customers" target="_self" title="Get a €50 bonus for successfully recommending the vehicle and freight exchange TC Truck&amp;Cargo." >Customers recruit customers</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Transport-plattform/Value-for-money" target="_self" title="Up to 750,000 freight and vehicle offers, more than 127,000 users, 44 European countries." >Value for money</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                        </div>
+                    </div>
+                </ul>
+            </li>
+        
+            
+            <li class="dropdown">
+                
+                    
+                        <a title=""
+                            
+                            
+                                href="/Security/Security-net"
+                            
+                            
+                            >Security</a>
+                    
+                
+                <ul class="dropdown-menu" role="menu">
+                    <div class="mega-content">
+                        <div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/Security/Security-net" target="_self" title="Security is a fundamental issue in a freight exchange. It is about protecting customers from 'black sheep' in the transport industry." >Security net</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Security/New-customer-verification" target="_self" title="Before TimoCom grants companies access to the freight exchange or other platforms they are verified by us – our contribution to preventing cargo theft." >New customer verification</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Security/Debt-collection-international" target="_self" title="Our legal department takes care of debt collection and claims management for transport and logistic companies.  Outstanding amounts? Contact TimoCom for assistance!" >Debt collection international</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Security/Technologies" target="_self" title="Security in freight exchange already begins prior to the goods being transported! As a freight exchange we therefore offer a high level of technical security to protect you as our customers." >Technologies</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Security/Access-software" target="_self" title="Our contribution to more security in freight exchanges and for transport tenders! You can only access TimoCom by means of a personalised login software." >Access software</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Security/Check-lists" target="_self" title="Important rules and tips for even more security in the freight exchange. Find the most important rules as to how to actively protect your company against freight theft here." >Check lists</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Security/Identity-verification" target="_self" title="The new, free of charge service TimoCom Identify assists in identifying your business partner if you have doubts." >Identity verification</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                        </div>
+                    </div>
+                </ul>
+            </li>
+        
+            
+            <li class="dropdown">
+                
+                    
+                        <a title=""
+                            
+                            
+                                
+                                    href="/TimoCom/About-Us"
+                                
+                            
+                             class="active"
+                            >Company</a>
+                    
+                
+                <ul class="dropdown-menu" role="menu">
+                    <div class="mega-content">
+                        <div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">TimoCom</li>
+                                
+                                
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/TimoCom/About-Us" target="_self" title="TimoCom is an IT service provider for the European transport business Among other things we offer a market leading freight exchange and a universal tracking solution." >About Us</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/TimoCom/Partners" target="_self" title="Networking pays off: TimoCom cooperates with the following companies from the fields of transport, economy and education." >Partners</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/TimoCom/Commitment" target="_self" title="TimoCom shows social responsibility and is committed to environmental sustainability. We are convinced of the importance of corporate social responsibility." class="active">Commitment</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">Careers</li>
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/TimoCom/Jobs-careers" target="_self" title="Here you find job vacancies for our headquarter in Erkrath, Germany. " >Jobs & careers</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">News</li>
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/News/Press-information" target="_self" title="Read TimoCom's press releases and articles from newspapers, magazines as well as specialist journals. 
+" >Press information</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/News/Newsletter" target="_self" title="" >Newsletter</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/News/Media-library" target="_self" title="Searching for a suitable transport image for your article? No problem! Simply download photos, graphics or images from TimoCom free of charge." >Media library</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                        </div>
+                    </div>
+                </ul>
+            </li>
+        
+            
+            <li class="dropdown">
+                
+                    
+                        <a title=""
+                            
+                            
+                                href="/Contact/Info-Center"
+                            
+                            
+                            >Contact</a>
+                    
+                
+                <ul class="dropdown-menu" role="menu">
+                    <div class="mega-content">
+                        <div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/Contact/Info-Center" target="_self" title="Get in contact with TimoCom, e.g. by phone, fax or email. Also find the telephone number and the customer service hotline for the freight exchange here." >Info Center</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                        </div>
+                    </div>
+                </ul>
+            </li>
+        
+            
+            <li >
+                
+                    <a class="isButton" title=""
+                    
+                    
+                        href="/Apply-now/"
+                    
+                    >Apply now</a>
+                
+                <ul class="dropdown-menu" role="menu">
+                    <div class="mega-content">
+                        <div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/Apply-now/" target="_self" title="Test Europe's largest transport platform  including the freight exchange, warehousing exchange, transport tenders and tracking for up to 4 weeks for free." >Apply to test</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                        </div>
+                    </div>
+                </ul>
+            </li>
+        
+    </ul>
+</div>
+
+		
+	
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="searchbar" class="pull-right">
+        <div class="pull-right">
+            
+		
+
+		
+			
+
+    <script>
+        $(function() {
+            $('#languageSelection').on('click', function() {
+                var gaString = 'Oeffnen der Sprachauswahl in Summe';
+                    ga('globalTracker.send','ClickToOpenChangeLanguage', 'CountrySelectBox', gaString );
+            });
+            $('#languageSelectionBox a[data-country]').on('click', function() {
+                var gaString = 'VonSprache:en NachSprache:'+ $(this).attr("data-country");
+                    ga('globalTracker.send', 'ChangeLanguageHP', 'SelectCountry', gaString);
+            });
+        });
+    </script>
+    <div data-resize="auto" class="btn-group" id="head-langsel">
+        <button class="btn dropdown-toggle" data-toggle="dropdown" title="TimoCom - Freight Exchange" id="languageSelection">
+            <span class="dropdown-label">English</span><span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" onmouseover="$('#flagSelectSpan').show()" id="languageSelectionBox">
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.bg/TimoCom/Ангажимент" title="TimoCom - Транспортна борса" data-country="BG">български</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.cz/TimoCom/Aktivity" title="TimoCom - Databanka" data-country="CZ">Čeština</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.dk/TimoCom/Engagement" title="TimoCom - Fragtbørsen" data-country="DK">Dansk</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.de/TimoCom/Engagement" title="TimoCom - Frachtenbörse" data-country="DE">Deutsch</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.gr/TimoCom/δέσμευση" title="TimoCom - Μεταφορικές" data-country="GR">Ελληνικά</a>
+                </li>
+            
+                <li class="active">
+                    <a target="_self" href="https://www.timocom.co.uk/TimoCom/Commitment" title="TimoCom - Freight Exchange" data-country="GB">English</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.es/TimoCom/Compromiso" title="TimoCom - Bolsa de cargas" data-country="ES">Español</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="http://www.timocom.ee" title="TimoCom - Kaubaveo vahetus" data-country="EE">Eesti keel</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.fi/TimoCom/Vapaaehtoistyö" title="TimoCom - Rahtipörssi" data-country="FI">Suomi</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.fr/TimoCom/Engagement" title="TimoCom - Bourse de Fret" data-country="FR">Français</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.com.hr/TimoCom/Angažman" title="TimoCom - Burza utovara" data-country="HR">Hrvatski</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.hu/TimoCom/Elhivatottság" title="TimoCom - Fuvarbörze" data-country="HU">Magyar</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.it/TimoCom/Impegno" title="TimoCom - Borsa di Carico" data-country="IT">Italiano</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.lt/TimoCom/Veikla" title="TimoCom - Krovinių birža" data-country="LT">Lietuvių</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.lv/TimoCom/Saistības" title="TimoCom - Transporta birža" data-country="LV">Latviešu</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://mk.timocom.com/TimoCom/Ангажман" title="TimoCom - Транспортна берза" data-country="MK">Македонски</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.nl/TimoCom/Engagement" title="TimoCom - Vrachtuitwisseling" data-country="NL">Nederlands</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://no.timocom.com/TimoCom/Engasjement" title="TimoCom - Fraktbørsen" data-country="NO">Norsk</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.pl/TimoCom/Zaangażowanie" title="TimoCom - Giełda Transportowa" data-country="PL">Polski</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.pt/TimoCom/Empenhamento" title="TimoCom - bolsa de cargas" data-country="PT">Português</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.ro/TimoCom/Angajament" title="TimoCom - Bursa transporturilor" data-country="RO">Română</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.ru/TimoCom/Мероприятия" title="TimoCom - Краткое описание" data-country="RU">Русский</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.sk/TimoCom/Aktivity" title="TimoCom - Databanka" data-country="SK">Slovenčina</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.si/TimoCom/Angažma" title="TimoCom - Borza tovorov" data-country="SI">Slovenščina</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.rs/TimoCom/Angažman" title="TimoCom - Berza utovara" data-country="RS">Srpski</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.se/TimoCom/Engagemang" title="TimoCom - Fraktbörsen" data-country="SE">Svenska</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.com.tr/TimoCom/Taahhüt" title="TimoCom - Yük ve Kargo Borsası" data-country="TR">Türkçe</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.com.ua/TimoCom/Зобов-язання" title="TimoCom - транспортная биржа" data-country="UA">Українська</a>
+                </li>
+            
+        </ul>
+    </div>
+
+		
+	
+        </div>
+        
+            <div class="pull-right">
+                
+
+    <form id="search" action="/?search" method="POST" name="siteSearch">
+        <div class="input-append search">
+            <input type="text" id="searchfield" name="search" class="input-xlarge" placeholder="Search">
+            <button class="btn" name="search" type="submit" value="" title="Start search" id="btnsitesearch"><i class="icon-search"></i></button>
+        </div>
+    </form>
+
+            </div>
+        
+    </div>
+    
+    
+        <div id="breadcrumb" class="container relative">
+            <div class="row-fluid">
+                <div class="span12 hidden-phone">
+                    
+		
+
+		
+			
+    <nav id="nav-breadcrumb" class="fullsize">
+        
+            <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="inline-block">
+                <a href="/" itemprop="url" rel="nofollow"><span itemprop="title">Welcome</span></a> &nbsp;/&nbsp;
+            </div>
+        
+            <div itemscope itemprop="child" itemtype="http://data-vocabulary.org/Breadcrumb" class="inline-block">
+                <a href="/TimoCom/About-Us" itemprop="url" rel="nofollow"><span itemprop="title">Company</span></a> &nbsp;/&nbsp;
+            </div>
+        
+            <div itemscope itemprop="child" itemtype="http://data-vocabulary.org/Breadcrumb" class="inline-block">
+                <a href="/TimoCom/Commitment" itemprop="url" rel="nofollow"><span itemprop="title">Commitment</span></a> 
+            </div>
+        
+    </nav>
+
+		
+	
+                </div>
+            </div>
+        </div>
+    
+    <div id="nojs" class="hide">
+        <div class="container">
+            <div class="alert js-warning">
+                <h4>JavaScript is deactivated in your browser.</h4>
+                The range of functions of this webpage is therefore reduced. To increase the range of use and comfort, please enable JavaScript temporarily in your browser settings.
+            </div>
+        </div>
+    </div>
+    <div class="hidden-phone">
+        
+    </div>
+</header>
+
+    <main>
+        
+        <section id="stage">
+            
+            <div class="content"
+                
+                    data-umenuid="1102281100244198"
+                    data-pagetag="timocom-commitment"
+                >
+                
+
+    
+		<div class="contentContainer tcStage"><div id="tcmHeaderFullsize" class="fullsize-header fullsize-bg fullsize-default padding-top-large">
+    <div id="tcmContentFullsize" class="well-blue">
+        <div class="container padding-bottom-large margin-top">
+            <div class="row-fluid">
+                <div class="span10 offset1">
+                    <div class="module mainHeader">
+                        <header>
+                            <h1 class="h1-large text-white">TimoCom is committed to the environment and society</h1>
+                        </header>
+                    </div>
+                    <div class="module articleBody">
+                        <section class="margin-bottom-large">
+                            <div class="well well-white well-header well-framed margin-top">
+                                <header>
+                                    <h2>Environment</h2>
+                                </header>
+                            </div>
+                            <div class="well well-white well-footer well-framed">
+                                <div class="row-fluid" data-article="introEnvironment">
+                                    <div class="span5">
+                                        <aside> <img class="img-responsive margin-bottom" src="/STATIC/binary/900000/images/global/commitment/TimoCom-Environment.png" alt="Whether it be the company building TiComplex, the company ticket or a paperless office– TimoCom maintains an environmentally friendly corporate culture." title="TimoCom is an environmentally friendly IT service provider." /> </aside>
+                                    </div>
+                                    <div class="span7">
+                                        <section class="copy-large">
+                                            <div class="row-fluid">
+                                                <div class="span12">
+                                                    <p>Out of conviction we are active with regard to environmental protection and are expanding our commitment in this area. "Green logistics" is not just an effective slogan, it is also a lived reality. Find out more about our company building, the TiComplex, our company ticket and TimoCom ecology.</p>
+                                                    <a class="btn toggleBtn pull-left" id="showText-01"><span class="nowrap"><i id="plus-01" class="icon-form-plus"></i>&nbsp;More...</span></a> <a class="btn toggleBtn hide pull-left" id="hideText-01"><span class="nowrap"><i id='minus-01' class="icon-form-minus"></i>&nbsp;Hide</span></a> </div>
+                                            </div>
+                                        </section>
+                                    </div>
+                                    <div class="row-fluid">
+                                        <div class="span12">
+                                            <section class="copy-small dpr">
+                                                <div id="textShowHide-01" class="hide" data-section="details">
+                                                    <div class="row-fluid margin-top">
+                                                        <div class="span12">
+                                                            <section class="copy-large">
+                                                                <ul class="styled blue copy-large margin-fluid-bottom">
+                                                                    <li><a title="TiComplex" href="#TiComplex" data-slideto="TiComplex">TiComplex</a></li>
+                                                                    <li><a title="Company ticket" href="#Firmenticket" data-slideto="Firmenticket">Company ticket</a></li>
+                                                                    <li><a title="TimoCom ecology" href="#Ecology" data-slideto="Ecology">TimoCom ecology</li>
+                                                                </ul>
+                                                                <h3 class="margin-top"><a name="TiComplex"></a>TiComplex</h3>
+                                                                <div class="row-fluid">
+                                                                    <div class="span5"> <img class="img-responsive" src="/STATIC/binary/900000/images/global/commitment/TimoCom-TiComplex.jpg" alt="With the geothermal installation in the TiComplex company building, TimoCom is using renewable energy. The system heats and cools the building." title="The core of TimoCom's company building is geothermal"> </div>
+                                                                    <div class="span7">
+                                                                        <p> In October 2014, TimoCom moved into the newly constructed 5-story "TiComplex", as of then, the new company building. With a modern geothermal system we, as IT service provider, show our flair for technical innovations. The system draws heat from 93 geothermal boreholes 42 to 160 metres deep for the building, whilst during the warm months the water from the ground is used to cool the offices' temperature. The ventilation system, as another component of the geothermal system, is also supplied with warm water in winter and cold water in summer, were as, in the office there is a constant room temperature between 19 and 23 degrees Celsius.  The floor in all rooms is also a heating and cooling unit. </p>
+                                                                    </div>
+                                                                </div>
+                                                                <h3 class="margin-top"><a name="Firmenticket"></a>Company ticket</h3>
+                                                                <div class="row-fluid">
+                                                                    <div class="span5"> <img class="img-responsive" src="/STATIC/binary/900000/images/global/commitment/TimoCom-Environment-Firmenticket.png" alt="TimoCom employees come environmentally-friendly to work with the public transport company ticket" title="TimoCom spares the environment with the company ticket"> </div>
+                                                                    <div class="span7">
+                                                                        <p> Located directly near the motorway A3 and A46, the traffic connection to get to TimoCom is great. The logistics to make it possible for 333 employees to travel through the small city of Erkrath is achieved by offering a company ticket. Car traffic as well as emissions can thus be reduced in the city. At the same time we, as Europe's largest transport platform, support regional public transport. </p>
+                                                                    </div>
+                                                                </div>
+                                                                <h3 class="margin-top"><a name="Ecology"></a>TimoCom ecology</h3>
+                                                                <div class="row-fluid">
+                                                                    <div class="span5"> <img class="img-responsive" src="/STATIC/binary/900000/images/global/commitment/TimoCom-Environment-Ecology.png" alt="The TimoCom ecology has an effect on day-to-day office life, e.g. correspondence is sent CO2-neutral and FSC certified paper is used." title="TimoCom uses environmentally friendly resources"> </div>
+                                                                    <div class="span7">
+                                                                        <p> Environmental protection is very important to TimoCom. In addition to the energy efficient TiComplex building, sustainability and saving resources are at the top of the priorities list in day-to-day work. The following measures are implemented:</p>
+                                                                        <ul class="styled blue copy-large margin-fluid-bottom">
+                                                                            <li>Energy requirements are 100% covered through renewable sources </li>
+                                                                            <li>Correspondence is sent CO2-neutral across Europe using the German post's <a class="cboxElement" title="TimoCom– GoGreen, correspondence is sent CO2-neutral across Europe using the German post's GoGreen" href="/STATIC/binary/900000/images/de/Umwelt-&amp;-TimoCom-europaweiter-CO2-neutraler-Postversand-durch-Deutsche-Post-GoGreen.jpg" data-rel="colorbox[TimoCom GoGreen]">GoGreen</a></li>
+                                                                            <li>Use of FSC certified paper exclusively</li>
+                                                                            <li>Awarded the "Green we can" seal for the TimoCom transport platform with which customers' vehicle capacity utilisation is optimised and thus CO2 emissions are reduced</li>
+                                                                        </ul>
+                                                                    </div>
+                                                                </div>
+                                                            </section>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </section>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="module articleBody">
+                        <section class="margin-bottom-large">
+                            <div class="well well-white well-header well-framed margin-top">
+                                <header>
+                                    <h2>Society</h2>
+                                </header>
+                            </div>
+                            <div class="well well-white well-footer well-framed">
+                                <div class="row-fluid" data-article="introSociety">
+                                    <div class="span5">
+                                        <aside> <img class="img-responsive margin-bottom" src="/STATIC/binary/900000/images/de/TimoCom-Engagement-Verantwortung-f-Gesellschaft.jpg" alt="TimoCom successfully supports society. The focus is set on associations, education, traffic awareness and well-being @ work" title="TimoCom is committed to the internal and external society"></aside>
+                                    </div>
+                                    <div class="span7">
+                                        <section class="copy-large">
+                                            <div class="row-fluid">
+                                                <div class="span12">
+                                                    <p>As a socially responsible company, TimoCom dedicates itself to social issues.  This takes place in cooperation with external agents by supporting non-profit associations, traffic safety education and youth development training. Well-being @ work is also achieved through healthy workplaces, health campaigns for employees and joint recreational activities.</p>
+                                                    <a class="btn toggleBtn pull-left" id="showText2"><span class="nowrap"><i id="plus2" class="icon-form-plus"></i>&nbsp;More...</span></a> <a class="btn toggleBtn hide pull-left" id="hideText2"><span class="nowrap"><i id='minus2' class="icon-form-minus"></i>&nbsp;Hide</span></a> </div>
+                                            </div>
+                                        </section>
+                                    </div>
+                                    <div class="row-fluid">
+                                        <div class="span12">
+                                            <section class="copy-small dpr">
+                                                <div id="textShowHide2" class="hide" data-section="details">
+                                                    <div class="row-fluid margin-top">
+                                                        <div class="span12">
+                                                            <section class="copy-large">
+                                                                <ul class="styled blue copy-large margin-fluid-bottom">
+                                                                    <li><a title="Public benefit &amp; education" href="#social" data-slideto="social">Public benefit &amp; education</a></li>
+                                                                    <li><a title="Well-being @ TimoCom" href="#well-being" data-slideto="well-being">Well-being @ TimoCom</a></li>
+                                                                </ul>
+                                                                <h3><a name="social"></a>Public benefit &amp; education</h3>
+                                                                <p> TimoCom is committed to a number of non-profit projects and associations. As Europe's largest transport platform, our main focus lies on actions for logistics, but we also like to support regional matters and matters not necessarily related to logistics. </p>
+                                                                <h4 class="margin-top">Warning: Blind spot!</h4>
+                                                                <div class="row-fluid">
+                                                                    <div class="span5"> <img class="img-responsive" src="/STATIC/binary/900000/images/de/Raus-aus-dem-Toten-Winkel-Fahrradfahrer-LKW.jpg" alt="TimoCom supports training on traffic safety with a brochure and a training guide
+'Warning: Blind spot!'" title="TimoCom draws attention to the dangers of the 'blind spot'"> </div>
+                                                                    <div class="span7">
+                                                                        <p> The accident prevention initiative was implemented from 2012 until the end of 2016 by the association 'Die Transportbotschafter e.V.' (Ambassadors for transport) and drew attention to the danger of the blind spot large vehicles have. TimoCom financed the work of the association until the organisation ended its operational activity after five years.  The issue "blind spot" is, nevertheless, so important that we have decided to continue offering the documents of the Transportbotschafter to download. </p>
+                                                                        <p> Here you can download the training guide to organise a "blind spot" seminar as well as the former brochure on traffic safety actions in PDF format. </p>
+                                                                        <p> <a class="btn btn-default" title="Training guide on the initiative Warning: Blind spot!" href="/STATIC/binary/900000/pdf/de/Schulungsleitfaden-ToterWinkel.pdf" target="_blank">Download guide</a> <a class="btn btn-default" title="Warning: Blind spot!– PDF download the brochure" href="/STATIC/binary/900000/pdf/de/Achtung-Toter-Winkel-Broschuere.pdf" target="_blank">download brochure</a> </p>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="margin-top">DocStop für Europäer e.V.</h4>
+                                                                <div class="row-fluid">
+                                                                    <div class="span5"> <img class="img-responsive" src="/STATIC/binary/900000/images/de/DocStop-eine-Initiative-zur-besseren-medizinischen-Unterwegsversorgung-von-Berufskraftfahrern.jpg" alt="For many years now, TimoCom has been a partner of the driver-health-initiative 'DocStop für Europäer e.V.' " title="TimoCom is a partner of 'DocStop für Europäer e.V.'"> </div>
+                                                                    <div class="span7">
+                                                                        <p> The aim of DocStop is to provide HGV and bus drivers with better on-the-job assistance in case of illness. Already more than 700 doctors, clinics and hospitals throughout Germany participate. TimoCom also supports this cause with financial donations.  True to the motto "a healthy driver is a safe driver" the association contributes to traffic safety on all roads. This offer is highly appreciated: around 400 professional drivers use this medical service every month, which is available if required via the 24-hour hotline. No matter where the driver is, it is an average of 1.5 kilometres to the next doctor. </p>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="margin-top">füreinander e.V.</h4>
+                                                                <div class="row-fluid">
+                                                                    <div class="span5"> <img class="img-responsive" src="/STATIC/binary/900000/images/global/commitment/TimoCom-Commitment-fuereinander-eV-logo.png" alt="TimoCom and the association 'füreinander e.V.' are strongly committed to strenghten the intercultural togetherness in Erkrath." title="TimoCom supports 'füreinander e.V.'"> </div>
+                                                                    <div class="span7">
+                                                                        <p> The main focus lies on intercultural work with children and teenagers in the community centres "Mosaik" and "cube". TimoCom is a company with international employees, cultural diversity and a great local commitment. Therefore, TimoCom and the "Wirtschaftskreis Erkrath" support the effort of the association 'füreinander e.V.'. </p>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="margin-top">Aktionstag der Wirtschaft, Erkrath</h4>
+                                                                <div class="row-fluid">
+                                                                    <div class="span5"> <img class="img-responsive" src="/STATIC/binary/900000/images/global/commitment/TimoCom-Commitment-Wirtschaftskreis-Erkrath-e-V-logo.png" alt="Since 2013, TimoCom has been taking part in the 2wirtschaftskreis erkrath e.V."'s "Aktionstag der Wirtschaft" in Erkrath to support charitable projects." title="TimoCom supports 'wirtschaftskreis erkrath e.V.'"> </div>
+                                                                    <div class="span7">
+                                                                        <p> Since 2013, the 'Wirtschaftskreis Erkrath' organises once a year in September the "Aktionstag der Wirtschaft". Companies with headquarters in Erkrath, also TimoCom, release employees for a whole day to support social associations in  different projects. TimoCom's employees have been helping out with their expertise in "data protection in Facebook", "how to apply for jobs correctly" as well as handymen in community centres for teenagers as "Mosaik" and "cube" for the association 'füreinander e.V.'. </p>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="margin-top">Berufskolleg Hilden</h4>
+                                                                <div class="row-fluid">
+                                                                    <div class="span5"> <img class="img-responsive" src="/STATIC/binary/900000/images/de/Berufskolleg-Hilden-Klasse.jpg" alt="Since 2013, TimoCom cooperates with the technical college in Hilden to prepare IT interested yound professionals for their work life" title="TimoCom employees train young IT talents"> </div>
+                                                                    <div class="span7">
+                                                                        <p> Since 2013, TimoCom and Berufskolleg Hilden have a binding cooperation. Within the cooperation, students will be prepared for work life by TimoCom employees. They receive a training in the scrum method from the IT service provider, a kind of project management within software development. Beyond that, TimoCom shows future planners how to use the TimoCom transport platform to get a feeling of what work life could be and also how to use planning software. </p>
+                                                                    </div>
+                                                                </div>
+                                                                <h3 class="margin-top"><a name="well-being"></a>Well-being @ TimoCom</h3>
+                                                                <div class="row-fluid">
+                                                                    <div class="span5"> <img class="img-responsive" src="/STATIC/binary/900000/images/global/commitment/TimoCom-Well-being.jpg" alt="As a responsible employer, TimoCom ensures well-being @ work through a good work-life-balance" title="TimoCom stands for a good working atmosphare"> </div>
+                                                                    <div class="span7">
+                                                                        <p>TimoCom ensures a pleasant work atmosphere and health opportunities to its employees. </p>
+                                                                        <ul class="styled blue copy-large margin-fluid-bottom">
+                                                                            <li>Workplace: besides ergonomic working spaces with eye friendly lighting, we offer, accessible to all employees, creative rooms and meeting corners. These are available for small spontaneous meetings. Furthermore, a modern and economically friendly air conditioning creates a pleasant climate.</li>
+                                                                            <li>Break: in "Timos Esszimmer" (TimoCom's dining room), a cooking team focuses on balanced nutrition and takes care of the well-being of our employees. The sunny terrace, with roofed wicher beach chairs, water columns and greenery, also provide a nice get away from the office as well as the two leisure rooms. There you can play table football, billiard and video game console. </li>
+                                                                            <li>Health: regular health events take place in cooperation with health insurance companies. Our employees have already gone through a running analysis to find the right training shoes, they have had their backs checked, received tips and recipes for healthy smoothies and have even tried them directly in the dining room. </li>
+                                                                            <li>Leisure time: TimoCom offers a variety of team-building activities during the year, both voluntary and interdepartmental, which addresses various areas of interest. These include, e.g., joint covered wagon trips, cooking courses, bowling, museum visits, Christmas tree chopping, viewing football events. The management also invites employees to a breakfast on a regular basis to exchange information.</li>
+                                                                        </ul>
+                                                                    </div>
+                                                                </div>
+                                                            </section>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </section>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="module articleBody">
+                        <section class="margin-bottom-large">
+                            <div class="well well-white well-header well-framed margin-top">
+                                <header>
+                                    <h2>Employees</h2>
+                                </header>
+                            </div>
+                            <div class="well well-white well-footer well-framed">
+                                <div class="row-fluid" data-article="introEmpoyees">
+                                    <div class="span5">
+                                        <aside> <img class="img-responsive" src="/STATIC/binary/900000/images/global/commitment/TimoCom-Commitment-Employees.jpg" alt="Over 400 colleagues from more than 24 countries are currently working at TimoCom" title="Over 400 colleagues from more than 24 countries are currently working at TimoCom"> </aside>
+                                    </div>
+                                    <div class="span7">
+                                        <section class="copy-large">
+                                            <div class="row-fluid">
+                                                <div class="span12">
+                                                    <p>TimoCom gives great importance to a collegial working atmosphere amongst all employees.</p>
+                                                    <a class="btn toggleBtn pull-left" id="showText-03"><span class="nowrap"><i id="plus-03" class="icon-form-plus"></i>&nbsp;More...</span></a> <a class="btn toggleBtn hide pull-left" id="hideText-03"><span class="nowrap"><i id="minus-03" class="icon-form-minus"></i>&nbsp; hide text</span></a> </div>
+                                            </div>
+                                        </section>
+                                    </div>
+                                    <div class="row-fluid">
+                                        <div class="span12">
+                                            <section class="copy-small dpr">
+                                                <div id="textShowHide-03" class="hide" data-section="details">
+                                                    <div class="row-fluid margin-top">
+                                                        <div class="span12">
+                                                            <section class="copy-large">
+                                                                <p>We also offer our employees promising working conditions. These include:</p>
+                                                                <ul class="styled blue copy-large margin-fluid-bottom">
+                                                                    <li>Occupational pensions and fair social contributions</li>
+                                                                    <li>Regular health days and voluntary health checks by the company's doctor</li>
+                                                                    <li>Workshops and trainings</li>
+                                                                    <li>Managers and group leaders come up from inside the company</li>
+                                                                    <li>External events such as sport events, language courses and company parties</li>
+                                                                </ul>
+                                                                <p> Over 400 colleagues from more than 24 countries are currently working at TimoCom. We see this international scope and the associated different mentalities and experiences as a great asset to our company. </p>
+                                                                <p> In addition, we offer our young professionals a sound training. Our training concept is, in the truest sense of the word, "excellent". TimoCom received the "Certificate for Youth Development Training" from the Federal Employment Agency in the year 2009. </p>
+                                                            </section>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </section>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div></div>
+	
+	
+
+            </div>
+            
+        </section>
+        
+<section id="stagebelow">
+    <div class="separator margin-fluid-top"></div>
+    <div id="lexikon" class="container">
+        <div class="content">
+            <div class="row-fluid">
+                <div class="span12">
+                    
+		
+
+		
+			
+    
+        
+            
+            <section>
+                <header>
+                    <h3 class="margin-top padding-top-small center">
+                        <a href='/lexicon/The%20transport%20lexicon/'
+                           title='The transport lexicon' target='_self'>
+                            The transport lexicon
+                        </a>
+                        &ndash;
+                        Answers to transport topics
+                    </h3>
+                </header>
+                <div class="center">
+                    <ul>
+                        
+                            <li>
+                                <span class="nowrap"><i class="icon-chevron-right highlight"></i>&nbsp;<a href="/lexicon/The-transport-lexicon/Animal transport/1305221125112222" title="Animal transport">Animal transport</a></span>
+                            </li>
+                        
+                            <li>
+                                <span class="nowrap"><i class="icon-chevron-right highlight"></i>&nbsp;<a href="/lexicon/The-transport-lexicon/TC eMap®/802151124311838" title="TC eMap®">TC eMap®</a></span>
+                            </li>
+                        
+                            <li>
+                                <span class="nowrap"><i class="icon-chevron-right highlight"></i>&nbsp;<a href="/lexicon/The-transport-lexicon/Cargo/802151040188989" title="Cargo">Cargo</a></span>
+                            </li>
+                        
+                            <li>
+                                <span class="nowrap"><i class="icon-chevron-right highlight"></i>&nbsp;<a href="/lexicon/The-transport-lexicon/Franco/802151110544138" title="Franco">Franco</a></span>
+                            </li>
+                        
+                            <li>
+                                <span class="nowrap"><i class="icon-chevron-right highlight"></i>&nbsp;<a href="/lexicon/The-transport-lexicon/Logistics chain/802151118499900" title="Logistics chain">Logistics chain</a></span>
+                            </li>
+                        
+                    </ul>
+                </div>
+            </section>
+        
+    
+
+		
+	
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+    </main>
+        
+    
+
+    <footer>
+        <div id="siteCopy" class="footer">
+            <a class="toplink affix" href="#" data-spy="affix" data-offset-top="300">
+                to the top <i class="icon-arrow-up"></i>
+            </a>
+            <div class="container clearfix">
+                
+
+<cite class="pull-left">
+    <div class="muted">
+        &copy; TimoCom Soft- und Hardware GmbH 2018. All rights reserved <span class="divider">/</span> 
+        
+		
+
+		
+			
+    
+        
+            
+            <a class="inline-block" href="/TimoCom/Legal-notice" target="_self"  title="Find the legal notice of TimoCom Soft- und Hardware GmbH here." >Legal notice</a>
+        
+            
+                <span class="divider">/</span>
+            
+            <a class="inline-block" href="/TimoCom/Data-protection" target="_self"  title="We care about the protection of your data when visiting and using the TimoCom homepage.  Inform yourself about our regulations on data protection here." >Data protection</a>
+        
+            
+                <span class="divider">/</span>
+            
+            <a class="inline-block" href="/TimoCom/T-Cs" target="_self"  title="Read the General Terms and Conditions (GTC) for your TimoCom agreement and the rights of use here." >T&Cs</a>
+        
+    
+
+		
+	
+    </div>
+</cite>
+
+                <div class="pull-right">
+                    
+ 
+
+<div class="clearfix hidden-print">
+    <section>
+        
+        
+            
+    
+    
+    
+    
+        <a href="https://www.facebook.com/pages/TimoCom-Int-Freight-Exchange/228118853876323" target="_blank" 
+           title="TimoCom -> Facebook"
+            >
+            <div class="socialIcons facebook "><i class="icon-facebook"></i></div>
+        </a>
+            
+
+        
+        
+    
+    
+    
+    
+        <a href="https://www.youtube.com/user/TimoCom" target="_blank" 
+           title="TimoCom -> Youtube"
+            >
+            <div class="socialIcons youtube "><i class="icon-youtube"></i></div>
+        </a>
+            
+
+        
+    
+    
+    
+    
+        <a href="https://www.xing.com/company/timocom" target="_blank" 
+           title="Marktführer unter den Frachtenbörsen Europas - Xing-Gruppe"
+            >
+            <div class="socialIcons xing "><i class="icon-xing"></i></div>
+        </a>
+            
+
+        
+    
+    
+    
+    
+        <a href="https://www.linkedin.com/company/timocom-soft--und-hardware-gmbh" target="_blank" 
+           title="TimoCom -> LinkedIn"
+            >
+            <div class="socialIcons linked-in "><i class="icon-linked-in"></i></div>
+        </a>
+            
+
+        
+    
+    
+    
+    
+        <a href="https://twitter.com/TimoCom_UK" target="_blank" 
+           title="TimoCom -> Twitter-Stream"
+            >
+            <div class="socialIcons twitter "><i class="icon-twitter"></i></div>
+        </a>
+            
+
+        
+    
+    
+    
+    
+        <a href="https://plus.google.com/+TimoComTransportplattform" target="_blank" 
+           title="TimoCom Google+ Page"
+            >
+            <div class="socialIcons google-plus "><i class="icon-google-plus"></i></div>
+        </a>
+            
+
+        
+    
+    
+    
+    
+        <a href="https://instagram.com/timocom" target="_blank" 
+           title="Join us on instagram"
+            >
+            <div class="socialIcons instagram "><i class="icon-instagram"></i></div>
+        </a>
+            
+
+                 
+            
+		
+
+		
+			
+    <div data-name="icon-envelope" class="pull-left">
+        <span class="iconsitem">
+            <a href="/News/Newsletter" title="Newsletter" id="orderNewsletter" class="btn btn-default"><i class="icon-envelope-mini"></i></a>
+        </span>
+    </div>
+
+		
+	
+        
+        <span class="margin-right">&nbsp;</span>
+    </section>
+</div> 
+                </div>
+            </div>
+        </div>
+        <div id="siteNav" class="footer">
+            <div class="container">
+                <div id="siteMap" class="row-fluid">
+                    <div class="span12">
+                        <nav class="nav-main-footer">
+                            <a name="sitemap-panel"></a>
+                            
+		
+
+		
+			
+    <ul class="nav">
+        
+            <li class="dropdown">
+                
+                    <a href="/" class="brand dropdown-toggle " data-toggle="dropdown"><i class="icon-timocom"></i></a>
+                
+                <ul class="dropdown-menu hidden-phone" role="menu">
+                    
+                        
+                        
+                            
+                                <li>
+                                    <a href="/" target="_self" title="The market leader among Europe's vehicle and freight exchanges! Reasonable monthly flat rate - with no hidden costs. Up to 4-week free, non-obligatory test phase." >Welcome</a>
+                                </li>
+                            
+                        
+                    
+                </ul>
+            </li>
+        
+            <li class="dropdown">
+                
+                    <a title=""
+                        
+                            target="_self"
+                            
+                                href="/The-Freight-Exchange/Transport-exchange"
+                            
+                         
+                        id="rubLnkCurr_1706260916000000" 
+                        class="dropdown-toggle">Transport platform</a>
+                
+                <ul class="dropdown-menu hidden-phone" role="menu">
+                    
+                        
+                            <li class="nav-header">The Freight Exchange</li>
+                        
+                        
+                            
+                        
+                            
+                                <li>
+                                    <a href="/The-Freight-Exchange/Transport-exchange" target="_self" title="Reasonable monthly flat rate – with no hidden costs. Up to four week free, non-obligatory testphase. The market leader among Europe's vehicle and freight exchanges!" >Transport exchange</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/The-Freight-Exchange/Freight-offers" target="_self" title="All types of freights are offered in the freight exchange TC Truck&amp;Cargo. From a large envelope that is transported by courier to an oversize machine." >Freight offers</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/The-Freight-Exchange/Vehicle-offers" target="_self" title="Available vehicle space for all types of loads. From curtain siders to silo semi-trailers." >Vehicle offers</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/The-Freight-Exchange/Warehouse-offers" target="_self" title="Europe's largest warehousing exchange – with up to 30,000 warehousing and logistics possibilities. Find all contact details as well as warehousing type and usage in TimoCom's warehousing directory." >Warehouse offers</a>
+                                </li>
+                            
+                        
+                    
+                        
+                            <li class="nav-header">Transport tenders</li>
+                        
+                        
+                            
+                                <li>
+                                    <a href="/Tendering-system" target="_self" title="The tendering system for the contract market." >Tendering system</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/The-Tendering-Platform/Service-provider-search" target="_self" title="Reach a logistics network of over 40,000 verified companies with only one tender." >Service provider search</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/The-Tendering-Platform/Current-tenders" target="_self" title="Obtain long-term transport contracts and permanent business partners." >Current tenders</a>
+                                </li>
+                            
+                        
+                    
+                        
+                            <li class="nav-header">Transport orders</li>
+                        
+                        
+                            
+                                <li>
+                                    <a href="/Transport-platform/Quote-request" target="_self" title="TC Transport Order – Quote requests & order handling on TimoCom's transport platform" >Quote request</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Transport-platform/Order-Handling" target="_self" title="TC Transport Order – Quote requests & order handling on TimoCom's transport platform" >Order Handling</a>
+                                </li>
+                            
+                        
+                    
+                        
+                            <li class="nav-header">Tracking</li>
+                        
+                        
+                            
+                                <li>
+                                    <a href="/Tracking/Vehicle-localisation" target="_self" title="All vehicle telematics systems at a glance. Increased security in managing your fleet with GPS tracking in TimoCom Tracking." >Vehicle localisation</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Tracking/Telematics-provider" target="_self" title="Fleet management with GPS exact vehicle localisation: our partners in terms of truck tracking are renowned European telematics providers." >Telematics provider</a>
+                                </li>
+                            
+                        
+                    
+                        
+                            <li class="nav-header">Connecting customers</li>
+                        
+                        
+                            
+                                <li>
+                                    <a href="/Transport-platform/Business-directory" target="_self" title="TC Profile is your professional business card in TC Truck&amp;Cargo! Enter your most important company details and keep them up-to-date. Other TimoCom users do the same." >Business directory</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Transport-platform/Messenger" target="_self" title="Diverse communication tool integrated into Europe's largest transport platform. Simplify your personal business communication with the TimoCom Messenger" >Messenger</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Transport-platform/TimoCom-mobile" target="_self" title="With the TimoCom app you have mobile access to Europe's biggest transport platform and can find freight and offer vehicle space wherever you are." >TimoCom mobile</a>
+                                </li>
+                            
+                        
+                    
+                        
+                            <li class="nav-header">Services</li>
+                        
+                        
+                            
+                                <li>
+                                    <a href="https://updatepool.timocom.com/en/update" target="_blank" title="Update Pool. All TimoCom updates and new features down to the point." >Update Pool</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Transport-platform/References" target="_self" title="The following freight forwarding and transport companies as well as companies from manufacturing and trade successfully work with the transport platform TimoCom." >References</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Download/Customers-recruit-customers" target="_self" title="Get a €50 bonus for successfully recommending the vehicle and freight exchange TC Truck&amp;Cargo." >Customers recruit customers</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Transport-plattform/Value-for-money" target="_self" title="Up to 750,000 freight and vehicle offers, more than 127,000 users, 44 European countries." >Value for money</a>
+                                </li>
+                            
+                        
+                    
+                </ul>
+            </li>
+        
+            <li class="dropdown">
+                
+                    <a title=""
+                        
+                            target="_self"
+                             
+                                href="/Security/Security-net"
+                            
+                         
+                        id="rubLnkCurr_1003171235455618" 
+                        class="dropdown-toggle">Security</a>
+                
+                <ul class="dropdown-menu hidden-phone" role="menu">
+                    
+                        
+                        
+                            
+                                <li>
+                                    <a href="/Security/Security-net" target="_self" title="Security is a fundamental issue in a freight exchange. It is about protecting customers from 'black sheep' in the transport industry." >Security net</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Security/New-customer-verification" target="_self" title="Before TimoCom grants companies access to the freight exchange or other platforms they are verified by us – our contribution to preventing cargo theft." >New customer verification</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Security/Debt-collection-international" target="_self" title="Our legal department takes care of debt collection and claims management for transport and logistic companies.  Outstanding amounts? Contact TimoCom for assistance!" >Debt collection international</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Security/Technologies" target="_self" title="Security in freight exchange already begins prior to the goods being transported! As a freight exchange we therefore offer a high level of technical security to protect you as our customers." >Technologies</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Security/Access-software" target="_self" title="Our contribution to more security in freight exchanges and for transport tenders! You can only access TimoCom by means of a personalised login software." >Access software</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Security/Check-lists" target="_self" title="Important rules and tips for even more security in the freight exchange. Find the most important rules as to how to actively protect your company against freight theft here." >Check lists</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Security/Identity-verification" target="_self" title="The new, free of charge service TimoCom Identify assists in identifying your business partner if you have doubts." >Identity verification</a>
+                                </li>
+                            
+                        
+                    
+                </ul>
+            </li>
+        
+            <li class="dropdown">
+                
+                    <a title=""
+                        
+                            target="_self"
+                            
+                                href="/TimoCom/About-Us"
+                            
+                         
+                        id="rubLnkCurr_1710051145000006" 
+                        class="dropdown-toggle active">Company</a>
+                
+                <ul class="dropdown-menu hidden-phone" role="menu">
+                    
+                        
+                            <li class="nav-header">TimoCom</li>
+                        
+                        
+                            
+                        
+                            
+                                <li>
+                                    <a href="/TimoCom/About-Us" target="_self" title="TimoCom is an IT service provider for the European transport business Among other things we offer a market leading freight exchange and a universal tracking solution." >About Us</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/TimoCom/Partners" target="_self" title="Networking pays off: TimoCom cooperates with the following companies from the fields of transport, economy and education." >Partners</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/TimoCom/Commitment" target="_self" title="TimoCom shows social responsibility and is committed to environmental sustainability. We are convinced of the importance of corporate social responsibility." class="active">Commitment</a>
+                                </li>
+                            
+                        
+                    
+                        
+                            <li class="nav-header">Careers</li>
+                        
+                        
+                            
+                                <li>
+                                    <a href="/TimoCom/Jobs-careers" target="_self" title="Here you find job vacancies for our headquarter in Erkrath, Germany. " >Jobs & careers</a>
+                                </li>
+                            
+                        
+                    
+                        
+                            <li class="nav-header">News</li>
+                        
+                        
+                            
+                                <li>
+                                    <a href="/News/Press-information" target="_self" title="Read TimoCom's press releases and articles from newspapers, magazines as well as specialist journals. 
+" >Press information</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/News/Newsletter" target="_self" title="" >Newsletter</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/News/Media-library" target="_self" title="Searching for a suitable transport image for your article? No problem! Simply download photos, graphics or images from TimoCom free of charge." >Media library</a>
+                                </li>
+                            
+                        
+                    
+                </ul>
+            </li>
+        
+            <li class="dropdown">
+                
+                    <a title=""
+                        
+                            target="_self"
+                             
+                                href="/Contact/Info-Center"
+                            
+                         
+                        id="rubLnkCurr_711211033200663" 
+                        class="dropdown-toggle">Contact</a>
+                
+                <ul class="dropdown-menu hidden-phone" role="menu">
+                    
+                        
+                        
+                            
+                                <li>
+                                    <a href="/Contact/Info-Center" target="_self" title="Get in contact with TimoCom, e.g. by phone, fax or email. Also find the telephone number and the customer service hotline for the freight exchange here." >Info Center</a>
+                                </li>
+                            
+                        
+                    
+                </ul>
+            </li>
+        
+            <li class="dropdown">
+                
+                    <a title=""
+                        
+                            target="_self"
+                             
+                                href="/Apply-now/"
+                            
+                         
+                        id="rubLnkCurr_711211032511469" 
+                        class="dropdown-toggle">Apply now</a>
+                
+                <ul class="dropdown-menu hidden-phone" role="menu">
+                    
+                        
+                        
+                            
+                                <li>
+                                    <a href="/Apply-now/" target="_self" title="Test Europe's largest transport platform  including the freight exchange, warehousing exchange, transport tenders and tracking for up to 4 weeks for free." >Apply to test</a>
+                                </li>
+                            
+                        
+                    
+                </ul>
+            </li>
+        
+    </ul>
+
+		
+	
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    
+
+
+    
+        
+        <div class="showCookieInformation clearfix">
+            <div class="container">
+                <div class="row-fluid">
+                    <div class="span9">
+                        By using this site you agree to the use of cookies for analytics, personalised content and ads.
+                    </div>
+                    <div class="span3">
+                        <a href="/TimoCom/Data-protection">
+                            Find out more
+                        </a>
+                        <form method="post" action="/TimoCom/Commitment" class="pull-right">
+                            <button type="submit" name="hideCookieMessage" class="btn btn-large btn-link" title='Close'><i class="icon-outline-remove"></i></button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+
+    <script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+fbq('init', '249945081877893');
+fbq('track', "PageView");
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=249945081877893&ev=PageView&noscript=1"/></noscript>
+
+     
+        <script type="text/javascript"> 
+     _linkedin_data_partner_id = "152505"; 
+    (function(){var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(); 
+</script>
+<noscript><img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=152505&fmt=gif" /></noscript> 
+    
+
+    
+
+    <script src="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/js/tcgui.min.js?v=1526285106"></script>
+    <script src="/WWW/ext/js/jquery/jquery.UI.js?v=1526285106"></script>
+    <script src="/WWW/sec/themes/tcportal_tcgui/js/tcSlider2/tcSlider2.min.js?v=1526285106"></script>
+    <script src="/WWW/sec/themes/tcportal_tcgui/js/tcportal.main.min.js?v=1526285106"></script>
+
+    
+    
+    
+
+
+    
+    
+    
+
+    
+        
+            
+            <script>
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+                ga('create', 'UA-1301439-31', 'auto');
+                ga('set', 'anonymizeIp', true);
+                ga('send', 'pageview');
+
+                
+                    ga('create', 'UA-1301439-47', 'auto', 'globalTracker');
+                    ga('globalTracker.send', 'pageview');
+                
+                $('#analyticsDisabledMessage').hide();
+
+                var gaProperty = 'UA-1301439-31';
+                // Disable tracking if the opt-out cookie exists.
+                var disableStr = 'ga-disable-' + gaProperty;
+                if (document.cookie.indexOf(disableStr + '=true') > -1) {
+                    window[disableStr] = true;
+                    $('#analyticsDisabledMessage').show();
+                }
+                // Opt-out-fnc like in dataprotection
+                function gaOptout() {
+                    document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+                    window[disableStr] = true;
+                    $('#analyticsDisabledMessage').show();
+                }
+            </script>
+            
+        
+        
+            
+        
+    
+
+    
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+
+    
+    
+    
+
+    
+    
+    
+</body>
+</html>
+
+

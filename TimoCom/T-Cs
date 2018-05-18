@@ -1,0 +1,1755 @@
+
+    
+<!DOCTYPE html>
+<!--[if IE 7]> <html class="no-js lt-ie10 lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie10 lt-ie9"> <![endif]-->
+<!--[if IE 9]> <html class="no-js lt-ie10"> <![endif]-->
+<html lang="en" class="no-js">
+<head>
+    
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="author" content="TimoCom Soft- und Hardware GmbH">
+    <meta name="revisit-after" content="5 days">
+    <meta name="robots" content="index,follow">
+    <meta name="robots" content="noodp">
+    <meta name="referrer" content="origin">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="theme-color" content="#0069B4">
+    
+
+    
+    
+        
+    
+    
+		
+
+		
+			
+    <link rel="alternate" href="https://www.timocom.bg/TimoCom/Общи-Договорни-Условия" hreflang="bg" />
+
+    <link rel="alternate" href="https://www.timocom.cz/TimoCom/VOP" hreflang="cs" />
+
+    <link rel="alternate" href="https://www.timocom.dk/TimoCom/Forretningsbetingelser" hreflang="da" />
+
+    <link rel="alternate" href="https://www.timocom.de/TimoCom/AGB" hreflang="de" />
+
+    <link rel="alternate" href="https://www.timocom.gr/TimoCom/Γενικοί-Όροι" hreflang="el" />
+
+    <link rel="alternate" href="https://www.timocom.co.uk/TimoCom/T-Cs" hreflang="en" />
+
+    <link rel="alternate" href="https://www.timocom.es/TimoCom/Condiciones-generales-de-uso" hreflang="es" />
+
+    <link rel="alternate" href="https://www.timocom.fi/TimoCom/yleiset-käyttöehdot" hreflang="fi" />
+
+    <link rel="alternate" href="https://www.timocom.fr/TimoCom/CGV" hreflang="fr" />
+
+    <link rel="alternate" href="https://www.timocom.com.hr/TimoCom/Opći-uvjeti-korištenja" hreflang="hr" />
+
+    <link rel="alternate" href="https://www.timocom.hu/TimoCom/ÁSzF" hreflang="hu" />
+
+    <link rel="alternate" href="https://www.timocom.it/TimoCom/C.G.U." hreflang="it" />
+
+    <link rel="alternate" href="https://www.timocom.lt/TimoCom/Sąlygos" hreflang="lt" />
+
+    <link rel="alternate" href="https://www.timocom.lv/TimoCom/Noteikumi-un-nosacījumi" hreflang="lv" />
+
+    <link rel="alternate" href="https://mk.timocom.com/TimoCom/Општи-услови-за-употреба" hreflang="mk" />
+
+    <link rel="alternate" href="https://www.timocom.nl/TimoCom/Algemene-voorwaarden" hreflang="nl" />
+
+    <link rel="alternate" href="https://no.timocom.com/TimoCom/Forretningsbetingelser" hreflang="no" />
+
+    <link rel="alternate" href="https://www.timocom.pl/TimoCom/OWU" hreflang="pl" />
+
+    <link rel="alternate" href="https://www.timocom.pt/TimoCom/Termos-e-Condições-Gerais" hreflang="pt" />
+
+    <link rel="alternate" href="https://www.timocom.ro/TimoCom/Termeni-şi-condiţii-de-utilizare" hreflang="ro" />
+
+    <link rel="alternate" href="https://www.timocom.ru/TimoCom/Общие-условия-договора" hreflang="ru" />
+
+    <link rel="alternate" href="https://www.timocom.sk/TimoCom/VOP" hreflang="sk" />
+
+    <link rel="alternate" href="https://www.timocom.si/TimoCom/SPP" hreflang="sl" />
+
+    <link rel="alternate" href="https://www.timocom.rs/TimoCom/Uslovi-korišćenja" hreflang="sr" />
+
+    <link rel="alternate" href="https://www.timocom.se/TimoCom/Användarvillkor" hreflang="sv" />
+
+    <link rel="alternate" href="https://www.timocom.com.tr/TimoCom/Genel-işletme-şartları" hreflang="tr" />
+
+    <link rel="alternate" href="https://www.timocom.com.ua/TimoCom/Загальні-умови" hreflang="uk" />
+
+		
+	
+     
+    <link rel="stylesheet" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/css/core.min.css?v=1526285106">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/mobile-icons/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/mobile-icons/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/mobile-icons/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/mobile-icons/apple-touch-icon-57-precomposed.png">
+    <link rel="icon" sizes="72x72" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/mobile-icons/android-icon-72.png">
+    <link rel="icon" sizes="128x128" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/mobile-icons/android-icon-128.png">
+    <link rel="icon" sizes="144x144" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/mobile-icons/android-icon-144.png">
+    <link rel="icon" sizes="192x192" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/mobile-icons/android-icon-192.png">
+    <link rel="shortcut icon" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/favicon.ico">
+    <!--[if lte IE 9]>
+        <link rel="stylesheet" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/css/ie.min.css?v=1526285106">
+    <![endif]-->
+    <link rel="stylesheet" href="/WWW/sec/themes/tcportal_tcgui/css/tcportal.min.css?v=1526285106">
+    
+
+    <script src="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/js/vendor.min.js?v=1526285106"></script>
+
+    <link href="https://plus.google.com/112173973951136550729" rel="publisher">
+    <script src="/WWW/sec/themes/tcportal_tcgui/js/analytics/tcTrackEvent.min.js?v=1526285106"></script>
+
+    
+<!-- Copyright (c) 2000-2017 etracker GmbH. All rights reserved. -->
+<!-- This material may not be reproduced, displayed, modified or distributed -->
+<!-- without the express prior written permission of the copyright holder. -->
+<!-- etracker tracklet 4.1 -->
+<script type="text/javascript">
+    var et_pagename = "/TimoCom/T-Cs";
+</script>
+<script id="_etLoader" type="text/javascript" charset="UTF-8" data-secure-code="M59E9x" data-slave-codes="M59CPK" src="//static.etracker.com/code/e.js"></script>
+<!-- etracker tracklet 4.1 end -->
+
+<meta name="twitter:site" content="@TimoCom" /><link rel="canonical" href="https://www.timocom.co.uk/TimoCom/T-Cs" /><meta name="twitter:image:src" content="https://www.timocom.co.uk/WWW/sec/themes/tcportal_tcgui/img/socialMedia/fbSharingBild.jpg" /><meta name="twitter:title" content="T-Cs | TimoCom | Freight Exchange - TimoCom" /><meta property="og:title" content="T-Cs | TimoCom | Freight Exchange - TimoCom" /><meta name="twitter:card" content="summary_large_image" /><meta name="description" content="Read the General Terms and Conditions (GTC) for your TimoCom agreement and the rights of use here." /><meta property="og:image" content="https://www.timocom.co.uk/WWW/sec/themes/tcportal_tcgui/img/socialMedia/fbSharingBild.jpg" /><meta property="og:type" content="website" /><meta property="og:description" content="Read the General Terms and Conditions (GTC) for your TimoCom agreement and the rights of use here." /><title>T-Cs | TimoCom | Freight Exchange - TimoCom </title><meta name="twitter:creator" content="@TimoCom" /><meta property="og:url" content="https://www.timocom.co.uk/TimoCom/T-Cs" /><meta property="og:site_name" content="" /><meta name="twitter:description" content="Read the General Terms and Conditions (GTC) for your TimoCom agreement and the rights of use here." /></head>
+
+<body data-spy="scroll" data-target=".bs-docs-sidebar" class="scrolloff" data-who="pro02">
+    
+
+<header>
+    <div class="container visible-print">
+        <img src="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/tclogos/timocom-black.png" title="TimoCom Logo" alt="TimoCom Logo">
+    </div>
+    <div class="appheader" id="nav">
+        <div id="mainnav" class="navbar navbar-fixed-top">
+            <div class="navbar-inner">
+                <div class="container-fluid">
+                    <a data-toggle="collapse" data-target=".nav-collapse" class="btn btn-navbar">
+                        <i class="icon-show-lines"></i>
+                    </a>
+                    <a data-placement="bottom" title="TimoCom" href="/" class="brand dropdown nowrap visible-phone visible-tablet">
+                        <i title="TimoCom" class="logo-timocom-white"></i> <b class="caret hidden-phone"></b>
+                    </a>
+                    <div class="nav-collapse collapse">
+                        
+		
+
+		
+			
+
+<div class="clearfix">
+    <ul class="nav pull-left">
+        
+            
+                <li>
+                    <a data-placement="bottom" title="TimoCom" href="/" class="brand nowrap visible-desktop hidden-tablet ">
+                        <i title="TimoCom" class="logo-timocom-white"></i></a>
+                </li>
+            
+            <li class="dropdown">
+                
+                    
+                
+                <ul class="dropdown-menu" role="menu">
+                    <div class="mega-content">
+                        <div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/" target="_self" title="The market leader among Europe's vehicle and freight exchanges! Reasonable monthly flat rate - with no hidden costs. Up to 4-week free, non-obligatory test phase." >Welcome</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                        </div>
+                    </div>
+                </ul>
+            </li>
+        
+            
+            <li class="dropdown">
+                
+                    
+                        <a title=""
+                            
+                            
+                                
+                                    href="/The-Freight-Exchange/Transport-exchange"
+                                
+                            
+                            
+                            >Transport platform</a>
+                    
+                
+                <ul class="dropdown-menu" role="menu">
+                    <div class="mega-content">
+                        <div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">The Freight Exchange</li>
+                                
+                                
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/The-Freight-Exchange/Transport-exchange" target="_self" title="Reasonable monthly flat rate – with no hidden costs. Up to four week free, non-obligatory testphase. The market leader among Europe's vehicle and freight exchanges!" >Transport exchange</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/The-Freight-Exchange/Freight-offers" target="_self" title="All types of freights are offered in the freight exchange TC Truck&amp;Cargo. From a large envelope that is transported by courier to an oversize machine." >Freight offers</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/The-Freight-Exchange/Vehicle-offers" target="_self" title="Available vehicle space for all types of loads. From curtain siders to silo semi-trailers." >Vehicle offers</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/The-Freight-Exchange/Warehouse-offers" target="_self" title="Europe's largest warehousing exchange – with up to 30,000 warehousing and logistics possibilities. Find all contact details as well as warehousing type and usage in TimoCom's warehousing directory." >Warehouse offers</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">Transport tenders</li>
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/Tendering-system" target="_self" title="The tendering system for the contract market." >Tendering system</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/The-Tendering-Platform/Service-provider-search" target="_self" title="Reach a logistics network of over 40,000 verified companies with only one tender." >Service provider search</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/The-Tendering-Platform/Current-tenders" target="_self" title="Obtain long-term transport contracts and permanent business partners." >Current tenders</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">Transport orders</li>
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/Transport-platform/Quote-request" target="_self" title="TC Transport Order – Quote requests & order handling on TimoCom's transport platform" >Quote request</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Transport-platform/Order-Handling" target="_self" title="TC Transport Order – Quote requests & order handling on TimoCom's transport platform" >Order Handling</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">Tracking</li>
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/Tracking/Vehicle-localisation" target="_self" title="All vehicle telematics systems at a glance. Increased security in managing your fleet with GPS tracking in TimoCom Tracking." >Vehicle localisation</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Tracking/Telematics-provider" target="_self" title="Fleet management with GPS exact vehicle localisation: our partners in terms of truck tracking are renowned European telematics providers." >Telematics provider</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                            
+                                </div><div>
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">Connecting customers</li>
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/Transport-platform/Business-directory" target="_self" title="TC Profile is your professional business card in TC Truck&amp;Cargo! Enter your most important company details and keep them up-to-date. Other TimoCom users do the same." >Business directory</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Transport-platform/Messenger" target="_self" title="Diverse communication tool integrated into Europe's largest transport platform. Simplify your personal business communication with the TimoCom Messenger" >Messenger</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Transport-platform/TimoCom-mobile" target="_self" title="With the TimoCom app you have mobile access to Europe's biggest transport platform and can find freight and offer vehicle space wherever you are." >TimoCom mobile</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">Services</li>
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="https://updatepool.timocom.com/en/update" target="_blank" title="Update Pool. All TimoCom updates and new features down to the point." >Update Pool</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Transport-platform/References" target="_self" title="The following freight forwarding and transport companies as well as companies from manufacturing and trade successfully work with the transport platform TimoCom." >References</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Download/Customers-recruit-customers" target="_self" title="Get a €50 bonus for successfully recommending the vehicle and freight exchange TC Truck&amp;Cargo." >Customers recruit customers</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Transport-plattform/Value-for-money" target="_self" title="Up to 750,000 freight and vehicle offers, more than 127,000 users, 44 European countries." >Value for money</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                        </div>
+                    </div>
+                </ul>
+            </li>
+        
+            
+            <li class="dropdown">
+                
+                    
+                        <a title=""
+                            
+                            
+                                href="/Security/Security-net"
+                            
+                            
+                            >Security</a>
+                    
+                
+                <ul class="dropdown-menu" role="menu">
+                    <div class="mega-content">
+                        <div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/Security/Security-net" target="_self" title="Security is a fundamental issue in a freight exchange. It is about protecting customers from 'black sheep' in the transport industry." >Security net</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Security/New-customer-verification" target="_self" title="Before TimoCom grants companies access to the freight exchange or other platforms they are verified by us – our contribution to preventing cargo theft." >New customer verification</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Security/Debt-collection-international" target="_self" title="Our legal department takes care of debt collection and claims management for transport and logistic companies.  Outstanding amounts? Contact TimoCom for assistance!" >Debt collection international</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Security/Technologies" target="_self" title="Security in freight exchange already begins prior to the goods being transported! As a freight exchange we therefore offer a high level of technical security to protect you as our customers." >Technologies</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Security/Access-software" target="_self" title="Our contribution to more security in freight exchanges and for transport tenders! You can only access TimoCom by means of a personalised login software." >Access software</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Security/Check-lists" target="_self" title="Important rules and tips for even more security in the freight exchange. Find the most important rules as to how to actively protect your company against freight theft here." >Check lists</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Security/Identity-verification" target="_self" title="The new, free of charge service TimoCom Identify assists in identifying your business partner if you have doubts." >Identity verification</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                        </div>
+                    </div>
+                </ul>
+            </li>
+        
+            
+            <li class="dropdown">
+                
+                    
+                        <a title=""
+                            
+                            
+                                
+                                    href="/TimoCom/About-Us"
+                                
+                            
+                            
+                            >Company</a>
+                    
+                
+                <ul class="dropdown-menu" role="menu">
+                    <div class="mega-content">
+                        <div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">TimoCom</li>
+                                
+                                
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/TimoCom/About-Us" target="_self" title="TimoCom is an IT service provider for the European transport business Among other things we offer a market leading freight exchange and a universal tracking solution." >About Us</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/TimoCom/Partners" target="_self" title="Networking pays off: TimoCom cooperates with the following companies from the fields of transport, economy and education." >Partners</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/TimoCom/Commitment" target="_self" title="TimoCom shows social responsibility and is committed to environmental sustainability. We are convinced of the importance of corporate social responsibility." >Commitment</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">Careers</li>
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/TimoCom/Jobs-careers" target="_self" title="Here you find job vacancies for our headquarter in Erkrath, Germany. " >Jobs & careers</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">News</li>
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/News/Press-information" target="_self" title="Read TimoCom's press releases and articles from newspapers, magazines as well as specialist journals. 
+" >Press information</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/News/Newsletter" target="_self" title="" >Newsletter</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/News/Media-library" target="_self" title="Searching for a suitable transport image for your article? No problem! Simply download photos, graphics or images from TimoCom free of charge." >Media library</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                        </div>
+                    </div>
+                </ul>
+            </li>
+        
+            
+            <li class="dropdown">
+                
+                    
+                        <a title=""
+                            
+                            
+                                href="/Contact/Info-Center"
+                            
+                            
+                            >Contact</a>
+                    
+                
+                <ul class="dropdown-menu" role="menu">
+                    <div class="mega-content">
+                        <div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/Contact/Info-Center" target="_self" title="Get in contact with TimoCom, e.g. by phone, fax or email. Also find the telephone number and the customer service hotline for the freight exchange here." >Info Center</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                        </div>
+                    </div>
+                </ul>
+            </li>
+        
+            
+            <li >
+                
+                    <a class="isButton" title=""
+                    
+                    
+                        href="/Apply-now/"
+                    
+                    >Apply now</a>
+                
+                <ul class="dropdown-menu" role="menu">
+                    <div class="mega-content">
+                        <div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/Apply-now/" target="_self" title="Test Europe's largest transport platform  including the freight exchange, warehousing exchange, transport tenders and tracking for up to 4 weeks for free." >Apply to test</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                        </div>
+                    </div>
+                </ul>
+            </li>
+        
+    </ul>
+</div>
+
+		
+	
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="searchbar" class="pull-right">
+        <div class="pull-right">
+            
+		
+
+		
+			
+
+    <script>
+        $(function() {
+            $('#languageSelection').on('click', function() {
+                var gaString = 'Oeffnen der Sprachauswahl in Summe';
+                    ga('globalTracker.send','ClickToOpenChangeLanguage', 'CountrySelectBox', gaString );
+            });
+            $('#languageSelectionBox a[data-country]').on('click', function() {
+                var gaString = 'VonSprache:en NachSprache:'+ $(this).attr("data-country");
+                    ga('globalTracker.send', 'ChangeLanguageHP', 'SelectCountry', gaString);
+            });
+        });
+    </script>
+    <div data-resize="auto" class="btn-group" id="head-langsel">
+        <button class="btn dropdown-toggle" data-toggle="dropdown" title="TimoCom - Freight Exchange" id="languageSelection">
+            <span class="dropdown-label">English</span><span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" onmouseover="$('#flagSelectSpan').show()" id="languageSelectionBox">
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.bg/TimoCom/Общи-Договорни-Условия" title="TimoCom - Транспортна борса" data-country="BG">български</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.cz/TimoCom/VOP" title="TimoCom - Databanka" data-country="CZ">Čeština</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.dk/TimoCom/Forretningsbetingelser" title="TimoCom - Fragtbørsen" data-country="DK">Dansk</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.de/TimoCom/AGB" title="TimoCom - Frachtenbörse" data-country="DE">Deutsch</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.gr/TimoCom/Γενικοί-Όροι" title="TimoCom - Μεταφορικές" data-country="GR">Ελληνικά</a>
+                </li>
+            
+                <li class="active">
+                    <a target="_self" href="https://www.timocom.co.uk/TimoCom/T-Cs" title="TimoCom - Freight Exchange" data-country="GB">English</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.es/TimoCom/Condiciones-generales-de-uso" title="TimoCom - Bolsa de cargas" data-country="ES">Español</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="http://www.timocom.ee" title="TimoCom - Kaubaveo vahetus" data-country="EE">Eesti keel</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.fi/TimoCom/yleiset-käyttöehdot" title="TimoCom - Rahtipörssi" data-country="FI">Suomi</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.fr/TimoCom/CGV" title="TimoCom - Bourse de Fret" data-country="FR">Français</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.com.hr/TimoCom/Opći-uvjeti-korištenja" title="TimoCom - Burza utovara" data-country="HR">Hrvatski</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.hu/TimoCom/ÁSzF" title="TimoCom - Fuvarbörze" data-country="HU">Magyar</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.it/TimoCom/C.G.U." title="TimoCom - Borsa di Carico" data-country="IT">Italiano</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.lt/TimoCom/Sąlygos" title="TimoCom - Krovinių birža" data-country="LT">Lietuvių</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.lv/TimoCom/Noteikumi-un-nosacījumi" title="TimoCom - Transporta birža" data-country="LV">Latviešu</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://mk.timocom.com/TimoCom/Општи-услови-за-употреба" title="TimoCom - Транспортна берза" data-country="MK">Македонски</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.nl/TimoCom/Algemene-voorwaarden" title="TimoCom - Vrachtuitwisseling" data-country="NL">Nederlands</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://no.timocom.com/TimoCom/Forretningsbetingelser" title="TimoCom - Fraktbørsen" data-country="NO">Norsk</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.pl/TimoCom/OWU" title="TimoCom - Giełda Transportowa" data-country="PL">Polski</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.pt/TimoCom/Termos-e-Condições-Gerais" title="TimoCom - bolsa de cargas" data-country="PT">Português</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.ro/TimoCom/Termeni-şi-condiţii-de-utilizare" title="TimoCom - Bursa transporturilor" data-country="RO">Română</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.ru/TimoCom/Общие-условия-договора" title="TimoCom - Краткое описание" data-country="RU">Русский</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.sk/TimoCom/VOP" title="TimoCom - Databanka" data-country="SK">Slovenčina</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.si/TimoCom/SPP" title="TimoCom - Borza tovorov" data-country="SI">Slovenščina</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.rs/TimoCom/Uslovi-korišćenja" title="TimoCom - Berza utovara" data-country="RS">Srpski</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.se/TimoCom/Användarvillkor" title="TimoCom - Fraktbörsen" data-country="SE">Svenska</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.com.tr/TimoCom/Genel-işletme-şartları" title="TimoCom - Yük ve Kargo Borsası" data-country="TR">Türkçe</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.com.ua/TimoCom/Загальні-умови" title="TimoCom - транспортная биржа" data-country="UA">Українська</a>
+                </li>
+            
+        </ul>
+    </div>
+
+		
+	
+        </div>
+        
+            <div class="pull-right">
+                
+
+    <form id="search" action="/?search" method="POST" name="siteSearch">
+        <div class="input-append search">
+            <input type="text" id="searchfield" name="search" class="input-xlarge" placeholder="Search">
+            <button class="btn" name="search" type="submit" value="" title="Start search" id="btnsitesearch"><i class="icon-search"></i></button>
+        </div>
+    </form>
+
+            </div>
+        
+    </div>
+    
+    
+        <div id="breadcrumb" class="container relative">
+            <div class="row-fluid">
+                <div class="span12 hidden-phone">
+                    
+		
+
+		
+			
+    <nav id="nav-breadcrumb">
+        
+            <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="inline-block">
+                <a href="/" itemprop="url" rel="nofollow"><span itemprop="title">Welcome</span></a> &nbsp;/&nbsp;
+            </div>
+        
+            <div itemscope itemprop="child" itemtype="http://data-vocabulary.org/Breadcrumb" class="inline-block">
+                <a href="/TimoCom/Legal-notice" itemprop="url" rel="nofollow"><span itemprop="title">TimoCom</span></a> &nbsp;/&nbsp;
+            </div>
+        
+            <div itemscope itemprop="child" itemtype="http://data-vocabulary.org/Breadcrumb" class="inline-block">
+                <a href="/TimoCom/T-Cs" itemprop="url" rel="nofollow"><span itemprop="title">T&Cs</span></a> 
+            </div>
+        
+    </nav>
+
+		
+	
+                </div>
+            </div>
+        </div>
+    
+    <div id="nojs" class="hide">
+        <div class="container">
+            <div class="alert js-warning">
+                <h4>JavaScript is deactivated in your browser.</h4>
+                The range of functions of this webpage is therefore reduced. To increase the range of use and comfort, please enable JavaScript temporarily in your browser settings.
+            </div>
+        </div>
+    </div>
+    <div class="hidden-phone">
+        
+    </div>
+</header>
+
+    <main>
+        
+        <section id="stage">
+            
+                <div class="container">
+            
+            <div class="content"
+                
+                    data-umenuid="607131202244110"
+                    data-pagetag="agb"
+                >
+                
+
+    
+		<div class="contentContainer tcStage"><div class="row-fluid">
+    <div class="span8">
+        <article>
+            <div class="module mainHeader">
+                <header>
+                    <h1><small><a name="agb"></a>TimoCom - English -</small>General terms and conditions (GTC)</h1>
+                </header>
+            </div>
+            <div class="module articleBody">
+                <section><h2>1. General information</h2>
+<p>(1) The following terms and conditions shall apply exclusively to all deliveries and services from this contractual relationship. Stipulations and conditions of the user shall also be non-binding if TimoCom does not explicitly object to these. <br> (2) TimoCom reserves the right to change or supplement these terms and conditions at the end of each settlement period. TimoCom shall inform the user about the change through an explicit reference on the invoice form or on the platform. The consent to the changed terms and conditions shall be deemed granted by the user if they do not object to these immediately, but by no later than within 1 month. In the event of unconditional payment of the invoice consent is deemed granted.<br> (3) Explanations in relation to the contract, additions and amendments to the contract must be made in writing to be effective. The parties agree that when a third person is authorised to use the software, the other party grants this user permission to receive and forward declarations of TimoCom.<br> (4) If people (e.g. users) are mentioned in this contract, the designation employed (e.g. 'he') should be understood to apply to men and women, i.e. to both genders.</p>
+<h2>2. Object of contract</h2>
+<p>(1) TimoCom shall make a right of use to a user platform (licence) available to the user against a remuneration to be periodically paid. The scope of the licence shall be dependent on the individual agreement. TimoCom may enable access to this user platform (platform) for the user at its own discretion either through software to be installed, a combination of user name and password, or an interface with the existing hard- and software environment at the user’s end. This platform will be operated by means of servers connected to the internet, which can be accessed exclusively via an online connection.<br> Excepted are times, in which the servers used by TimoCom are not available owing to technical reasons or other reasons, which cannot be influenced by TimoCom or TimoCom undertakes necessary service work on the servers to retain the contractual service with which interferences may be unavoidable with the access according to the status of the technology. As far as possible, TimoCom shall limit service work and upgrades which can be planned within the time outside business hours. TimoCom shall carry out maintenance work and upgrades that can be planned on workdays in the hours before 7:30 a.m. or after 6:00 p.m. (CET/CEST) and on full days at weekends.<br> (2) If TimoCom provides the user access to the platform by means of a software program, this can be implemented at its own discretion, e.g. by online registration with user name and password or possibly as a download offer via the homepage <a href="https://www.timocom.com/">www.timocom.com</a>, via the App Store® of Apple®, Google Play™ etc. The downloading and installation of the software are not part of the service provided by TimoCom, but instead conducted independently by the user under his/her own responsibility.<br> (3) The selection, procurement and use of necessary hard- and software and remote data connections are carried out exclusively by the users and at their own risk. <br> (4) TimoCom is entitled to make changes to its products as part of the further development and optimisation of its products insofar as the essential performance features are not limited by this.<br>(5) TimoCom can send the user alerts about offers, received messages or transactions via the platform. It remains reserved for TimoCom to limit the number, display time and storage period for such messages.</p>
+<h2>3. The right of use</h2>
+<p>(1) The right of use granted with this contract shall only apply to the individually agreed number of single accesses (TimoCom Accounts) in the trade operation of the user per branch, self-employed or dependent activity, to the user platform of TimoCom and is not transferable to third parties or other branches. <br> (2) The right of use shall only apply to the input and query of trade-specific data in the normal course of business. The information provided must be true and has to be verified upon TimoCom's request. Usage of this data for the following purposes or contents is not permitted:<br> a) Unwanted messages, such as spam, mass enquiries, general advertising and general offers.<br> b) Illegal purposes, wrong information, deception or misleading.<br> c) Violation of rights, such as personal rights, intellectual property or third parties' private spheres.<br> d) Set-up of data collections, especially those that allow a profile of another user to be created.<br> e) Entry of program code that influences the functionality of a terminal device or this software.<br> f) Contents that, for example, impede, harass or damage TimoCom or third parties, such as calls for a boycott, chain letters, stalking, threats, insults, defamation, discrimination, hate statements, harm to business, remarks of a sexual nature, presentation of brutality, violence or nudity.<br> g) Contents that violate applicable law or offend against public morals or which the user is not authorised to transmit. <br> (3) The data made available by the platform may be extracted exclusively through the existing export or print function. An automated use of the software requires written consent from TimoCom. An automation of the use of the platform, be it through an interface, external software, scripts or other tools that differ from the standard of the common browsers, such as Chrome™, Firefox® or Internet Explorer, requires the written consent of TimoCom.<br>All offers of TimoCom that grant use to unlimited extent at a fixed price are subject to the fair use principle. Through this principle, TimoCom intends to preserve a fair and high-quality user experience for all users. TimoCom therefore reserves the right to take suitable measures to restrict a user’s right to use if the user utilises TimoCom’s resources through his/her personal behaviour in the use so that the just distribution of the available server capacities, bandwidth or memory space are affected negatively to not only insignificant extent. Such restrictions can be applied, e.g. by limiting the number of queries or transactions per minute in reference to an account or by limiting the memory space, etc.<br> (4) TimoCom reserves the right to interrupt the connection of a user to the user platform and to delete data if this avoids or ends a violation of law or good customs. The same applies if the existence of the software, an application or the user platform from TimoCom is endangered by the user from a technical point of view.<br> (5) If the user does not comply with a contractual obligation, in particular the obligation according to subclause 3 (1) or (2), 4 (1) or (5) or subclause 7 (2) or (3), or if he is in default with remedying any other breach of contract after having been warned, then TimoCom is indemnified from its service obligation (“blocking“) but does retain the entitlement to consideration.<br> (6) In any case of culpable breach of contract of subclause 3 (1) or (2), or subclause 5 (2), (4) or (5) the user must pay a contractual penalty consisting of the agreed fee for twelve months. Providing evidence of a lesser damage is subject to the user.</p>
+<h2>3a. The right of use of <span class="nowrap">TC Profile®</span></h2>
+<p>(1) Insofar as agreed, the platform grants the user access to the <span class="nowrap">TC Profile®</span> database. By means of this database the user can call up and view existing company data from third parties. <br> (2) The users of a <span class="nowrap">TC&nbsp;Truck&amp;Cargo®</span> licence can also enter their company data in the database for third parties to view and refer to. The users receive access to the extended company data of third parties after creating their own extended company data.<br> (3) The database is offered for use to the customary extent during the normal course of business. Copying either the entire database or essential parts of it is forbidden under copyright law.<br> (4) The information is to be kept up-to-date. Should it come to TimoCom's knowledge that the information provided by the user is incomplete or incorrect, TimoCom can notify the user about this error. If the user fails to complete or correct the information within the next 7 days upon receipt of the notification from TimoCom, TimoCom is authorised by the user, but not obliged, to correct or complete the information in the user's name and liability according the official information of the company or trade register.<br> (5) Should subclauses (3) and (4) be breached TimoCom reserves the right to block the user’s data as well as the user’s access to the database.<br> (6) The contractual relationship shall begin with the written acceptance or with the signing of the licence agreement; the contract can be terminated with notice by both parties without stating any reasons by giving 14 days notice to the end of the calendar month. The term of the contract is 1 month and is extended by 1 month if the contract is not terminated with notice by either party.</p>
+<h2>3b. The right of use <span class="nowrap">TC&nbsp;Truck&amp;Cargo®</span></h2>
+<p>(1) Insofar as agreed, the platform enables the user to enter vehicle capacities and freight offers, as well as to search the offered vehicle capacities and cargo for international road transports using the application <span class="nowrap">TC&nbsp;Truck&amp;Cargo®</span>.<br> In addition, the platform allows the user to offer and inspect warehousing capacities.<br> (2) Outdated data are to be deleted immediately. The input must be completed, in simple writing without additional blanks or other characters which are solely suitable for emphasis and with the correct details in the designated input fields. TimoCom reserves the right to automatically delete data inputs which do not meet these criteria or the stipulations from subclause 3 para.2. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> (3) The contractual relationship shall begin with the written acceptance or with the signing of the licence agreement; the contract can be terminated with notice by both parties without stating any reasons by giving 14 days notice to the end of the calendar month. The term of the contract is 1 month and is extended by 1 month if the contract is not terminated with notice by either party.</p>
+<h2>3c. The right of use <span class="nowrap">TC eMap®</span></h2>
+<p>(1) <span class="nowrap">TC eMap®</span> makes it possible, to the extent agreed to transfer data for map display and route calculation online to the user. All map displays - just like all conventional maps – are subject to continuous change and never fully reflect current reality. TimoCom is therefore not responsible for assuring the accuracy of map displays and of other data. The service obligations of TimoCom are restricted to the provision, processing and displaying of data on behalf of the user. <br> (2) The data and information portrayed in <span class="nowrap">TC eMap®</span> are sourced from third parties. TimoCom therefore reserves the right to withdraw from the contract in the event of incorrect or late self-delivery, unless the user is able to prove that TimoCom was to blame.<br> (3) TC eMap® can, when searching, prioritise targets based on the location or postal code entered. That means that search results featuring different place names and multiple designations are possible. TimoCom is not responsible for the program automatically and correctly selecting the desired destination. Nor does TimoCom provide any assurance for the accuracy or completeness of related data, e.g. postal codes, street name details or other supplementary information. Maps are subject to continuous change in accordance with state-of-the-art technology. No guarantee is provided for details on the maps nor for their freedom from errors or their other properties. <br> (4) Map material and other related data (satellite images, toll information, traffic restrictions, POIs, etc.) are sourced from licensors. The maps, related data, and functionalities are copyright-protected and are the exclusive property of TimoCom and/or its licensors and partners, and are protected by international contracts and other national legislation in the country in which they are being used. TimoCom assures the user a non-transferable, non-exclusive sub-licence to use maps of the kind used in TimoCom products, solely for internal (in-house) use by the user. The user is not permitted to copy, dismantle, extract or change these maps, or to produce derivative products from them. The user is not permitted to extract the source code, source files or the overall structure of these maps either partially or in whole, or to attempt to do so, this prohibition being applicable to reconstruction, destruction, decompiling or in other ways. The user must not use these products to operate a service provision company nor for other purposes that include the processing of maps by other persons or entities. The user shall not receive any ownership rights, all of which remain in the possession of the licensors in their entirety. References to copyright, source details or an ownership provision must not be changed, concealed or removed.<br> (5) If third-party suppliers increase the prices to TimoCom that were in force when the contract was concluded, TimoCom reserves the right to increase the prices relating to chargeable licences to users accordingly. The price increase enters into force 2 weeks before the first of the month following receipt of the declaration. If the price increase for the use of <span class="nowrap">TC eMap®</span> by TimoCom increases by more than 10% within a calendar year, the user is entitled to exercise an extraordinary right of termination within 2 weeks of being notified of this price increase.<br> (6) TimoCom reserves the right, which it can exercise at its own discretion, to modify, extend, delete and re-categorise the map displays and data elements at any time, including the capabilities and specifications for map displays and map-related additional functions. TimoCom is not obliged to deliver or perform maintenance work, troubleshooting, corrections (patches), updates or improvements (upgrades).<br> (7) In addition, these end user conditions apply (<a title="HERE SERVICE TERMS" href="https://legal.here.com/terms/serviceterms/gb" target="_blank">HERE SERVICE TERMS</a>)<br> (8) The contractual relationship in respect of chargeable licences commences on the date of written acceptance or of signing of the licence contract, and can be terminated by either party without the need to provide reasons by serving 14 days notice to the end of a calendar month. The term of the contract is 1 month and is extended by 1 month if the contract is not terminated with orderly notice by either party.</p>
+<h2>3d.&nbsp;The right to use the telematics function</h2>
+<p>(1) The platform provides the user, subject to agreement, access to the telematics function with which the user can transfer available satellite-based data from his own vehicles, e.g. location details provided by the Global Positioning System (GPS) from local navigation devices or sensor data of other vehicle systems to TimoCom's platform (upload) and to use these via the platform in an unlimited manner and to show these details to other users of the platform (viewers) in the context of a time-limited approval. In the same way, the platform enables the viewer to display data from telematics systems in the vehicles of other users, once these have granted permission for the relevant level of access. A necessary component for the display of this data is a provider contract with a telematics provider for the upload and a license for the TC eMap® application or a comparable, suitable display tool for the map graphics that is supported by the TimoCom interface (GPS Share). <br> (2) In cases where a user has agreed for a viewer to display these data on the telematics system in his vehicle, the user undertakes to assure the provision of this data throughout the agreed period of time continuously and in accordance with state-of-the-art technology. The user is directly responsible for the correct and timely transmission of data to TimoCom.<br> (3) The use and processing of data from telematics systems in third-party vehicles that are not rented or leased on a continuous basis by the user is prohibited, unless approval has been granted between 2 users of the software in the context of the approval procedure described in the preceding paragraph 1. In particular, no user is permitted to upload data from the telematics systems of sub-contractors, and/or parties engaged full-time on behalf of the user. In the event of a violation of this paragraph, TimoCom is authorised to block the provision of data to any affected telematics system.<br> (4) The user is responsible for ensuring that the functionality is used in accordance with applicable data protection legislation. The user undertakes, when sourcing, processing and using data by means of the functionality to comply with all relevant data protection requirements in accordance with applicable legislation. In particular, telematics data must only be used for coordination of operations of detected vehicles and/or telematics systems in accordance with the purposes defined for this kind of service. It is not permissible to designate the enabled telematics systems in the context of this service provision with the actual names of real people (e.g. the name of the driver). <br> (5) The user agrees that TimoCom may capture, process and use data processed by means of the platform (especially positioning data). The user can at any time, and with effect on the future, revoke his consent to the capture, processing, storage and usage of the telematics data processed by the functionality. Revoking consent in this way does not affect the existence of the contract nor the user's obligation to make payment. The user recognises that TimoCom, as a consequence of such revocation, may possibly no longer be in a position to further facilitate use of the telematics functionality of this system. a) The user informs all persons equipped with a telematics system before they start using it of the consent granted to TimoCom to process data, the nature of that processed data, the purpose, the duration of that processing consent, the companies involved in data processing and the scope for terminating data transmission. b) To the extent that legislation applicable to the user obliges him to obtain the consent of all persons equipped with a telematics system, the user shall ensure that all required consents or legally permissible alternatives (e.g. company agreements) are available in written form. The user is obliged to store all requisite supporting evidence for a period of two years after the end of the contract term and hand over the original documents to TimoCom on demand. <br> (6) The user is responsible for ensuring that the functionality is used in accordance with applicable data protection legislation. The viewer undertakes, when capturing, processing and using data by means of this software to comply with all relevant data protection stipulations in accordance with applicable legislation. In particular, telematics data must only be used for coordination of operations of detected vehicles and/or telematics systems in accordance with the purposes defined for this kind of service. No other form of usage of this data other than this defined purpose is permitted. <br> (7) In the event of the viewer, and/or the user, infringing terms of that applicable data protection legislation, in particular against the preceding paragraphs 4, 5 and/or 6, TimoCom is entitled to terminate the contract with the viewer and/or the user with immediate effect. The viewer and/or the user shall indemnify and hold harmless TimoCom from all claims arising from or in conjunction with any failure to observe the requirements of data protection legislation, in particular in respect of the preceding paragraphs 4, 5 and/or 6, resulting from the actions of the viewer and/or the user. <br> (8) The chargeable contractual relationship commences with written acceptance or with the signing of the licence agreement by TimoCom, and can be terminated by either party without the need to provide reasons by serving 14 days notice to the end of a calendar month. The term of the contract is 1 month and is extended by 1 month if the contract is not terminated with orderly notice by either party.</p>
+<h2>3e. The right of use <span class="nowrap">TC&nbsp;eBid®</span></h2>
+<p>(1) Insofar as agreed, the platform grants the user access to the application TC&nbsp;eBid®, with which they can issue invitations to tender fixed contracts from the field of transport and logistics to a target group (tendering company) which is to be selected by them or can submit offers for a bid invitation (bidder). The application enables the user to describe tenders, collect, process and transmit offers in preparation of the conclusion of a contract in their own responsibility.<br> (2) The right of use for the tendering company shall begin with receipt of payment for the first invoice from TimoCom or by TimoCom granting access to the application. <br> (3)&nbsp;A tender invitation is not a binding offer, but a request to submit bids and it does not establish an obligation to conclude a contract. The party inviting tenders takes notice that a price quote respectively refers exclusively to the service subject of its tender invitation. An effective contract can only be established upon identical declarations of intend by the cargo service provider and the bidder.<br> (4) The bidders are bound to their submitted offer for 1 month after the term of the invitation to tender.<br> (5) TimoCom reserves the right to examine offers to tender for a maximum of 2 full working days from the date of entry, as well as offers from bidders for the legal validity, completeness and conclusiveness. An offer shall be seen as unlawful if it violates the law or any official bans, property rights of third parties or good morals. An offer shall be deemed incomplete if essential contractual parts or necessary information, concerning necessary permits or licences for the execution, are missing. An offer shall be deemed inconclusive if it has a prevailing advertising nature or it only concerns a single transport.<br> (6) If TimoCom determines, retrospectively or otherwise, that the tendering company or the bidder did not comply with para. 5, they are entitled to delete, stop or not even publish the offer in the application, but retain the claim for consideration. <br> (7) TimoCom reserves the right to only publish offers from a company issuing an invitation to tender in the application, which has at least an average credit rating from a well-known credit agency and for which no circumstances are known which concretely endanger the financial processing of the offers. An average credit rating corresponds with an index of more than 300 from Creditreform in Germany, a “B” from Euler Hermes Kreditversicherungs-AG or an “R” from Coface AG in Europe. If the credit rating of the company issuing the invitation to tender falls below this value or its equivalent during the term of the offer or if TimoCom becomes aware of circumstances which concretely endanger the subsequent payment of the tendered offers TimoCom can either end the offer as soon as they know of the deteriorated rating or suspend it until the limited credit rating has been cleared.<br> (8) TimoCom is entitled to transmit offers for a bid invitation or to evaluate a bid invitation step-by-step against the compensation of the claim existing for this bid invitation of TimoCom.<br> (9) TimoCom reserves a special area for technical questions concerning a concrete bid invitation by potential bidders. TimoCom reserves the right to extend the deadline for tender by the period of time by which the period for answering is extended over the period of 1 working day. TimoCom also reserves the right to delete such entries which impair use for other users in which they for example <br> - do not serve the clarification of technical questions concerning the concrete bid invitation, <br> - are of an advertising nature or<br> - can discredit other participants.<br> (10) The user is exclusively responsible for all their details and offers within the framework of a bid invitation which TimoCom publishes or forwards via the application. TimoCom shall not assume any warranty for these details or fulfilment of the contracts or non-disclosure agreements which are concluded thereby and shall not become the contractual partner itself. TimoCom shall not assume any warranty for details and efficiency of the bidders, in particular if these were invited at the tendering company’s request.<br> (11) TimoCom reserves the right to delete offers or not to forward offers from bidders, in case facts become known which could concretely endanger the efficiency of the bidder or legally or officially forbid carrying out the tendered service itself. TimoCom may also delete or disregard forwarding such offers of bidders who do not act in their own name and of their own account.<br> (12) The contractual relationship shall begin with the written acceptance or with the signing of the licence agreement; the contract can be terminated with notice by both parties without stating any reasons by giving 14 days notice to the end of the calendar month. The term of the contract is 1 month and is extended by 1 month if the contract is not terminated with notice by either party. Alternatively the contractual relationship can be founded upon an individual agreement and then ends automatically on conclusion of the bid period without requiring any formal kind of termination. The right of use of the bidder, who was invited to a bid invitation by the tendering company, shall end with the deadline for bid invitation with this requiring a separate termination otherwise with the right of use from the existing licence agreement. <br> (13) TimoCom is entitled to increase the fee for use with an increase in the consumer price index determined by the EU Commission for the EU (HVPI) according to the EU regulations No. 1921/2001, Basis 2005 = 100 points (http://epp.eurostat.ec.europa.eu) compared with the index which existed upon conclusion of the contract, to the same (converted as a percentage) ratio without this requiring a separate declaration concerning the price change by TimoCom. The change, which is reported by the EU Commission for the month of October, is decisive. The change shall become effective as of 1 January of the following year. With a reduction in the consumer price index the fee for use shall be automatically reduced to the same (converted as a percentage) ratio effective as of 1 January of the following year. The respective price shall apply as a fixed price for 1 calendar year. The regulation is applicable annually.</p>
+<h2>3f. The right of use warehousing exchange</h2>
+<p>(1)&nbsp;The platform allows the user - to the extent agreed - to offer warehousing capacities and view the warehousing capacities offered. The publication of the offers can take place via the platform, as well as via the publicly accessible TimoCom homepage and via <a href="http://www.portatio.com" target="_self">www.portatio.com</a>.<br> (2) Obsolete data must be deleted with immediate effect. Data input must be complete, in simple script without additional spaces or other symbols used to denote emphasis and must include accurate details in all the input boxes provided. TimoCom reserves the right to delete all data input that fails to comply with these criteria, and/or with the specifications outlined in Clause 3 Para. 2 automatically . <br> (3) The contractual relationship begins with written acceptance or with the signing of the licence agreement and can be terminated without the need to give reasons by either party by serving 14 days of orderly notice to the end of a calendar month. The term of the contract is 1 month and is extended by 1 month if the contract is not terminated with orderly notice by either party.</p>
+<h2>3g. The right to use the messaging function</h2>
+<p>(1) The messaging functionality allows the user, to the extent agreed, to send messages within the user platform to another user registered for the function.<br> (2) The messaging functionality is not a substitute for general public communication media and is particularly not suitable for sending emergency calls or similar alarms to the competent institutions or authorities.<br> (3) A requirement for use is to set up and maintain a user profile. On setting up the messaging functionality, the user can be indicated on the user platform as ready to receive messages. The respective registered user is solely responsible for the content of the messages sent. Messages sent from users do not represent TimoCom's opinions, nor does TimoCom agree to these or make them its own.<em><br> </em>(4) In setting up and using the messaging functionality, TimoCom collects, stores and processes the user's personal and technical data, messages, and the information that a user makes accessible to third persons in his/her profile. This data is used by TimoCom for the following purposes:</p>
+<ul class="disc">
+<li>Verification of the user's identity</li>
+<li>Provision and maintenance of the agreed service</li>
+<li>Ensuring compliance with these conditions of use</li>
+<li>Performance of the transactions initiated by the user</li>
+<li>Fulfilment of legal obligations or enforceable official or judicial requirements</li>
+</ul>
+<p>(5) TimoCom does not guarantee that a message reaches its destination. Likewise, it is not guaranteed that the person stated as the sender or recipient of a message actually corresponds with the person sending or receiving it.<br> (6) TimoCom reserves the right, but is not obliged to check a user's messages in compliance with telecommunications secrecy and in case of an infringement of Item 3 (2) of these provisions to block such messages or to deny the user's data or the user's access to the messaging functionality.<br> (7) By using the messaging functionality, the user agrees that a message sent via the messaging functionality may be stored on a server by TimoCom in compliance with telecommunications secrecy for a period of at least 3 months for transmission to the user selected and this enables them to view the message. TimoCom shall keep the message on the server for the user until the message is deleted on the request of all the users participating in a communication or the period of at least 3 months since the creation and transmission of the message has expired, unless otherwise legally, judicially or officially required, permitted or enforceably ordered. On expiry of the minimum storage period, the user must expect the message to be deleted without further announcement.<br> (8) Compliance with any obligation to retain records concerning messages is the sole responsibility of the user. A print function is available to the user for this purpose to enable separate retention.<br> (9) The user is responsible for ensuring that the messaging functionality is used in accordance with applicable data protection legislation. The user undertakes, when sourcing, processing and using data with messaging functionality to comply with all relevant data protection requirements in accordance with applicable legislation. No other form of usage of this data other than this defined purpose is permitted. The user indemnifies TimoCom against all claims resulting from or in conjunction with any failure to comply with stipulations relating to data protection legislation.<br> (10) The user can at any time, and with effect on the future, revoke his consent to the capture, processing, storage and usage of data processed by the messaging functionality. Revoking consent in this way does not affect the existence of the contract nor the user's obligation to make payment. The user recognises that TimoCom, as a consequence of such revocation, may possibly no longer be in a position to further facilitate the use of the messaging functionality.<br> (11)&nbsp;The chargeable contractual relationship commences with written acceptance or with the signing of the licence agreement by TimoCom, and can be terminated by either party without the need to provide reasons by serving 14 days notice to the end of a calendar month. The term of the contract is 1 month and is extended by 1 month if the contract is not terminated with orderly notice by either party</p>
+<h2>3h. The right to use TC Connect</h2>
+<p>(1) Insofar as agreed, <span class="nowrap">TC Connect</span> enables the user to establish a connection between a transport management system software available at the user’s end (hereinafter: TMS) and the platform. In this respect, <span class="nowrap">TC Connect</span> fulfils the function of an interface by means of which data can be transferred between the user’s TMS and the platform.<br> (2) A graphic user interface is not included. To display the contents of the platform, it may be required to agree further licences.<br> (3) The connection of the user’s existing TMS to this interface, and thereby to the platform will be implemented by the user in his/her own responsibility. TimoCom can support the user for this purpose by providing a technical product description of the interface. The technical product description is not a part of this contract. It is not guaranteed that the technical product description is useful without previous technical know-how about interfaces.<br> (4) The contractual relationship begins with written acceptance or with the signing of the licence agreement and can be terminated with notice without stating any reasons by both parties with 14 days notice to the end of the calendar month. The term of the contract is 1 month and is extended by 1 month if the contract is not terminated with orderly notice by either party.</p>
+<h2>3i. The right of use for the "document management service"</h2>
+<p>(1) Insofar as agreed, the platform grants the user access to the "document management service" (DMS), which he/she can use to upload his/her own documents to the TimoCom platform and enable other platform users to view them. TimoCom reserves the right to restrict the service with regard to the format, volume and number of documents.<br>(2) The documents uploaded by the user will be stored in the EU in encrypted format. Data retrieval occurs via a download by the authorised user, whereby the rights to this retrieval remain with the user who uploaded the data. The user uploading the document consents to TimoCom capturing, processing and using the data generated by the DMS.<br>(3) he DMS technologies and functionalities are copyright protected and the exclusive property of TimoCom and its licensors. They are furthermore protected by international agreements and other national legislation in the country in which they are used.<br>(4) TimoCom shall be exempt from providing the user with the service if the memory cannot be accessed as a result of circumstances caused by the third-party licensor or not attributable to TimoCom for periods of non-availability that extend beyond those established in point 2 (1) of these General Terms and Conditions. The user shall be immediately informed of any such downtime and exempted from payment during such periods.<br>(5) The user shall bear sole responsibility for the use of his/her DMS login and shall refrain from all misuse and attempts to gain unauthorised access to information him/herself or by means of a third party, as well as from interfering with the platform systems. In such cases, the user shall bear all incurred costs, including any expense that arises for TimoCom as a result of inspecting the facilities and/or any costs attributable to faults and defects for which the user is responsible. The user must immediately notify TimoCom about any possibilities for unauthorised third parties to access the products or any known or suspected data breaches. The user must furthermore conduct all other pertinent collaborative acts immediately and at no cost to TimoCom, especially if instructed to do so by TimoCom and the cost of the necessary measures is within reason.<br>(6) Prior to uploading the documents, the user must check them for harmful content, in particular using up-to-date virus protection programs to check for malicious software. <br>(7) The user is entitled to revoke the consent granted to TimoCom for the capture, processing, storage and usage of the data processed by the DMS at any time and with retroactive effect. Such revocation shall not affect the existence of the contract or the user's payment obligations. The user recognises that, as a consequence of such revocation, TimoCom may no longer be in a position to further facilitate the use of the DMS.<br>(8) The user is responsible for handling the documents in line with data protection requirements and undertakes to comply with all relevant data protection provisions established by applicable laws.<br>(9) In the event of an infringement of data protection regulations, in particular against the preceding paragraph (8), TimoCom shall be entitled to terminate the contract with immediate effect. The user indemnifies TimoCom against all claims resulting from or in conjunction with any failure to comply with data protection, contractual or other legal provisions. <br>(10) The DMS is not a substitute for an electronic data archive. In particular, TimoCom does not store the documents in an auditable manner for an unlimited period. The user shall bear sole responsibility for compliance with any retention obligations concerning messages. On expiry of the right of use, the user must expect the documents that he/she has uploaded to be deleted without further announcement.<br>(11) The contractual relationship begins upon written acceptance or the signature of the licence agreement and can be routinely terminated by either party, without citing reasons, under provision of 14 days’ notice to the end of a calendar month. The term of the contract is 1 month and is extended by 1 month if not routinely terminated by either party.</p>
+<h2>3j. The right of use “GPS Share”</h2>
+<p>(1) If agreed, the “GPS Share” feature enables the user to establish a connection between a software and the platform at the user’s end. In this respect, the “GPS Share” feature fulfils the function of an interface by means of which data can be transferred between the software and the platform. The data protection provisions regarding the telematics functionality for TC eMap® (paras. 3-7) apply accordingly with regard to the telematics data.<br> (2) A graphic user interface is not included. To display the contents of the platform, it may be required to agree further licences.<br> (3) The connection of the user’s existing software to this interface, and thereby to the platform will be implemented by the user in his/her own responsibility. TimoCom can support the user for this purpose by providing a technical product description of the interface. The technical product description is not a part of this contract. It is not guaranteed that the technical product description is useful without previous technical know-how about interfaces.<br> (4) The contractual relationship begins with written acceptance or with the signing of the licence agreement and can be terminated with notice without stating any reasons by both parties with 14 days notice to the end of the calendar month. The term of the contract is 1 month and is extended by 1 month if the contract is not terminated with orderly notice by either party</p>
+<h2>3k.&nbsp;Rights of use TC Transport Order®</h2>
+<p>(1) If agreed, the platform enables the user to upload, edit, transmit and display declarations and documents with the "TC Transport Order®" application for the documentation and support of concluding a transport contract with another contractual party. For this purpose, the user can create templates on the platform, edit forms, and comment on and save declarations. TimoCom can provide the user with transactions to date in the form of summaries.<br> (2) Other parties to the contract can be users of the platform as well as external contacts to be created by the cargo service provider itself. Such an external contact will not obtain its own right to use the platform through the transmission of documents or declarations.<br> (3) For technical reasons, certain data may be preset in forms. The default setting does not represent a recommendation by TimoCom. The user will adjust these data to his needs in his own responsibility.<br>Headings and descriptions within a form can be influenced by the individual language settings of the user on the platform, which is why declarations can differ between sender and receiver. Headings and descriptions within forms, as well as their translations, are simply there to make life easier for the user, and are non-binding wording suggestions from TimoCom. The users must agree on their own as to the interpretation of these terms in headings and descriptions within forms. The presetting for the document labelled as "binding" is the language setting of the person creating the form.<br> (4) The user is aware that an effective contract with the confirmed rights and duties is established between the parties involved through the provision of identical declarations within this application regarding the essential components of a transport. <br> (5) TimoCom can help users comply with retention requirements. TimoCom can collect, save, and process the data required for the transaction for a duration of up to 10 business years. Responsibility for compliance with any retention requirements remains solely with the user. TimoCom provides an export function for this data in order to allow the user to retain it separately. TimoCom retains the right to limit the memory capacity used to save transactions in accordance with Section 3.3 of these terms and conditions. Any memory capacity required above and beyond this amount must be agreed to separately. In the event that a user requests access and/or surrender of this saved data after the license agreement has come to an end, TimoCom has the right to only grant said access, or surrender the data, after an appropriate reimbursement of expenses has been made, and after any open requirements from this licensing agreement are completed.<br> (6) The contractual relationship shall begin with the written acceptance or with the signing of the licence agreement; the contract can be terminated with notice by both parties without stating any reasons by giving 14 days notice to the end of the calendar month. The term of the contract is 1 month and is extended by 1 month if the contract is not terminated with orderly notice by either party</p>
+<h2>3l. The right of use “Quote Request”</h2>
+<p>(1) Insofar as agreed, the platform grants the user access to the “Quote Request” function, with which they can issue individual freight orders to a target group (cargo service providers) or quote a price for a tender (bidders). The function enables the user to describe and process individual orders for cargo transports, and transmit tenders and price quotes for such.<br> (2) The target group can include users of the platform and external contacts to be created by the cargo service provider itself. <br> (3) TimoCom reserves the right to limit the number of selectable bidders for the tender of an individual freight order. It is also reserved for TimoCom to limit the period between the tender and the planned delivery date.<br> (4) A freight offer is not a binding offer, but a request to submit offers and does not establish an obligation for the conclusion of a contract. The cargo service provider takes notice that a price quotation refers respectively exclusively to the service subject of its tender invitation. An effective contract can only be established upon identical declarations of intend by the cargo service provider and the bidder.<br> (5) Data that is not up to date must be deleted immediately. The input must be completed, in simple writing without additional blanks or other characters which are solely suitable for emphasis and with the correct details in the designated input fields. TimoCom reserves the right to delete all data input that fails to comply with these criteria and/or with the specifications outlined in clause 3 para. 2 also without giving further notice.<br> (6) The contractual relationship shall begin with the written acceptance or with the signing of the licence agreement; the contract can be terminated with notice by both parties without stating any reasons by giving 14 days notice to the end of the calendar month. The term of the contract is 1 month and is extended by 1 month if the contract is not terminated with orderly notice by either party The right to use of the bidder, who was invited to a bid invitation by the cargo service provider, shall end on the award of contract to one of the bidders, without requiring a separate termination otherwise with the right of use from the existing licence agreement.</p>
+<h2>4. The fee for use</h2>
+<p>(1) The fee for use is due in advance at the beginning of the period of use and should be received by TimoCom by no later than by the third working day of the respective time period. Invoices for additional services provided by TimoCom are due immediately. All payment costs shall be borne by the user with the exception of the legal regime for SEPA payments.<br> (2) A right of the user to offset or retain his payments owing to counter-claims is excluded unless for undisputed counter claims or counter claims which have been declared final and binding.<br> (3) In the event that a user who has been granted a discount by TimoCom for a particular billing period due to an advanced licence fee payment, terminates the contract or part of the contract before the end of this billing period, the discount applied will be retrospectively cancelled. The same applies if the termination is carried out by TimoCom due to important reasons.<br> (4) TimoCom is entitled to increase the price of the agreed licence annually to a reasonable extent, provided that no price guarantee was explicitly agreed for the respective period. TimoCom will announce the price increase in writing giving 4 weeks notice. If the price increase exceeds 5% compared with the same period during the previous year, the customer has the right to terminate the contract within 14 days from the day the new price applies. <br> Non-application of a discount or expiry of a special time-restricted agreement is not a price increase as defined in this clause. If TimoCom does not exercise the right to increase prices once or several times this does not mean that it waives the right as such. Advance payment does not grant any price guarantee for the period paid for in advance.</p>
+<h2>5. Equal treatment, sub-licences, property rights, data protection</h2>
+<p>(1) The software provides the user with access to the user platform in addition to other users without entitlement to preference over other users. <br> (2) This licence agreement does not entitle the granting of sub-licences or the forwarding of possibilities for data or use acquired with the software to third parties; in particular not for the use of the software for own IT property rights. The software and its source code are protected by copyright law. The software shall remain the property of TimoCom. The software may contain codes, which are the intellectual property rights of third parties, as well as references to them, possibly by linking. These codes are licensed to the user on the basis of licensing agreements or provisions from the respective third party. The user accepts the validity of these licensing agreements or provisions. <br> (3) The user must report to TimoCom each use of third parties or alleged claims of third parties against its use or against TimoCom of which he becomes aware and which breach the useage regulations of this contract in order to enable legal defence as soon as possible.<br> (4) The user is not entitled to regular advice concerning software technology, to subsequent delivery of updates or further data carriers and in particular to the right of the source code; to reverse engineer, disassemble or alter the software. The user is prohibited from using the licensed software for further developments of software technology, changed versions or for preparing copies for the benefit of third parties, also of other users. Each use beyond this, albeit through copies, through parallel or alternating use on various workplaces or for the benefit of various trade enterprises and/or branches requires the written agreement of additional licences against payment of a fee.<br> (5) The user has to notify TimoCom of any company-related amendment relevant to the company or trade register of the company immediately after applying for the amendment. This refers to changes in the legal form or address as well as to the exit or entry of persons authorised to represent who are registered in the company and trade register.<br> (6) The user declares that TimoCom stores his technical data for the purpose of his identification and attribution, data security and improvement of data transmission. This can include anonymous, end-device dependent data such as the operating system used, screen resolution, browser, processor ID and processor speed, physical memory and MAC address and data that may make reference to personal identity, such as the IP address, device ID, domain DNA, installation path, user name, language setting, cookies and telematics data.<br> In addition, TimoCom stores and processes personal data in the user’s registration for a TimoCom account when creating his profile for his presentation on the platform, e.g. the user’s name, title, contact details, attribution to a user company and indicated language skills. <br> (7) The users declare that they agree that TimoCom stores their business data for the purpose of concluding the contract and the contractual processing and obtains information from well-known credit agencies about them.<br> (8) The user consents to TimoCom communicating personal data to subsidiaries or partner companies in order to deliver upon the licence contract or upon user-related service orders. At the present time, these are: TimoCom SAS, 153, Boulevard Haussmann, FR-75008 Paris; TimoCom Logistica SL, Avenida Riera Principal, 8, ES-08328 Alella/Barcelona; Hock R. Kft, Malom u. 7., HU-8000 Székesfehérvár; D.A. Korbut, ul. Motylewska 24, PL-64-920 Piła; DPN CZ Team s.r.o., Klíšská 977/77, CZ- 400 01 Ústí nad Labem; Ticonex GmbH, Bessemerstr. 2-4, DE-40699 Erkrath.<br> These companies capture and process user data solely on behalf of, and on the basis of instructions issued by, TimoCom and are obliged by TimoCom to comply with applicable data protection legislation. The communication of personal data to third parties can also occur in cases where legislative requirements and/or enforceable public authority or court orders apply and to prevent or combat criminal acts or infringements of these licence terms and conditions. Data that does not refer to personal identity, e.g. anonymised data or data that is intended for third parties in order to fulfil the purpose of the contract can be stored and processed by TimoCom and be transmitted to third parties.<br> (9) The user is entitled to revoke or limit the consent granted to TimoCom for the capture, processing, storage and usage of his personal data at any time and with retroactive effect. <br> The revocation or declaration of limitation can be directed to:</p>
+<p>TimoCom Soft- und Hardware GmbH<br>Data protection<br>Bessemerstr. 2-4<br>40699 Erkrath</p>
+<p>Email: datenschutz(at)timocom.com</p>
+<p>Such revocation or limitation shall not affect the existence of the contract or the user's payment obligations. The user recognises that, as a consequence of such revocation or limitation, TimoCom may no longer be in a position to further facilitate the use of the platform.<br> (10) TimoCom points out that according to § 28a paragraph 1 No. 5 of the German Data Protection Act (Bundesdatenschutzgesetz (BDSG)) data on the non-fulfillment of the contractual obligation concerning due receivables resulting from a contractual relationship can be communicated to the SCHUFA Holding AG, Kormoranweg 5, 65201 Wiesbaden, as long as the contractual relationship can be terminated without notification due to arrears and the outstanding payment of the services has not been compensated despite them being due within the notified payment period. You can obtain further information about SCHUFA at <a href="http://www.meineschufa.de" target="_blank">www.meineSCHUFA.de</a></p>
+<h2>6. Warranty and liability</h2>
+<p>(1) TimoCom exclusively guarantees that the platform is suitable for the use to the agreed extent. Details in product descriptions, brochures and of user information made available by TimoCom represent non-binding recommendations. A further liability by TimoCom is excluded. TimoCom in particular does not assume any warranty for the actuality, accuracy and completeness of the data entered by the other users nor for the compatibility of the platform with IT environment at the user's end or with used remote data connections. <br> (2) The set-up of hyperlinks and the information on homepages of third parties which is accessible from the homepage of TimoCom through hyperlinks are not a part of the contractual services. Neither do they serve to describe the contractual service obligations in more detail. The hyperlinks or the pages which are accessible through these hyperlinks are not constantly controlled so that TimoCom does not assume any liability for their contents or accuracy.<br> (3) TimoCom shall not be liable for damages which various users inflict upon each other, albeit through the loss or transmission faults of data or in any other manner. TimoCom shall not be liable for harmful software or programme codes (viruses, trojans, worms, etc.) which are played onto the user platform by users or are transmitted in their offer attachments or descriptions and spread from these. The user shall be directly liable for the fact that he does not transmit such harmful software.<br> (4) TimoCom is neither a contractual partner nor mediator for a contract concluded with the help of the platform or messenger of a declaration which is relevant in this respect. Therefore TimoCom does not in any way guarantee the proper processing of the agreed contracts between the users or the achievement of an economic success. The user shall examine with his own obligation to show care the accuracy of the data and information transmitted to him by third parties. Messages from users that are sent or displayed via the platform do not represent TimoCom's declarations or opinions, nor does TimoCom agree to these or make them its own. TimoCom does not warrant that a message or notice sent via the platform reaches its destination or is received and read by the addressed user. Likewise, it is not guaranteed that the person stated as the sender or recipient of a message or notice actually corresponds with the person sending or receiving it.<br> (5) The user indemnifies TimoCom from all liabilities, which are incurred due to the fact that the user does not use the platform as intended according to this contract. TimoCom shall accordingly conclude the same agreements with other users and assigns if applicable (after the primary satisfaction of own claims for damages of TimoCom) possible existing claims for damages against other users to the user in order to cover damages.<br> (6) The risk of non or false transmission of data shall pass to the user as soon as the data have left the sphere of influence of TimoCom.<br> (7) The liability restrictions or exclusions in this contract for damages caused by the user shall not apply in cases of<br> a) deliberate or gross negligent action by TimoCom or its agents,<br> b) the culpable breach of an essential contractual duty by TimoCom or its agents, whereby the achievement of the contractual purpose is put at risk,<br> c) TimoCom’s liability owing to malicious deceit or granting of a guarantee,<br>d) TimoCom’s liability according to mandatory law, such as for example the product liability act or <br> e) the statutory liability for injury to life, the body or health by TimoCom or its agents.<br> (8) If the user is a business person/entrepreneur, TimoCom’s liability is limited as follows to damages commensurate with and typical of the contract concluded:<br>a) in the instances cited in the foregoing paragraph 7 a) in case of gross negligence by simple vicarious agents,<br>b) in the instances cited in the foregoing paragraph 7 b) in case of simple negligence.<br> For the loss of data, programmes and their restoration through use of the platform TimoCom shall only be liable in the cases of the aforementioned para. 7 lit. a) and b) insofar as this loss could not have been avoided by the user through appropriate contingency measures, such as regular data backup.<br> (9) Components of the platform designated as 'BETA' or 'BETA version' always constitute incomplete products in respect of their use on an everyday basis which, while it may include all major functions, may be subject to limitations in respect of performance, compatibility and stability because experience tends to indicate that, prior to official publication or 'release', it may not have been possible to simulate all hardware and software environments and/or conditions of usage. For this reason, TimoCom also provides BETA components of the platform of this kind for non-binding test purposes where the users can report on their experience and where this input forms an essential part of the process. No assurance can be given in respect of productive properties or of freedom from serious defects. The user recognises that TimoCom cannot be held liable in this respect, nor for any usage downtime on the system, loss of data, defects and secondary damage resulting from such defects, nor for any loss of earnings. Prior to installation and usage of&nbsp;a BETA component of the platform, the user must carry out a complete data backup.</p>
+<h2>7. Complaints</h2>
+<p>(1) If TimoCom receives information about a user, according to which the user has culpably breached his duties from a freight contract, this contract or other applicable law (hereinafter: complaint) TimoCom is entitled, however not obliged, to forward these complaints with or without naming the complainant to the relevant user or, after questioning and examining him, to other users. <br> (2) The user, against whom the complaint is directed (“person concerned“) is obliged to make a statement about the complaint concerning its contents towards TimoCom and to rectify the complaint in writing immediately, by no later however than within one week after receipt of the notification, at least however to substantiate his possible longer time required for the statement. <br> (3) If the user does not succeed in his statement in invalidating the allegation made in the complaint of a breach of duty TimoCom is entitled – however not obliged – to request the user to remedy the complaint within one further week. The limited request for remedy is not necessary if this is not deemed reasonable for TimoCom according to the circumstances.<br> (4) The rights from the aforementioned para. 2 and 3 in conjunction with the right to blocking or termination shall exist solely in the interest of TimoCom. If TimoCom does not exercise these rights, a liability towards the other users is excluded.<br> (5) TimoCom is not obliged to examine complaints it receives.</p>
+<h2>8. Extraordinary termination, duration of the licence, final provisions</h2>
+<p>(1) The duration of the right of use is oriented to the individually agreed modules. A reciprocal immediate period of notice shall apply during a free test phase. <br> (2) Each party is entitled to terminate this contract without observing a period of notice if they have an important reason. An important reason for a termination by TimoCom without notice exists in particular if:<br> a) the user becomes insolvent or there is a threat of insolvency,<br> b) the opening of the insolvency proceedings over the assets of the user was rejected, return unsatisfied or the user has to submit an affidavit, <br> c) the user culpably breaches provisions of these terms and conditions which endanger the achievement of the contractual object or which entitle to a blocking according to subclause 3 para. 4 or 5,<br> d) the user is in default with an amount, which corresponds with a fee for use of one month, for longer than 14 calendar days or <br> e) the stakeholders' proportion in the user's company changes by 25% or more, or if the company is legally represented by other persons – according to the time of signing the agreement.<br>f) the user, its legal representatives or affiliates enters competition with TimoCom.<br> (3) The right of use shall apply from activation by TimoCom and end at the same time as the contractual relationship.<br> (4) With the end of the contract the user must delete the software immediately under the exclusion of all right of retention and to refrain from all use of the software.<br> (5) If the user is an entrepreneur, legal entity under public law or separate assets under public law within the meaning of § 310 para. 1, sentence 1 BGB or if he has no general place of jurisdiction in Germany, Düsseldorf is agreed as place of performance and place of jurisdiction. German law shall apply under the exclusion of the UN convention on the international sale of goods.<br> (6) If Timocom supplies the user with translations of this contract or of components of the contract, only the German language version shall be binding in the sense of legally enforceable in cases where a translation contains contradictions or deviations to the meaning of the German language version.<br> (7) Should individual provisions of these terms and conditions be invalid then this shall have no effect on the validity of the other provisions. The invalid provision shall be replaced by a valid regulation which shall, as far as possible, correspond with the intention of the invalid provision.</p></section>
+            </div>
+        </article>
+    </div>
+    <div class="span4">
+        <aside>
+            <div class="module articleHeader">
+                <header>
+                    <h5>Contact head office</h5>
+                </header>
+            </div>
+            <div class="module cfModule"> <div>
+    
+    
+        <h3 class="h3-large">Contact</h3>
+    
+    <section>
+        
+        
+        
+        <div class='iconsitem'><p class="copy-large"><i class='icon-phone icon-small'></i><span class="nowrap">+49 211 88 26 0</span></p></div>
+        <div class='iconsitem'><p class="copy-large"><i class='icon-fax icon-small'></i><span class="nowrap">+49 211 88 26 10 00</span></p></div>
+        
+        <div class='iconsitem'><p class="copy-large"><i class='icon-envelope icon-small'></i><a href='mailto:info.en@timocom.com' title='info.en@timocom.com'>info.en@timocom.com</a></p></div>
+    </section>
+</div> </div>
+            <div class="module articleBody"> <a onclick="javascript:window.print();" class="btn btn-primary margin-top"><i class="icon-print"></i>&nbsp;Print page</a>
+                <div id="asideNav" class="well margin-top">
+                    <ul class="styled chevron-right blue">
+                        <li> <a href="#agb" data-slideto="agb">GTC</a> </li>
+                        <li> <a href="#agb-cashcare" data-slideto="agb-cashcare">GTC Debt collection international</a> </li>
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+<div class="row-fluid">
+    <div class="span8">
+        <div class="module cfModule">
+            <div class="row-fluid margin-fluid-top">
+    <div class="span12">
+        <p>
+            Last update: 06.03.2018
+        </p>
+    </div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="row-fluid">
+    <div class="span8">
+        <article>
+            <div class="module mainHeader">
+                <header>
+                    <h1><small><a name="agb-cashcare"></a>Terms and Conditions:</small>Terms of use – TimoCom Debt collection international</h1>
+                </header>
+            </div>
+            <div class="module articleBody">
+                <section><h4>§1 Performance</h4>
+<p>1. TimoCom Soft- und Hardware GmbH will take action exclusively aimed at supporting the Customer in the collection of the Customer’s net invoice amount. TimoCom shall, at its reasonable discretion, request the Debtor to comment and/or settle the outstanding claim. <br> 2. TimoCom does not give a warranty for the success of its intervention. <br> 3. Any payments, credits, or set-offs effected by Debtor subsequent to the intervention shall be deemed as a positive outcome of said intervention unless the Customer proves to TimoCom within 2 weeks of the advised date of payment that the claim has not been settled. <br> 4. Customer shall at any time be entitled to take alternative action aimed at collecting the debt.</p>
+<h4>§2 Remuneration</h4>
+<p>1. The invoice is due for immediate payment upon receipt. <br> 2. TimoCom is entitled to offset funds received from its debtor against claims to itself from the customer (interbank current account transactions) <br> 3. TimoCom reserves the right to collect the invoice amount together with other invoices provided that the Customer, in the course of regular business, has already issued a direct debit authorisation to TimoCom. Customer hereby authorises TimoCom to collect any undisputed invoice amount from the named account.</p>
+<h4>§3 Duration</h4>
+<p>1. The Customer shall be bound by his order for 3 working days. The contract shall come into effect upon acceptance of the order on the part of TimoCom. Acceptance does not require any particular form and the order may be accepted by implication. More specifically, the agreement shall be deemed to have been accepted by TimoCom if TimoCom can prove that it has intervened with the Debtor during this time. <br> 2. The Customer may terminate the order by giving 2 weeks’ notice. In the event that any proceedings against Debtor have already been taken the Customer shall be under obligation to keep TimoCom informed regarding any payment resulting from such proceedings, and TimoCom shall maintain its entitlement to the agreed remuneration. <br> 3. The right of each of the parties to terminate the agreement for serious non-compliance shall remain. <br> 4. If, as a result of an intervention the Customer or Debtor lose or terminate their status as TimoCom customers, the Customer and TimoCom shall be entitled to rescind the Contract. In that case, the Contract shall be deemed cancelled with regard to the future. <br> 5. If it is shown in the course of the intervention that the claim is in all probability unrecoverable, the intervention shall be terminated and Customer shall be notified accordingly. More specifically, the claim shall be deemed unrecoverable if it is contested, if it has been assigned, if it is before a court, if it is legally enforceable or if it is encumbered with rights of third parties or if the Debtor is unable to meet its obligations. In that event, the Contract shall be deemed cancelled with regard to the future.<br> 6. The customer is obliged to support TimoCom with suitable information. Should TimoCom fail to receive the information required for processing the order within 14 days despite requests made, TimoCom is entitled to terminate the order and charge the basic fee or the performance-related bonus incurred up to that time.</p>
+<h4>§4 Liability</h4>
+<p>1. TimoCom’s liability for damages incurred by the customer based on the assumption or execution of the contract is limited to the cases of<br>a) deliberate or gross negligent action by TimoCom or its agents,<br> b) the culpable breach of an essential contractual duty by TimoCom or its agents, whereby the achievement of the contractual purpose is put at risk,<br> c) TimoCom’s liability owing to malicious deceit or granting of a guarantee,<br> d) TimoCom’s liability according to mandatory law, such as for example the product liability act or <br> e) the statutory liability for injury to life, the body or health by TimoCom or its agents.<br> 2. If the customer is an entrepreneur, TimoCom’s liability is limited as follows to damages commensurate with and typical of the contract concluded:<br> a) in the instances cited in the foregoing paragraph 1 a) in case of gross negligence by simple vicarious agents,<br>b) in the instances cited in the foregoing paragraph 1 b) in case of simple negligence. <br> 3. Customer shall make sure that the outstanding amount is due and undisputed and that TimoCom is provided with all necessary documents and information. Attention is drawn to the fact that the customer is only entitled to reimbursement from the debtor of the performance-related bonus for the intervention in the event of the latter being in arrears with delivery according to the cognizant legal order. Customer shall make its claim for compensation of such costs directly against the Debtor. <br> 4. TimoCom reserves the right to destroy all documents which do not have to be kept and stored for legal reasons after termination of the procedure.</p>
+<h4>§5 Miscellaneous</h4>
+<p>1. All agreements must be made in writing. <br> 2. If Customer is not a consumer, Düsseldorf shall be the place of performance and jurisdiction. German law shall be applicable. <br> 3. If one of the provisions of this Contract shall be or become ineffective, this shall not affect the effectiveness of the other provisions or regulations. The parties undertake to replace the ineffective provision by an effective regulation that comes as close as possible to the purpose of the provision that has become ineffective.</p></section>
+            </div>
+        </article>
+    </div>
+    <div class="span4">
+        <aside>
+            <div class="module articleHeader">
+                <header>
+                    <h5>Contact head office</h5>
+                </header>
+            </div>
+            <div class="module cfModule"> <div>
+    
+    
+        <h3 class="h3-large">Contact</h3>
+    
+    <section>
+        
+        
+        
+        <div class='iconsitem'><p class="copy-large"><i class='icon-phone icon-small'></i><span class="nowrap">+49 211 88 26 0</span></p></div>
+        <div class='iconsitem'><p class="copy-large"><i class='icon-fax icon-small'></i><span class="nowrap">+49 211 88 26 10 00</span></p></div>
+        
+        <div class='iconsitem'><p class="copy-large"><i class='icon-envelope icon-small'></i><a href='mailto:info.en@timocom.com' title='info.en@timocom.com'>info.en@timocom.com</a></p></div>
+    </section>
+</div> </div>
+            <div class="module articleBody"> <a onclick="javascript:window.print();" class="btn btn-primary margin-top"><i class="icon-print"></i>&nbsp;Print page</a>
+                <div id="asideNav" class="well margin-top">
+                    <ul class="styled chevron-right blue">
+                        <li> <a href="#agb" data-slideto="agb">GTC</a> </li>
+                        <li> <a href="#agb-cashcare" data-slideto="agb-cashcare">GTC Debt collection international</a> </li>
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+<div class="row-fluid">
+    <div class="span8">
+        <div class="module cfModule">
+            <div class="row-fluid margin-fluid-top">
+    <div class="span12">
+        <p>
+            Last update: 01.10.2014
+        </p>
+    </div>
+</div>
+        </div>
+    </div>
+</div></div>
+	
+	
+
+            </div>
+            
+                </div>
+            
+        </section>
+        
+<section id="stagebelow">
+    <div class="separator margin-fluid-top"></div>
+    <div id="lexikon" class="container">
+        <div class="content">
+            <div class="row-fluid">
+                <div class="span12">
+                    
+		
+
+		
+			
+    
+        
+            
+            <section>
+                <header>
+                    <h3 class="margin-top padding-top-small center">
+                        <a href='/lexicon/The%20transport%20lexicon/'
+                           title='The transport lexicon' target='_self'>
+                            The transport lexicon
+                        </a>
+                        &ndash;
+                        Answers to transport topics
+                    </h3>
+                </header>
+                <div class="center">
+                    <ul>
+                        
+                            <li>
+                                <span class="nowrap"><i class="icon-chevron-right highlight"></i>&nbsp;<a href="/lexicon/The-transport-lexicon/Pump truck/1305221104547198" title="Pump truck">Pump truck</a></span>
+                            </li>
+                        
+                            <li>
+                                <span class="nowrap"><i class="icon-chevron-right highlight"></i>&nbsp;<a href="/lexicon/The-transport-lexicon/Freight forwarder /  Forwarding agent/1011021722544143" title="Freight forwarder /  Forwarding agent">Freight forwarder /  Forwarding agent</a></span>
+                            </li>
+                        
+                            <li>
+                                <span class="nowrap"><i class="icon-chevron-right highlight"></i>&nbsp;<a href="/lexicon/The-transport-lexicon/Scheduler/802151042088362" title="Scheduler">Scheduler</a></span>
+                            </li>
+                        
+                            <li>
+                                <span class="nowrap"><i class="icon-chevron-right highlight"></i>&nbsp;<a href="/lexicon/The-transport-lexicon/TC eBid®/1008171235388512" title="TC eBid®">TC eBid®</a></span>
+                            </li>
+                        
+                            <li>
+                                <span class="nowrap"><i class="icon-chevron-right highlight"></i>&nbsp;<a href="/lexicon/The-transport-lexicon/Construction transport/1203220824455507" title="Construction transport">Construction transport</a></span>
+                            </li>
+                        
+                    </ul>
+                </div>
+            </section>
+        
+    
+
+		
+	
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+    </main>
+        
+    
+
+    <footer>
+        <div id="siteCopy" class="footer">
+            <a class="toplink affix" href="#" data-spy="affix" data-offset-top="300">
+                to the top <i class="icon-arrow-up"></i>
+            </a>
+            <div class="container clearfix">
+                
+
+<cite class="pull-left">
+    <div class="muted">
+        &copy; TimoCom Soft- und Hardware GmbH 2018. All rights reserved <span class="divider">/</span> 
+        
+		
+
+		
+			
+    
+        
+            
+            <a class="inline-block" href="/TimoCom/Legal-notice" target="_self"  title="Find the legal notice of TimoCom Soft- und Hardware GmbH here." >Legal notice</a>
+        
+            
+                <span class="divider">/</span>
+            
+            <a class="inline-block" href="/TimoCom/Data-protection" target="_self"  title="We care about the protection of your data when visiting and using the TimoCom homepage.  Inform yourself about our regulations on data protection here." >Data protection</a>
+        
+            
+                <span class="divider">/</span>
+            
+            <a class="inline-block" href="/TimoCom/T-Cs" target="_self"  title="Read the General Terms and Conditions (GTC) for your TimoCom agreement and the rights of use here." >T&Cs</a>
+        
+    
+
+		
+	
+    </div>
+</cite>
+
+                <div class="pull-right">
+                    
+ 
+
+<div class="clearfix hidden-print">
+    <section>
+        
+        
+            
+    
+    
+    
+    
+        <a href="https://www.facebook.com/pages/TimoCom-Int-Freight-Exchange/228118853876323" target="_blank" 
+           title="TimoCom -> Facebook"
+            >
+            <div class="socialIcons facebook "><i class="icon-facebook"></i></div>
+        </a>
+            
+
+        
+        
+    
+    
+    
+    
+        <a href="https://www.youtube.com/user/TimoCom" target="_blank" 
+           title="TimoCom -> Youtube"
+            >
+            <div class="socialIcons youtube "><i class="icon-youtube"></i></div>
+        </a>
+            
+
+        
+    
+    
+    
+    
+        <a href="https://www.xing.com/company/timocom" target="_blank" 
+           title="Marktführer unter den Frachtenbörsen Europas - Xing-Gruppe"
+            >
+            <div class="socialIcons xing "><i class="icon-xing"></i></div>
+        </a>
+            
+
+        
+    
+    
+    
+    
+        <a href="https://www.linkedin.com/company/timocom-soft--und-hardware-gmbh" target="_blank" 
+           title="TimoCom -> LinkedIn"
+            >
+            <div class="socialIcons linked-in "><i class="icon-linked-in"></i></div>
+        </a>
+            
+
+        
+    
+    
+    
+    
+        <a href="https://twitter.com/TimoCom_UK" target="_blank" 
+           title="TimoCom -> Twitter-Stream"
+            >
+            <div class="socialIcons twitter "><i class="icon-twitter"></i></div>
+        </a>
+            
+
+        
+    
+    
+    
+    
+        <a href="https://plus.google.com/+TimoComTransportplattform" target="_blank" 
+           title="TimoCom Google+ Page"
+            >
+            <div class="socialIcons google-plus "><i class="icon-google-plus"></i></div>
+        </a>
+            
+
+        
+    
+    
+    
+    
+        <a href="https://instagram.com/timocom" target="_blank" 
+           title="Join us on instagram"
+            >
+            <div class="socialIcons instagram "><i class="icon-instagram"></i></div>
+        </a>
+            
+
+                 
+            
+		
+
+		
+			
+    <div data-name="icon-envelope" class="pull-left">
+        <span class="iconsitem">
+            <a href="/News/Newsletter" title="Newsletter" id="orderNewsletter" class="btn btn-default"><i class="icon-envelope-mini"></i></a>
+        </span>
+    </div>
+
+		
+	
+        
+        <span class="margin-right">&nbsp;</span>
+    </section>
+</div> 
+                </div>
+            </div>
+        </div>
+        <div id="siteNav" class="footer">
+            <div class="container">
+                <div id="siteMap" class="row-fluid">
+                    <div class="span12">
+                        <nav class="nav-main-footer">
+                            <a name="sitemap-panel"></a>
+                            
+		
+
+		
+			
+    <ul class="nav">
+        
+            <li class="dropdown">
+                
+                    <a href="/" class="brand dropdown-toggle " data-toggle="dropdown"><i class="icon-timocom"></i></a>
+                
+                <ul class="dropdown-menu hidden-phone" role="menu">
+                    
+                        
+                        
+                            
+                                <li>
+                                    <a href="/" target="_self" title="The market leader among Europe's vehicle and freight exchanges! Reasonable monthly flat rate - with no hidden costs. Up to 4-week free, non-obligatory test phase." >Welcome</a>
+                                </li>
+                            
+                        
+                    
+                </ul>
+            </li>
+        
+            <li class="dropdown">
+                
+                    <a title=""
+                        
+                            target="_self"
+                            
+                                href="/The-Freight-Exchange/Transport-exchange"
+                            
+                         
+                        id="rubLnkCurr_1706260916000000" 
+                        class="dropdown-toggle">Transport platform</a>
+                
+                <ul class="dropdown-menu hidden-phone" role="menu">
+                    
+                        
+                            <li class="nav-header">The Freight Exchange</li>
+                        
+                        
+                            
+                        
+                            
+                                <li>
+                                    <a href="/The-Freight-Exchange/Transport-exchange" target="_self" title="Reasonable monthly flat rate – with no hidden costs. Up to four week free, non-obligatory testphase. The market leader among Europe's vehicle and freight exchanges!" >Transport exchange</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/The-Freight-Exchange/Freight-offers" target="_self" title="All types of freights are offered in the freight exchange TC Truck&amp;Cargo. From a large envelope that is transported by courier to an oversize machine." >Freight offers</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/The-Freight-Exchange/Vehicle-offers" target="_self" title="Available vehicle space for all types of loads. From curtain siders to silo semi-trailers." >Vehicle offers</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/The-Freight-Exchange/Warehouse-offers" target="_self" title="Europe's largest warehousing exchange – with up to 30,000 warehousing and logistics possibilities. Find all contact details as well as warehousing type and usage in TimoCom's warehousing directory." >Warehouse offers</a>
+                                </li>
+                            
+                        
+                    
+                        
+                            <li class="nav-header">Transport tenders</li>
+                        
+                        
+                            
+                                <li>
+                                    <a href="/Tendering-system" target="_self" title="The tendering system for the contract market." >Tendering system</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/The-Tendering-Platform/Service-provider-search" target="_self" title="Reach a logistics network of over 40,000 verified companies with only one tender." >Service provider search</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/The-Tendering-Platform/Current-tenders" target="_self" title="Obtain long-term transport contracts and permanent business partners." >Current tenders</a>
+                                </li>
+                            
+                        
+                    
+                        
+                            <li class="nav-header">Transport orders</li>
+                        
+                        
+                            
+                                <li>
+                                    <a href="/Transport-platform/Quote-request" target="_self" title="TC Transport Order – Quote requests & order handling on TimoCom's transport platform" >Quote request</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Transport-platform/Order-Handling" target="_self" title="TC Transport Order – Quote requests & order handling on TimoCom's transport platform" >Order Handling</a>
+                                </li>
+                            
+                        
+                    
+                        
+                            <li class="nav-header">Tracking</li>
+                        
+                        
+                            
+                                <li>
+                                    <a href="/Tracking/Vehicle-localisation" target="_self" title="All vehicle telematics systems at a glance. Increased security in managing your fleet with GPS tracking in TimoCom Tracking." >Vehicle localisation</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Tracking/Telematics-provider" target="_self" title="Fleet management with GPS exact vehicle localisation: our partners in terms of truck tracking are renowned European telematics providers." >Telematics provider</a>
+                                </li>
+                            
+                        
+                    
+                        
+                            <li class="nav-header">Connecting customers</li>
+                        
+                        
+                            
+                                <li>
+                                    <a href="/Transport-platform/Business-directory" target="_self" title="TC Profile is your professional business card in TC Truck&amp;Cargo! Enter your most important company details and keep them up-to-date. Other TimoCom users do the same." >Business directory</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Transport-platform/Messenger" target="_self" title="Diverse communication tool integrated into Europe's largest transport platform. Simplify your personal business communication with the TimoCom Messenger" >Messenger</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Transport-platform/TimoCom-mobile" target="_self" title="With the TimoCom app you have mobile access to Europe's biggest transport platform and can find freight and offer vehicle space wherever you are." >TimoCom mobile</a>
+                                </li>
+                            
+                        
+                    
+                        
+                            <li class="nav-header">Services</li>
+                        
+                        
+                            
+                                <li>
+                                    <a href="https://updatepool.timocom.com/en/update" target="_blank" title="Update Pool. All TimoCom updates and new features down to the point." >Update Pool</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Transport-platform/References" target="_self" title="The following freight forwarding and transport companies as well as companies from manufacturing and trade successfully work with the transport platform TimoCom." >References</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Download/Customers-recruit-customers" target="_self" title="Get a €50 bonus for successfully recommending the vehicle and freight exchange TC Truck&amp;Cargo." >Customers recruit customers</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Transport-plattform/Value-for-money" target="_self" title="Up to 750,000 freight and vehicle offers, more than 127,000 users, 44 European countries." >Value for money</a>
+                                </li>
+                            
+                        
+                    
+                </ul>
+            </li>
+        
+            <li class="dropdown">
+                
+                    <a title=""
+                        
+                            target="_self"
+                             
+                                href="/Security/Security-net"
+                            
+                         
+                        id="rubLnkCurr_1003171235455618" 
+                        class="dropdown-toggle">Security</a>
+                
+                <ul class="dropdown-menu hidden-phone" role="menu">
+                    
+                        
+                        
+                            
+                                <li>
+                                    <a href="/Security/Security-net" target="_self" title="Security is a fundamental issue in a freight exchange. It is about protecting customers from 'black sheep' in the transport industry." >Security net</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Security/New-customer-verification" target="_self" title="Before TimoCom grants companies access to the freight exchange or other platforms they are verified by us – our contribution to preventing cargo theft." >New customer verification</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Security/Debt-collection-international" target="_self" title="Our legal department takes care of debt collection and claims management for transport and logistic companies.  Outstanding amounts? Contact TimoCom for assistance!" >Debt collection international</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Security/Technologies" target="_self" title="Security in freight exchange already begins prior to the goods being transported! As a freight exchange we therefore offer a high level of technical security to protect you as our customers." >Technologies</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Security/Access-software" target="_self" title="Our contribution to more security in freight exchanges and for transport tenders! You can only access TimoCom by means of a personalised login software." >Access software</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Security/Check-lists" target="_self" title="Important rules and tips for even more security in the freight exchange. Find the most important rules as to how to actively protect your company against freight theft here." >Check lists</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Security/Identity-verification" target="_self" title="The new, free of charge service TimoCom Identify assists in identifying your business partner if you have doubts." >Identity verification</a>
+                                </li>
+                            
+                        
+                    
+                </ul>
+            </li>
+        
+            <li class="dropdown">
+                
+                    <a title=""
+                        
+                            target="_self"
+                            
+                                href="/TimoCom/About-Us"
+                            
+                         
+                        id="rubLnkCurr_1710051145000006" 
+                        class="dropdown-toggle">Company</a>
+                
+                <ul class="dropdown-menu hidden-phone" role="menu">
+                    
+                        
+                            <li class="nav-header">TimoCom</li>
+                        
+                        
+                            
+                        
+                            
+                                <li>
+                                    <a href="/TimoCom/About-Us" target="_self" title="TimoCom is an IT service provider for the European transport business Among other things we offer a market leading freight exchange and a universal tracking solution." >About Us</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/TimoCom/Partners" target="_self" title="Networking pays off: TimoCom cooperates with the following companies from the fields of transport, economy and education." >Partners</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/TimoCom/Commitment" target="_self" title="TimoCom shows social responsibility and is committed to environmental sustainability. We are convinced of the importance of corporate social responsibility." >Commitment</a>
+                                </li>
+                            
+                        
+                    
+                        
+                            <li class="nav-header">Careers</li>
+                        
+                        
+                            
+                                <li>
+                                    <a href="/TimoCom/Jobs-careers" target="_self" title="Here you find job vacancies for our headquarter in Erkrath, Germany. " >Jobs & careers</a>
+                                </li>
+                            
+                        
+                    
+                        
+                            <li class="nav-header">News</li>
+                        
+                        
+                            
+                                <li>
+                                    <a href="/News/Press-information" target="_self" title="Read TimoCom's press releases and articles from newspapers, magazines as well as specialist journals. 
+" >Press information</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/News/Newsletter" target="_self" title="" >Newsletter</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/News/Media-library" target="_self" title="Searching for a suitable transport image for your article? No problem! Simply download photos, graphics or images from TimoCom free of charge." >Media library</a>
+                                </li>
+                            
+                        
+                    
+                </ul>
+            </li>
+        
+            <li class="dropdown">
+                
+                    <a title=""
+                        
+                            target="_self"
+                             
+                                href="/Contact/Info-Center"
+                            
+                         
+                        id="rubLnkCurr_711211033200663" 
+                        class="dropdown-toggle">Contact</a>
+                
+                <ul class="dropdown-menu hidden-phone" role="menu">
+                    
+                        
+                        
+                            
+                                <li>
+                                    <a href="/Contact/Info-Center" target="_self" title="Get in contact with TimoCom, e.g. by phone, fax or email. Also find the telephone number and the customer service hotline for the freight exchange here." >Info Center</a>
+                                </li>
+                            
+                        
+                    
+                </ul>
+            </li>
+        
+            <li class="dropdown">
+                
+                    <a title=""
+                        
+                            target="_self"
+                             
+                                href="/Apply-now/"
+                            
+                         
+                        id="rubLnkCurr_711211032511469" 
+                        class="dropdown-toggle">Apply now</a>
+                
+                <ul class="dropdown-menu hidden-phone" role="menu">
+                    
+                        
+                        
+                            
+                                <li>
+                                    <a href="/Apply-now/" target="_self" title="Test Europe's largest transport platform  including the freight exchange, warehousing exchange, transport tenders and tracking for up to 4 weeks for free." >Apply to test</a>
+                                </li>
+                            
+                        
+                    
+                </ul>
+            </li>
+        
+    </ul>
+
+		
+	
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    
+
+
+    
+        
+        <div class="showCookieInformation clearfix">
+            <div class="container">
+                <div class="row-fluid">
+                    <div class="span9">
+                        By using this site you agree to the use of cookies for analytics, personalised content and ads.
+                    </div>
+                    <div class="span3">
+                        <a href="/TimoCom/Data-protection">
+                            Find out more
+                        </a>
+                        <form method="post" action="/TimoCom/T-Cs" class="pull-right">
+                            <button type="submit" name="hideCookieMessage" class="btn btn-large btn-link" title='Close'><i class="icon-outline-remove"></i></button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+
+    <script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+fbq('init', '249945081877893');
+fbq('track', "PageView");
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=249945081877893&ev=PageView&noscript=1"/></noscript>
+
+     
+        <script type="text/javascript"> 
+     _linkedin_data_partner_id = "152505"; 
+    (function(){var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(); 
+</script>
+<noscript><img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=152505&fmt=gif" /></noscript> 
+    
+
+    
+
+    <script src="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/js/tcgui.min.js?v=1526285106"></script>
+    <script src="/WWW/ext/js/jquery/jquery.UI.js?v=1526285106"></script>
+    <script src="/WWW/sec/themes/tcportal_tcgui/js/tcSlider2/tcSlider2.min.js?v=1526285106"></script>
+    <script src="/WWW/sec/themes/tcportal_tcgui/js/tcportal.main.min.js?v=1526285106"></script>
+
+    
+    
+    
+
+
+    
+    
+    
+
+    
+        
+            
+            <script>
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+                ga('create', 'UA-1301439-31', 'auto');
+                ga('set', 'anonymizeIp', true);
+                ga('send', 'pageview');
+
+                
+                    ga('create', 'UA-1301439-47', 'auto', 'globalTracker');
+                    ga('globalTracker.send', 'pageview');
+                
+                $('#analyticsDisabledMessage').hide();
+
+                var gaProperty = 'UA-1301439-31';
+                // Disable tracking if the opt-out cookie exists.
+                var disableStr = 'ga-disable-' + gaProperty;
+                if (document.cookie.indexOf(disableStr + '=true') > -1) {
+                    window[disableStr] = true;
+                    $('#analyticsDisabledMessage').show();
+                }
+                // Opt-out-fnc like in dataprotection
+                function gaOptout() {
+                    document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+                    window[disableStr] = true;
+                    $('#analyticsDisabledMessage').show();
+                }
+            </script>
+            
+        
+        
+            
+        
+    
+
+    
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+
+    
+    
+    
+
+    
+    
+    
+</body>
+</html>
+
+

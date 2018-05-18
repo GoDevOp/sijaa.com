@@ -1,0 +1,228 @@
+
+
+var formValidate = {
+    rules: {"Float":{"ALL":{"RULE":"^ *[0-9]+\\.{0,1}[0-9]* *$","TIP":"","FLAGS":"","DESCRIPTION":""}},"Number":{"ALL":{"RULE":"^ *(([0-9\\.]*)|((0x|#)?[0-9A-Fa-f]+)) *$","TIP":"","FLAGS":"","DESCRIPTION":"Integer, Float and Hex numbers are allowed"}},"Iban":{"ALL":{"RULE":"^ *[A-Za-z]{2} ?[1-9][0-9] ?(?:\\d{1} ?){16,30} *$","TIP":"","FLAGS":"","DESCRIPTION":"Iban Number"}},"TaxNumber":{"DE":{"RULE":"^(:?[012]?\\d{2}[/ ]?\\d{3}[/ ]?\\d{5}|[29145]\\d{3}0\\d{8}|(:?DE)?\\d{9})$","TIP":"DE999999999 | 28FF0BBBUUUUP (Umsatz-identifikationsnummer oder Steuernummer)","FLAGS":"","DESCRIPTION":"Tax number"},"PT":{"RULE":"^(?:PT)?\\d{9}$","TIP":"PT999999999","FLAGS":"","DESCRIPTION":"Tax Number"},"DK":{"RULE":"^(?:DK)?\\d{8}$","TIP":"DK99999999","FLAGS":"","DESCRIPTION":"Tax number"},"LT":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"LU":{"RULE":"^(?:LU)?\\d{8}$","TIP":"LU99999999","FLAGS":"","DESCRIPTION":"Tax Number"},"HR":{"RULE":"^(?:HR)?\\d{11}$","TIP":"HR99999999999","FLAGS":"","DESCRIPTION":"Tax number"},"LV":{"RULE":"^(?:LV)?\\d{11}$","TIP":"LV99999999999","FLAGS":"","DESCRIPTION":"Tax Number"},"UA":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"YE":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"HU":{"RULE":"^(?:HU)?\\d{8}$","TIP":"HU99999999","FLAGS":"","DESCRIPTION":"Tax number"},"LY":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"QA":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"MA":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"DZ":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"MC":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"MD":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"ME":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"IE":{"RULE":"^(?:(?:IE)?(?:\\d[0-9a-zA-Z]\\d{5}[a-zA-Z]|\\d{7}[a-wA-W][a-iA-I]))$","TIP":"IE9S99999L | IE9999999LI","FLAGS":"","DESCRIPTION":"Tax number"},"MK":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"EE":{"RULE":"^(?:EE)?\\d{9}$","TIP":"EE999999999","FLAGS":"","DESCRIPTION":"Tax number"},"MN":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"EG":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"AD":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"IL":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"AE":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"AF":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"IN":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"UZ":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"MT":{"RULE":"^(?:MT ?)?\\d{4}[ \\-]?\\d{4}$","TIP":"MT99999999","FLAGS":"","DESCRIPTION":"Tax Number"},"IQ":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"IR":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"IS":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"AL":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"IT":{"RULE":"^(?:IT)? ?\\d{11}$","TIP":"IT 04061138712 (IT is optional)","FLAGS":"","DESCRIPTION":"Tax number"},"VA":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"AM":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"ER":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"ES":{"RULE":"^(?:ES)?(?:(?:[a-zA-Z]\\d{8})|(?:[a-zA-Z]\\d{7}[a-zA-Z0-9])|(?:[a-zA-Z0-9]\\d{7}[a-zA-Z]))$","TIP":"","FLAGS":"","DESCRIPTION":"Tax number"},"ET":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"AT":{"RULE":"^(?:(?:AT)?U\\d{8}|\\d{3}/\\d{4})$","TIP":"ATU99999999 (AT is optional)","FLAGS":"","DESCRIPTION":"Tax number"},"AZ":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"RO":{"RULE":"^(?:RO)?\\d{2,10}$","TIP":"RO999999999","FLAGS":"","DESCRIPTION":"Tax Number"},"NL":{"RULE":"^(?:NL)?\\d{9}B\\d{2}$","TIP":"NL999999999B99","FLAGS":"","DESCRIPTION":"Tax Number"},"BA":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"NO":{"RULE":"^(?:\\d{3} ?){3}$","TIP":"999 888 777","FLAGS":"","DESCRIPTION":"Tax Number"},"RS":{"RULE":"^\\d{8}$","TIP":12345678,"FLAGS":"","DESCRIPTION":"Tax Number"},"NP":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"BE":{"RULE":"^(?:BE)?\\d{10}$","TIP":"BE0999999999 | BE9999999999  (Old Numbers start with a 0 prefix) (BE is optional)","FLAGS":"","DESCRIPTION":"Tax number"},"FI":{"RULE":"^(?:FI)?\\d{8}$","TIP":"FI99999999","FLAGS":"","DESCRIPTION":"Tax number"},"RU":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"BG":{"RULE":"^(?:BG)? ?\\d{9}$","TIP":"BG 040611387 (BG is optional)","FLAGS":"","DESCRIPTION":"Tax number"},"JO":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"BH":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"FO":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"FR":{"RULE":"^(?:FR)? ?[a-zA-Z0-9]{2}? ?\\d{9}","TIP":"FR 123456789 or 12 123456789 (Prefix is optional)","FLAGS":"","DESCRIPTION":"Tax number"},"SA":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"BR":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"SE":{"RULE":"^(?:SE)?\\d{12}$","TIP":"SE999999999999","FLAGS":"","DESCRIPTION":"Tax Number"},"SI":{"RULE":"^(?:SI)?\\d{8}$","TIP":"SI99999999","FLAGS":"","DESCRIPTION":"Tax Number"},"BY":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"SK":{"RULE":"^(?:SK)?\\d{10}$","TIP":"SK9999999999","FLAGS":"","DESCRIPTION":"Tax Number"},"SM":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"GB":{"RULE":"^(?:(?:GB)?(?:\\d{9}|\\d{12}|(?:GD|HA)\\d{3}))$","TIP":"GB999999999 | GB999999999999 | GBGD999 | GBHA999","FLAGS":"","DESCRIPTION":"Tax number"},"KG":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"GE":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"OM":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"GI":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"CH":{"RULE":"^CHE-(?:\\d{3}.?){3}$","TIP":"CHE-999.999.999","FLAGS":"","DESCRIPTION":"Tax number"},"SY":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"CN":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"GR":{"RULE":"^(?:EL)? ?\\d{9}$","TIP":"EL 040611387 (EL is optional)","FLAGS":"","DESCRIPTION":"Tax number"},"KW":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"KZ":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"CY":{"RULE":"^(?:CY)?\\d{8}[a-zA-Z]$","TIP":"CY99999999L (Last character has to be a letter) (CY is optional)","FLAGS":"","DESCRIPTION":"Tax number"},"LB":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"TJ":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"CZ":{"RULE":"^(?:CZ)?\\d{8,10}$","TIP":"CZ99999999 | CZ999999999 | CZ9999999999 (CZ is optional)","FLAGS":"","DESCRIPTION":"Tax number"},"TM":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"TN":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"PK":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"PL":{"RULE":"^(?:PL)?\\d{10}$","TIP":"PL9999999999","FLAGS":"","DESCRIPTION":"Tax Number"},"LI":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"},"TR":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No tax number defined in this country yet"}},"CashCareCouponCode":{"ALL":{"RULE":"^cashcare2015[krf]$","TIP":"","FLAGS":"i","DESCRIPTION":"Used for Cashcare Coupon Microsite"}},"Phone":{"ALL":{"RULE":"^ *(((0{2}|\\+|\\(|\\-)+ ?([1-9]{1,3})(\\)?))|0)?( *-? *)?(\\(*[0-9\\-]{2,5}\\)*)?( *[/|\\-\\.]? *)?([0-9\\-]{4,13}|([0-9]{1,3}[ \\-\\.]?){1,5})+([\\.\\-]*[0-9]{1,5})?( [;,] ([0-9\\-]{4,13})*|([0-9]{1,3}[ \\-]?){1,5})(wew\\.[0-9]{1,5})* *$","TIP":"","FLAGS":"","DESCRIPTION":"+49 1234 1234567, 004912341234567, +491234/1234567, 00491234/1234567, +49 - 1234/1234567, 0049 1234 / 1234567, 0049 1234 / 1234567, 1234 / 123456"}},"ZipCode":{"DE":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""},"PT":{"RULE":"^ *[0-9]{4}(-[0-9]{3})? *$","TIP":"1234, 1234-567","FLAGS":"","DESCRIPTION":""},"DK":{"RULE":"^ *[0-9]{4} *$","TIP":"","FLAGS":"","DESCRIPTION":""},"LT":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""},"LU":{"RULE":"^ *[0-9]{4} *$","TIP":1234,"FLAGS":"","DESCRIPTION":""},"HR":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""},"LV":{"RULE":"^ *([a-zA-Z]{2}-)?[0-9]{4} *$","TIP":"1234, AB-1234","FLAGS":"","DESCRIPTION":""},"UA":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""},"YE":{"RULE":"^ *.+ *$","TIP":"","FLAGS":"","DESCRIPTION":"No postal codes in this country"},"HU":{"RULE":"^ *[0-9]{4} *$","TIP":1234,"FLAGS":"","DESCRIPTION":""},"LY":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""},"QA":{"RULE":"^ *.+ *$","TIP":"","FLAGS":"","DESCRIPTION":"No postal codes in this country"},"MA":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""},"DZ":{"RULE":"^ *[0-9]{5} *$","TIP":"","FLAGS":"","DESCRIPTION":""},"MC":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""},"MD":{"RULE":"^ *[0-9]{4} *$","TIP":1234,"FLAGS":"","DESCRIPTION":""},"ME":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""},"IE":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":"No zip code system used"},"MK":{"RULE":"^ *[0-9]{4} *$","TIP":1234,"FLAGS":"","DESCRIPTION":""},"EE":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""},"MN":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""},"EG":{"RULE":"^ *[0-9]{5} *","TIP":12345,"FLAGS":"","DESCRIPTION":""},"AD":{"RULE":"^ *[a-zA-Z]{2}[0-9]{3} *$","TIP":"AD123","FLAGS":"","DESCRIPTION":""},"IL":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""},"AE":{"RULE":"^ *.+ *$","TIP":"","FLAGS":"","DESCRIPTION":"No postal codes in this country"},"AF":{"RULE":"^ *[0-9]{4} *$","TIP":1234,"FLAGS":"","DESCRIPTION":""},"IN":{"RULE":"^ *[0-9]{6} *$","TIP":123456,"FLAGS":"","DESCRIPTION":""},"UZ":{"RULE":"^ *[0-9]{6} *$","TIP":123456,"FLAGS":"","DESCRIPTION":""},"MT":{"RULE":"^ *[a-zA-Z]{3}( [0-9]{4})? *$","TIP":"ABC 1234","FLAGS":"","DESCRIPTION":""},"IQ":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""},"IR":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""},"IS":{"RULE":"^ *[0-9]{3} *$","TIP":123,"FLAGS":"","DESCRIPTION":""},"AL":{"RULE":"^ *[0-9]{4} *$","TIP":1234,"FLAGS":"","DESCRIPTION":""},"IT":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""},"VA":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""},"AM":{"RULE":"^ *[0-9]{4} *$","TIP":1234,"FLAGS":"","DESCRIPTION":""},"ER":{"RULE":"^ *.+ *$","TIP":"","FLAGS":"","DESCRIPTION":"No postal codes in this country"},"ES":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""},"ET":{"RULE":"^ *[0-9]{4} *$","TIP":1234,"FLAGS":"","DESCRIPTION":""},"AT":{"RULE":"^ *[0-9]{4} *$","TIP":1234,"FLAGS":"","DESCRIPTION":""},"AZ":{"RULE":"^ *(?:[A-Za-z]{2} )?[0-9]{4} *$","TIP":"AZ 1234 or 1234","FLAGS":"","DESCRIPTION":""},"RO":{"RULE":"^ *[0-9]{6} *$","TIP":123456,"FLAGS":"","DESCRIPTION":""},"NL":{"RULE":"^ *[0-9]{4}( [a-zA-Z]{2})? *$","TIP":"1234, 1234 AB","FLAGS":"","DESCRIPTION":""},"BA":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""},"NO":{"RULE":"^ *[0-9]{4} *$","TIP":1234,"FLAGS":"","DESCRIPTION":""},"RS":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""},"NP":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""},"BE":{"RULE":"^ *[0-9]{4} *$","TIP":1234,"FLAGS":"","DESCRIPTION":""},"FI":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""},"RU":{"RULE":"^ *[0-9]{6} *$","TIP":123456,"FLAGS":"","DESCRIPTION":""},"BG":{"RULE":"^ *[0-9]{3,4} *$","TIP":"123 or 1234","FLAGS":"","DESCRIPTION":""},"JO":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""},"BH":{"RULE":"^ *.+ *$","TIP":"","FLAGS":"","DESCRIPTION":"No postal codes in this country"},"FO":{"RULE":"^ *[0-9]{3} *$","TIP":123,"FLAGS":"","DESCRIPTION":""},"FR":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""},"SA":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""},"BR":{"RULE":"^ *[0-9]{5}-[0-9]{3} *$","TIP":"","FLAGS":"","DESCRIPTION":""},"SE":{"RULE":"^ *[0-9]{3} ?[0-9]{2,3} *$","TIP":"123 45, 123 456, 12345 or 123456","FLAGS":"","DESCRIPTION":""},"SI":{"RULE":"^ *[0-9]{4} *$","TIP":1234,"FLAGS":"","DESCRIPTION":""},"BY":{"RULE":"^ *[0-9]{2,3}-?[0-9]{3} *$","TIP":"12345, 123456, 12-345","FLAGS":"","DESCRIPTION":""},"SK":{"RULE":"^ *[0-9]{3} ?[0-9]{2} *$","TIP":"123 45","FLAGS":"","DESCRIPTION":""},"SM":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""},"GB":{"RULE":"^ *[a-zA-Z0-9]{1,4} ?[a-zA-Z0-9]{1,3} *$","TIP":"AB1 2CD","FLAGS":"","DESCRIPTION":""},"KG":{"RULE":"^ *[0-9]{6} *$","TIP":123456,"FLAGS":"","DESCRIPTION":""},"GE":{"RULE":"^ *[0-9]{4} *$","TIP":1234,"FLAGS":"","DESCRIPTION":""},"OM":{"RULE":"^ *[0-9]{3} *$","TIP":123,"FLAGS":"","DESCRIPTION":""},"GI":{"RULE":"^ *.+ *$","TIP":"","FLAGS":"","DESCRIPTION":"No postal codes in this country"},"CH":{"RULE":"^ *[0-9]{4} *$","TIP":1234,"FLAGS":"","DESCRIPTION":""},"SY":{"RULE":"^ *.+ *$","TIP":"","FLAGS":"","DESCRIPTION":"No postal codes in this country"},"CN":{"RULE":"^ *[0-9]{6} *$","TIP":"","FLAGS":"","DESCRIPTION":""},"GR":{"RULE":"^ *[0-9]{3} ?[0-9]{2} *$","TIP":"123 45, 12345","FLAGS":"","DESCRIPTION":""},"KW":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""},"KZ":{"RULE":"^ *[0-9]{6} *$","TIP":123456,"FLAGS":"","DESCRIPTION":""},"CY":{"RULE":"^ *[0-9]{4} *$","TIP":1234,"FLAGS":"","DESCRIPTION":""},"LB":{"RULE":"^ *[0-9]{4} *$","TIP":1234,"FLAGS":"","DESCRIPTION":""},"TJ":{"RULE":"^ *[0-9]{6} *$","TIP":123456,"FLAGS":"","DESCRIPTION":""},"CZ":{"RULE":"^ *[0-9]{3}? ?[0-9]{2} *$","TIP":"123 45","FLAGS":"","DESCRIPTION":""},"TM":{"RULE":"^ *[0-9]{6} *$","TIP":123456,"FLAGS":"","DESCRIPTION":""},"TN":{"RULE":"^ *[0-9]{4} *$","TIP":1234,"FLAGS":"","DESCRIPTION":""},"PK":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""},"PL":{"RULE":"^ *[0-9]{2}-[0-9]{3} *$","TIP":"12-345","FLAGS":"","DESCRIPTION":""},"LI":{"RULE":"^ *[0-9]{4} *$","TIP":1234,"FLAGS":"","DESCRIPTION":""},"TR":{"RULE":"^ *[0-9]{5} *$","TIP":12345,"FLAGS":"","DESCRIPTION":""}},"PersonName":{"ALL":{"RULE":"^([\\p{L},\\-]+[\\s0-9\\.]*)+$","TIP":"","FLAGS":"","DESCRIPTION":""}},"TimoComId":{"ALL":{"RULE":"^(?:(?:[0-9]{5}[1-9])|(?:[0-9]{4}[1-9][0-9])|(?:[0-9]{3}[1-9][0-9]{2})|(?:[0-9]{2}[1-9][0-9]{3})|(?:[0-9]{1}[1-9][0-9]{4})|(?:[0-9]{0}[1-9][0-9]{5}))$","TIP":"","FLAGS":"","DESCRIPTION":"TimoCom Customer Id"}},"Email":{"ALL":{"RULE":"^ *[a-zA-Z0-9!#$%&'*+/=?^_`{|}~\\-\\.]+(?:\\.[a-zA-Z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:_*[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])? *$","TIP":"","FLAGS":"","DESCRIPTION":""}},"StartWithLetter":{"ALL":{"RULE":"^ *\\p{L}.* *$","TIP":"","FLAGS":"","DESCRIPTION":""}},"region":{"DE":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"PT":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"DK":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"LT":{"RULE":"^(international|national)$","TIP":"","FLAGS":"","DESCRIPTION":""},"LU":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"HR":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"LV":{"RULE":"^(international|national)$","TIP":"","FLAGS":"","DESCRIPTION":""},"UA":{"RULE":"^(international|national)$","TIP":"","FLAGS":"","DESCRIPTION":""},"YE":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"HU":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"LY":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"QA":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"MA":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"DZ":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"MC":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"MD":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"ME":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"IE":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"MK":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"EE":{"RULE":"^(international|national)$","TIP":"","FLAGS":"","DESCRIPTION":""},"MN":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"EG":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"AD":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"IL":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"AE":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"AF":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"IN":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"UZ":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"MT":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"IQ":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"IR":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"IS":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"AL":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"IT":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"VA":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"AM":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"ER":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"ES":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"ET":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"AT":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"AZ":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"RO":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"NL":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"BA":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"NO":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"RS":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"NP":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"BE":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"FI":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"RU":{"RULE":"^(international|national)$","TIP":"","FLAGS":"","DESCRIPTION":""},"BG":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"JO":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"BH":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"FO":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"FR":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"SA":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"BR":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"SE":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"SI":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"BY":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"SK":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"SM":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"GB":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"KG":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"GE":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"OM":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"GI":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"CH":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"SY":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"CN":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"GR":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"KW":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"KZ":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"CY":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"LB":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"TJ":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"CZ":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"TM":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"TN":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"PK":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"PL":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"LI":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""},"TR":{"RULE":"^.*$","TIP":"","FLAGS":"","DESCRIPTION":""}},"Country":{"ALL":{"RULE":"^ *[A-Z]{2} *$","TIP":"DE, AT, GB, etc.","FLAGS":"","DESCRIPTION":"Country ISO3166 validation"}},"CountryCode":{"ALL":{"RULE":"^ *((0{2}|\\+){1}? ?([1-9]{1}[0-9]{0,2})) *$","TIP":"","FLAGS":"","DESCRIPTION":"Country Phone Code"}},"OneOrZero":{"ALL":{"RULE":"^[0-1]{1}$","TIP":"","FLAGS":"","DESCRIPTION":""}},"Color":{"ALL":{"RULE":"^ *(0x|#)(?:[0-9A-Fa-f]{6}|[0-9A-Fa-f]{8}) *$","TIP":"","FLAGS":"","DESCRIPTION":"24bit or 32bit hexidecimal color values"}},"CompanyName":{"ALL":{"RULE":"^([0-9\\.\\s\\,\"]*[\\p{L}-\\.\\,]+[\\s0-9\\.\\,\"\\+&\\-@/]*)+$","TIP":"","FLAGS":"","DESCRIPTION":""}},"String":{"ALL":{"RULE":"^ *[\\w\\W]+ *$","TIP":"","FLAGS":"","DESCRIPTION":""}},"Bic":{"ALL":{"RULE":"^ *[A-Za-z]{8,11} *$","TIP":"","FLAGS":"","DESCRIPTION":"Bank Intenational Code"}},"Integer":{"ALL":{"RULE":"^ *[0-9]+ *$","TIP":"","FLAGS":"","DESCRIPTION":""}}},
+    checkRule: function(value, rule, flags, mandatory) {
+        try {
+            flags = typeof flags !== 'undefined' ? flags : '';
+            mandatory = typeof mandatory !== 'undefined' ? mandatory : true;
+            
+            if($.trim(value) === '' && ! mandatory) {
+                return true;
+            }
+            
+            return XRegExp(rule, flags).test(value);
+        }
+        catch(e) {
+            if(typeof XRegExp === 'undefined') {
+                try {
+                    console.log("XRegExp is undefined!");
+                }
+                catch(ie) {
+                    // console.log can be undefined in some IE cases
+                }
+            }
+            else {
+                try {
+                    console.log("The rule '"+rule+"' isn't working properly!");
+                }
+                catch(ie) {
+                    // console.log can be undefined in some IE cases
+                }
+            }
+            return false;
+        }
+    },
+    getRuleAndFlags: function(type, iso639, iso3166, singleRule, singleFlags) {
+        if(typeof singleRule !== 'undefined' && singleRule !== '') {
+            return {
+                rule:  singleRule,
+                flags: singleFlags
+            };
+        }
+        if(typeof iso639 !== 'undefined' && iso639 !== '') {
+            return {
+                rule: formValidate.rules[type][iso639].RULE,
+                flags: formValidate.rules[type][iso639].FLAGS
+            };
+        }
+        if(typeof iso3166 !== 'undefined' && iso3166 !== '') {
+            return {
+                rule: formValidate.rules[type][iso3166].RULE,
+                flags: formValidate.rules[type][iso3166].FLAGS
+            };
+        }
+        
+        return {
+            rule: formValidate.rules[type]['ALL'].RULE,
+            flags: formValidate.rules[type]['ALL'].FLAGS
+        };
+    }
+};
+
+$(function() {
+    var fieldSelection  = 'input[data-mandatory]:not([type="radio"]), textarea[data-mandatory]',
+        selectSelection = 'select[data-mandatory]',
+        radioSelection  = 'input[data-mandatory][type="radio"]';
+    
+    $('submit, [type="submit"]', 'form[data-validate="true"]').on('click', function(e) {
+        e.returnValue = false;
+        if(e.preventDefault) e.preventDefault();
+        if(e.stop) e.stop();
+        
+        var thisForm = $(this).closest('form');
+        var inputLength = $(fieldSelection+', '+ selectSelection, thisForm).length;
+        var allOk = true;
+        var warningClass = thisForm.attr('data-warningClass') || 'warning';
+        
+        var additionalValidation = thisForm.attr('data-additionalValidation');
+        if(typeof additionalValidation !== 'undefined') {
+            if(typeof window[additionalValidation] === 'function') {
+                allOk = window[additionalValidation]();
+            }
+        }
+        
+        $((function() {
+            var radioNames = [];
+            $(radioSelection, thisForm).map(function(){
+                radioNames.push($(this).attr('name'));
+            });
+            return $.unique(radioNames);
+        })()).each(function(index, radioName) {
+            allOk = checkRadio(radioName, thisForm) && allOk ? true : false;
+        });
+        
+        $(fieldSelection+', '+ selectSelection, thisForm).each(function(index) {
+            allOk = checkField($(this), thisForm) && allOk ? true : false;
+            
+            if(index === inputLength-1 && allOk) {
+                thisForm.submit();
+            }
+            else {
+                if($('.'+warningClass, thisForm).length > 0) {
+                    $('#fillFieldsValid', thisForm).removeClass('hide');
+                }
+                else {
+                    $('#fillFieldsValid', thisForm).addClass('hide');
+                }
+                if($('#colorbox').length > 0) {
+                    $.colorbox.resize();
+                }
+            }
+        });
+        
+        return false;
+    });
+    
+    $(fieldSelection, 'form[data-validate="true"]').on('keyup blur', function() {
+        checkField($(this), $(this).closest('form'));
+    });
+    
+    $(selectSelection, 'form[data-validate="true"]').on('change blur', function() {
+        checkField($(this), $(this).closest('form'));
+    });
+    
+    $(radioSelection, 'form[data-validate="true"]').on('click', function() {
+        checkRadio($(this).attr('name'), $(this).closest('form'));
+    });
+    
+    var getAttribute = function($field, $form, attribute) {
+        var attrValue = $($field.attr(attribute), $form).length === 1 ? $($field.attr(attribute), $form).val() : $field.attr(attribute);
+        if(typeof attrValue !== 'undefined') {
+            if(attrValue.length > 2) {
+                attrValue = $(attrValue).val().toUpperCase();
+            }
+        }
+        return attrValue;
+    };
+    
+    var checkField = function($field, $form) {
+        var checkRuleForField = function(validation) {
+            if(formValidate.checkRule($field.val(), validation.rule, validation.flags, (mandatory === 'true'))) {
+                $field.closest('.control-group').removeClass(warningClass);
+                return true;
+            }
+            else {
+                $field.closest('.control-group').addClass(warningClass);
+                return false;
+            }
+        };
+        
+        var toReturn  = false;
+        var mandatory = $field.attr('data-mandatory');
+        var warningClass = $field.closest('form').attr('data-warningClass') || 'warning';
+        
+        if($field.attr('type') === 'checkbox') {
+            toReturn = mandatory ? $field.prop('checked') : ! mandatory;
+            if(toReturn) {
+                $field.closest('.control-group').removeClass(warningClass);
+            }
+            else {
+                $field.closest('.control-group').addClass(warningClass);
+            }
+        }
+        else {
+            var validation = formValidate.getRuleAndFlags($field.attr('data-ruleType'),
+                                                          getAttribute($field, $form, 'data-language'),
+                                                          getAttribute($field, $form, 'data-country'),
+                                                          $field.attr('data-rule'),
+                                                          $field.attr('data-flags'));
+            
+            if(typeof validation !== 'undefined') {
+                toReturn = checkRuleForField(validation);
+                if(toReturn) {
+                    if(typeof $field.attr('data-reValidateDependendies') !== 'undefined' && typeof $field.attr('data-dependencyAttribute') !== 'undefined') {
+                        $('['+$field.attr('data-dependencyAttribute')+']', $form).each(function() {
+                            checkField($(this), $form);
+                        });
+                    }
+                }
+            }
+            else {
+                toReturn = ! mandatory;
+            }
+        }
+        return toReturn;
+    };
+    
+    var checkRadio = function($fieldName, $form) {
+        var $field     = $('input[type="radio"][name="'+$fieldName+'"]', $form),
+            value      = $('input[type="radio"][name="'+$fieldName+'"]:checked', $form).val(),
+            toReturn   = false,
+            mandatory  = false,
+            validation = '',
+            warningClass = $field.closest('form').attr('data-warningClass') || 'warning';
+        
+        mandatory = $field.attr('data-mandatory') || false;
+        
+        if(typeof value === 'undefined') {
+            if(! mandatory) {
+                $field.closest('.well').removeClass(warningClass);
+                return true;
+            }
+            else {
+                $field.closest('.well').addClass(warningClass);
+                return false;
+            }
+        }
+        
+        validation = formValidate.getRuleAndFlags($field.attr('data-ruleType'),
+                                            getAttribute($field, $form, 'data-language'),
+                                            getAttribute($field, $form, 'data-country'),
+                                            $field.attr('data-rule'));
+        
+        if(typeof validation !== 'undefined') {
+            if(formValidate.checkRule(value, validation.rule, validation.flags, mandatory)) {
+                $field.closest('.well').removeClass(warningClass);
+                return true;
+            }
+            else {
+                $field.closest('.well').addClass(warningClass);
+                return false;
+            }
+        }
+        else {
+            return (! mandatory);
+        }
+    };
+});

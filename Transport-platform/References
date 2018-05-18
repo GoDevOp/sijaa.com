@@ -1,0 +1,3617 @@
+
+    
+<!DOCTYPE html>
+<!--[if IE 7]> <html class="no-js lt-ie10 lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie10 lt-ie9"> <![endif]-->
+<!--[if IE 9]> <html class="no-js lt-ie10"> <![endif]-->
+<html lang="en" class="no-js">
+<head>
+    
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="author" content="TimoCom Soft- und Hardware GmbH">
+    <meta name="revisit-after" content="5 days">
+    <meta name="robots" content="index,follow">
+    <meta name="robots" content="noodp">
+    <meta name="referrer" content="origin">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="theme-color" content="#0069B4">
+    
+
+    
+    
+        
+    
+    
+		
+
+		
+			
+    <link rel="alternate" href="https://www.timocom.bg/Транспортна-платформа/Препоръки" hreflang="bg" />
+
+    <link rel="alternate" href="https://www.timocom.cz/Dopravní-platforma/Reference" hreflang="cs" />
+
+    <link rel="alternate" href="https://www.timocom.dk/Transportplatform/Referencer" hreflang="da" />
+
+    <link rel="alternate" href="https://www.timocom.de/Transportplattform/Referenzen" hreflang="de" />
+
+    <link rel="alternate" href="https://www.timocom.gr/Πλατφόρμα-μεταφοράς/Συστάσεις" hreflang="el" />
+
+    <link rel="alternate" href="https://www.timocom.co.uk/Transport-platform/References" hreflang="en" />
+
+    <link rel="alternate" href="https://www.timocom.es/Plataforma-de-transportes/Referencias" hreflang="es" />
+
+    <link rel="alternate" href="https://www.timocom.fi/Kuljetusverkkopalvelu/Suosittelijat" hreflang="fi" />
+
+    <link rel="alternate" href="https://www.timocom.fr/Plateforme-de-transport/Références-clients" hreflang="fr" />
+
+    <link rel="alternate" href="https://www.timocom.com.hr/Transportna-platforma/Reference" hreflang="hr" />
+
+    <link rel="alternate" href="https://www.timocom.hu/Transportna-platforma/Referencia" hreflang="hu" />
+
+    <link rel="alternate" href="https://www.timocom.it/Piattaforma-di-trasporto/Referenze" hreflang="it" />
+
+    <link rel="alternate" href="https://www.timocom.lt/Transporto-platforma/Klientų-atsiliepimai" hreflang="lt" />
+
+    <link rel="alternate" href="https://www.timocom.lv/Pārvadātāju-platforma/Atsauksmes" hreflang="lv" />
+
+    <link rel="alternate" href="https://mk.timocom.com/Транспортна-платформа/Референци" hreflang="mk" />
+
+    <link rel="alternate" href="https://www.timocom.nl/Transportplatform/Referenties" hreflang="nl" />
+
+    <link rel="alternate" href="https://no.timocom.com/Transportplattform/Referanser" hreflang="no" />
+
+    <link rel="alternate" href="https://www.timocom.pl/Platforma-transportowa/Referencje" hreflang="pl" />
+
+    <link rel="alternate" href="https://www.timocom.pt/Plataforma-de-transporte/Referências" hreflang="pt" />
+
+    <link rel="alternate" href="https://www.timocom.ro/Platforma-de-transport/Referinţe" hreflang="ro" />
+
+    <link rel="alternate" href="https://www.timocom.ru/Транспортная-платформа/Отзывы" hreflang="ru" />
+
+    <link rel="alternate" href="https://www.timocom.sk/Dopravná-platforma/Referencie" hreflang="sk" />
+
+    <link rel="alternate" href="https://www.timocom.si/Prevozniška-platforma/Reference" hreflang="sl" />
+
+    <link rel="alternate" href="https://www.timocom.rs/Transportna-platforma/Preporuke" hreflang="sr" />
+
+    <link rel="alternate" href="https://www.timocom.se/Transportplattform/Referenser" hreflang="sv" />
+
+    <link rel="alternate" href="https://www.timocom.com.tr/Taşımacılık-platformu/Referans" hreflang="tr" />
+
+    <link rel="alternate" href="https://www.timocom.com.ua/Транспортна-платформа/Рекомендації" hreflang="uk" />
+
+		
+	
+     
+    <link rel="stylesheet" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/css/core.min.css?v=1526285106">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/mobile-icons/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/mobile-icons/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/mobile-icons/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/mobile-icons/apple-touch-icon-57-precomposed.png">
+    <link rel="icon" sizes="72x72" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/mobile-icons/android-icon-72.png">
+    <link rel="icon" sizes="128x128" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/mobile-icons/android-icon-128.png">
+    <link rel="icon" sizes="144x144" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/mobile-icons/android-icon-144.png">
+    <link rel="icon" sizes="192x192" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/mobile-icons/android-icon-192.png">
+    <link rel="shortcut icon" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/favicon.ico">
+    <!--[if lte IE 9]>
+        <link rel="stylesheet" href="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/css/ie.min.css?v=1526285106">
+    <![endif]-->
+    <link rel="stylesheet" href="/WWW/sec/themes/tcportal_tcgui/css/tcportal.min.css?v=1526285106">
+    
+        <link rel="stylesheet" href="/WWW/sec/themes/tcportal_tcgui/css/fullsize.min.css?v=1526285106">
+    
+
+    <script src="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/js/vendor.min.js?v=1526285106"></script>
+
+    <link href="https://plus.google.com/112173973951136550729" rel="publisher">
+    <script src="/WWW/sec/themes/tcportal_tcgui/js/analytics/tcTrackEvent.min.js?v=1526285106"></script>
+
+    
+<!-- Copyright (c) 2000-2017 etracker GmbH. All rights reserved. -->
+<!-- This material may not be reproduced, displayed, modified or distributed -->
+<!-- without the express prior written permission of the copyright holder. -->
+<!-- etracker tracklet 4.1 -->
+<script type="text/javascript">
+    var et_pagename = "/Transport-platform/References";
+</script>
+<script id="_etLoader" type="text/javascript" charset="UTF-8" data-secure-code="M59E9x" data-slave-codes="M59CPK" src="//static.etracker.com/code/e.js"></script>
+<!-- etracker tracklet 4.1 end -->
+
+<script src='/WWW/sec/themes/tcportal_tcgui/js/module/content/reference/colorbox.js'></script><link rel='stylesheet' href='/WWW/sec/themes/tcportal_tcgui/css/module/content/reference/reference.css'><meta name="twitter:site" content="@TimoCom" /><link rel="canonical" href="https://www.timocom.co.uk/Transport-platform/References" /><meta name="twitter:image:src" content="https://www.timocom.co.uk/WWW/sec/themes/tcportal_tcgui/img/socialMedia/fbSharingBild.jpg" /><meta name="twitter:title" content="References | Transport-platform | Freight Exchange - TimoCom" /><meta property="og:title" content="References | Transport-platform | Freight Exchange - TimoCom" /><meta name="twitter:card" content="summary_large_image" /><meta name="description" content="The following freight forwarding and transport companies as well as companies from manufacturing and trade successfully work with the transport platform TimoCom." /><meta property="og:image" content="https://www.timocom.co.uk/WWW/sec/themes/tcportal_tcgui/img/socialMedia/fbSharingBild.jpg" /><meta property="og:type" content="website" /><meta property="og:description" content="The following freight forwarding and transport companies as well as companies from manufacturing and trade successfully work with the transport platform TimoCom" /><title>References | Transport-platform | Freight Exchange - TimoCom </title><meta name="twitter:creator" content="@TimoCom" /><meta property="og:url" content="https://www.timocom.co.uk/Transport-platform/References" /><meta property="og:site_name" content="" /><meta name="twitter:description" content="The following freight forwarding and transport companies as well as companies from manufacturing and trade successfully work with the transport platform TimoCom" /></head>
+
+<body data-spy="scroll" data-target=".bs-docs-sidebar" class="scrolloff" data-who="pro02">
+    
+
+<header>
+    <div class="container visible-print">
+        <img src="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/assets/gfx/tclogos/timocom-black.png" title="TimoCom Logo" alt="TimoCom Logo">
+    </div>
+    <div class="appheader" id="nav">
+        <div id="mainnav" class="navbar navbar-fixed-top">
+            <div class="navbar-inner">
+                <div class="container-fluid">
+                    <a data-toggle="collapse" data-target=".nav-collapse" class="btn btn-navbar">
+                        <i class="icon-show-lines"></i>
+                    </a>
+                    <a data-placement="bottom" title="TimoCom" href="/" class="brand dropdown nowrap visible-phone visible-tablet">
+                        <i title="TimoCom" class="logo-timocom-white"></i> <b class="caret hidden-phone"></b>
+                    </a>
+                    <div class="nav-collapse collapse">
+                        
+		
+
+		
+			
+
+<div class="clearfix">
+    <ul class="nav pull-left">
+        
+            
+                <li>
+                    <a data-placement="bottom" title="TimoCom" href="/" class="brand nowrap visible-desktop hidden-tablet ">
+                        <i title="TimoCom" class="logo-timocom-white"></i></a>
+                </li>
+            
+            <li class="dropdown">
+                
+                    
+                
+                <ul class="dropdown-menu" role="menu">
+                    <div class="mega-content">
+                        <div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/" target="_self" title="The market leader among Europe's vehicle and freight exchanges! Reasonable monthly flat rate - with no hidden costs. Up to 4-week free, non-obligatory test phase." >Welcome</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                        </div>
+                    </div>
+                </ul>
+            </li>
+        
+            
+            <li class="dropdown">
+                
+                    
+                        <a title=""
+                            
+                            
+                                
+                                    href="/The-Freight-Exchange/Transport-exchange"
+                                
+                            
+                             class="active"
+                            >Transport platform</a>
+                    
+                
+                <ul class="dropdown-menu" role="menu">
+                    <div class="mega-content">
+                        <div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">The Freight Exchange</li>
+                                
+                                
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/The-Freight-Exchange/Transport-exchange" target="_self" title="Reasonable monthly flat rate – with no hidden costs. Up to four week free, non-obligatory testphase. The market leader among Europe's vehicle and freight exchanges!" >Transport exchange</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/The-Freight-Exchange/Freight-offers" target="_self" title="All types of freights are offered in the freight exchange TC Truck&amp;Cargo. From a large envelope that is transported by courier to an oversize machine." >Freight offers</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/The-Freight-Exchange/Vehicle-offers" target="_self" title="Available vehicle space for all types of loads. From curtain siders to silo semi-trailers." >Vehicle offers</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/The-Freight-Exchange/Warehouse-offers" target="_self" title="Europe's largest warehousing exchange – with up to 30,000 warehousing and logistics possibilities. Find all contact details as well as warehousing type and usage in TimoCom's warehousing directory." >Warehouse offers</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">Transport tenders</li>
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/Tendering-system" target="_self" title="The tendering system for the contract market." >Tendering system</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/The-Tendering-Platform/Service-provider-search" target="_self" title="Reach a logistics network of over 40,000 verified companies with only one tender." >Service provider search</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/The-Tendering-Platform/Current-tenders" target="_self" title="Obtain long-term transport contracts and permanent business partners." >Current tenders</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">Transport orders</li>
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/Transport-platform/Quote-request" target="_self" title="TC Transport Order – Quote requests & order handling on TimoCom's transport platform" >Quote request</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Transport-platform/Order-Handling" target="_self" title="TC Transport Order – Quote requests & order handling on TimoCom's transport platform" >Order Handling</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">Tracking</li>
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/Tracking/Vehicle-localisation" target="_self" title="All vehicle telematics systems at a glance. Increased security in managing your fleet with GPS tracking in TimoCom Tracking." >Vehicle localisation</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Tracking/Telematics-provider" target="_self" title="Fleet management with GPS exact vehicle localisation: our partners in terms of truck tracking are renowned European telematics providers." >Telematics provider</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                            
+                                </div><div>
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">Connecting customers</li>
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/Transport-platform/Business-directory" target="_self" title="TC Profile is your professional business card in TC Truck&amp;Cargo! Enter your most important company details and keep them up-to-date. Other TimoCom users do the same." >Business directory</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Transport-platform/Messenger" target="_self" title="Diverse communication tool integrated into Europe's largest transport platform. Simplify your personal business communication with the TimoCom Messenger" >Messenger</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Transport-platform/TimoCom-mobile" target="_self" title="With the TimoCom app you have mobile access to Europe's biggest transport platform and can find freight and offer vehicle space wherever you are." >TimoCom mobile</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">Services</li>
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="https://updatepool.timocom.com/en/update" target="_blank" title="Update Pool. All TimoCom updates and new features down to the point." >Update Pool</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Transport-platform/References" target="_self" title="The following freight forwarding and transport companies as well as companies from manufacturing and trade successfully work with the transport platform TimoCom." class="active">References</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Download/Customers-recruit-customers" target="_self" title="Get a €50 bonus for successfully recommending the vehicle and freight exchange TC Truck&amp;Cargo." >Customers recruit customers</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Transport-plattform/Value-for-money" target="_self" title="Up to 750,000 freight and vehicle offers, more than 127,000 users, 44 European countries." >Value for money</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                        </div>
+                    </div>
+                </ul>
+            </li>
+        
+            
+            <li class="dropdown">
+                
+                    
+                        <a title=""
+                            
+                            
+                                href="/Security/Security-net"
+                            
+                            
+                            >Security</a>
+                    
+                
+                <ul class="dropdown-menu" role="menu">
+                    <div class="mega-content">
+                        <div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/Security/Security-net" target="_self" title="Security is a fundamental issue in a freight exchange. It is about protecting customers from 'black sheep' in the transport industry." >Security net</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Security/New-customer-verification" target="_self" title="Before TimoCom grants companies access to the freight exchange or other platforms they are verified by us – our contribution to preventing cargo theft." >New customer verification</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Security/Debt-collection-international" target="_self" title="Our legal department takes care of debt collection and claims management for transport and logistic companies.  Outstanding amounts? Contact TimoCom for assistance!" >Debt collection international</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Security/Technologies" target="_self" title="Security in freight exchange already begins prior to the goods being transported! As a freight exchange we therefore offer a high level of technical security to protect you as our customers." >Technologies</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Security/Access-software" target="_self" title="Our contribution to more security in freight exchanges and for transport tenders! You can only access TimoCom by means of a personalised login software." >Access software</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Security/Check-lists" target="_self" title="Important rules and tips for even more security in the freight exchange. Find the most important rules as to how to actively protect your company against freight theft here." >Check lists</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/Security/Identity-verification" target="_self" title="The new, free of charge service TimoCom Identify assists in identifying your business partner if you have doubts." >Identity verification</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                        </div>
+                    </div>
+                </ul>
+            </li>
+        
+            
+            <li class="dropdown">
+                
+                    
+                        <a title=""
+                            
+                            
+                                
+                                    href="/TimoCom/About-Us"
+                                
+                            
+                            
+                            >Company</a>
+                    
+                
+                <ul class="dropdown-menu" role="menu">
+                    <div class="mega-content">
+                        <div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">TimoCom</li>
+                                
+                                
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/TimoCom/About-Us" target="_self" title="TimoCom is an IT service provider for the European transport business Among other things we offer a market leading freight exchange and a universal tracking solution." >About Us</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/TimoCom/Partners" target="_self" title="Networking pays off: TimoCom cooperates with the following companies from the fields of transport, economy and education." >Partners</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/TimoCom/Commitment" target="_self" title="TimoCom shows social responsibility and is committed to environmental sustainability. We are convinced of the importance of corporate social responsibility." >Commitment</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">Careers</li>
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/TimoCom/Jobs-careers" target="_self" title="Here you find job vacancies for our headquarter in Erkrath, Germany. " >Jobs & careers</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                    <li class="nav-header">News</li>
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/News/Press-information" target="_self" title="Read TimoCom's press releases and articles from newspapers, magazines as well as specialist journals. 
+" >Press information</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/News/Newsletter" target="_self" title="" >Newsletter</a>
+                                        </li>
+                                    
+                                
+                                    
+                                        <li>
+                                            <a href="/News/Media-library" target="_self" title="Searching for a suitable transport image for your article? No problem! Simply download photos, graphics or images from TimoCom free of charge." >Media library</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                        </div>
+                    </div>
+                </ul>
+            </li>
+        
+            
+            <li class="dropdown">
+                
+                    
+                        <a title=""
+                            
+                            
+                                href="/Contact/Info-Center"
+                            
+                            
+                            >Contact</a>
+                    
+                
+                <ul class="dropdown-menu" role="menu">
+                    <div class="mega-content">
+                        <div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/Contact/Info-Center" target="_self" title="Get in contact with TimoCom, e.g. by phone, fax or email. Also find the telephone number and the customer service hotline for the freight exchange here." >Info Center</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                        </div>
+                    </div>
+                </ul>
+            </li>
+        
+            
+            <li >
+                
+                    <a class="isButton" title=""
+                    
+                    
+                        href="/Apply-now/"
+                    
+                    >Apply now</a>
+                
+                <ul class="dropdown-menu" role="menu">
+                    <div class="mega-content">
+                        <div>
+                        
+                            
+                            <div class="mega-group">
+                                
+                                
+                                    
+                                        <li>
+                                            <a href="/Apply-now/" target="_self" title="Test Europe's largest transport platform  including the freight exchange, warehousing exchange, transport tenders and tracking for up to 4 weeks for free." >Apply to test</a>
+                                        </li>
+                                    
+                                
+                            </div>
+                        
+                        </div>
+                    </div>
+                </ul>
+            </li>
+        
+    </ul>
+</div>
+
+		
+	
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="searchbar" class="pull-right">
+        <div class="pull-right">
+            
+		
+
+		
+			
+
+    <script>
+        $(function() {
+            $('#languageSelection').on('click', function() {
+                var gaString = 'Oeffnen der Sprachauswahl in Summe';
+                    ga('globalTracker.send','ClickToOpenChangeLanguage', 'CountrySelectBox', gaString );
+            });
+            $('#languageSelectionBox a[data-country]').on('click', function() {
+                var gaString = 'VonSprache:en NachSprache:'+ $(this).attr("data-country");
+                    ga('globalTracker.send', 'ChangeLanguageHP', 'SelectCountry', gaString);
+            });
+        });
+    </script>
+    <div data-resize="auto" class="btn-group" id="head-langsel">
+        <button class="btn dropdown-toggle" data-toggle="dropdown" title="TimoCom - Freight Exchange" id="languageSelection">
+            <span class="dropdown-label">English</span><span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" onmouseover="$('#flagSelectSpan').show()" id="languageSelectionBox">
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.bg/Транспортна-платформа/Препоръки" title="TimoCom - Транспортна борса" data-country="BG">български</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.cz/Dopravní-platforma/Reference" title="TimoCom - Databanka" data-country="CZ">Čeština</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.dk/Transportplatform/Referencer" title="TimoCom - Fragtbørsen" data-country="DK">Dansk</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.de/Transportplattform/Referenzen" title="TimoCom - Frachtenbörse" data-country="DE">Deutsch</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.gr/Πλατφόρμα-μεταφοράς/Συστάσεις" title="TimoCom - Μεταφορικές" data-country="GR">Ελληνικά</a>
+                </li>
+            
+                <li class="active">
+                    <a target="_self" href="https://www.timocom.co.uk/Transport-platform/References" title="TimoCom - Freight Exchange" data-country="GB">English</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.es/Plataforma-de-transportes/Referencias" title="TimoCom - Bolsa de cargas" data-country="ES">Español</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="http://www.timocom.ee" title="TimoCom - Kaubaveo vahetus" data-country="EE">Eesti keel</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.fi/Kuljetusverkkopalvelu/Suosittelijat" title="TimoCom - Rahtipörssi" data-country="FI">Suomi</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.fr/Plateforme-de-transport/Références-clients" title="TimoCom - Bourse de Fret" data-country="FR">Français</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.com.hr/Transportna-platforma/Reference" title="TimoCom - Burza utovara" data-country="HR">Hrvatski</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.hu/Transportna-platforma/Referencia" title="TimoCom - Fuvarbörze" data-country="HU">Magyar</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.it/Piattaforma-di-trasporto/Referenze" title="TimoCom - Borsa di Carico" data-country="IT">Italiano</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.lt/Transporto-platforma/Klientų-atsiliepimai" title="TimoCom - Krovinių birža" data-country="LT">Lietuvių</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.lv/Pārvadātāju-platforma/Atsauksmes" title="TimoCom - Transporta birža" data-country="LV">Latviešu</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://mk.timocom.com/Транспортна-платформа/Референци" title="TimoCom - Транспортна берза" data-country="MK">Македонски</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.nl/Transportplatform/Referenties" title="TimoCom - Vrachtuitwisseling" data-country="NL">Nederlands</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://no.timocom.com/Transportplattform/Referanser" title="TimoCom - Fraktbørsen" data-country="NO">Norsk</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.pl/Platforma-transportowa/Referencje" title="TimoCom - Giełda Transportowa" data-country="PL">Polski</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.pt/Plataforma-de-transporte/Referências" title="TimoCom - bolsa de cargas" data-country="PT">Português</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.ro/Platforma-de-transport/Referinţe" title="TimoCom - Bursa transporturilor" data-country="RO">Română</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.ru/Транспортная-платформа/Отзывы" title="TimoCom - Краткое описание" data-country="RU">Русский</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.sk/Dopravná-platforma/Referencie" title="TimoCom - Databanka" data-country="SK">Slovenčina</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.si/Prevozniška-platforma/Reference" title="TimoCom - Borza tovorov" data-country="SI">Slovenščina</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.rs/Transportna-platforma/Preporuke" title="TimoCom - Berza utovara" data-country="RS">Srpski</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.se/Transportplattform/Referenser" title="TimoCom - Fraktbörsen" data-country="SE">Svenska</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.com.tr/Taşımacılık-platformu/Referans" title="TimoCom - Yük ve Kargo Borsası" data-country="TR">Türkçe</a>
+                </li>
+            
+                <li>
+                    <a target="_self" href="https://www.timocom.com.ua/Транспортна-платформа/Рекомендації" title="TimoCom - транспортная биржа" data-country="UA">Українська</a>
+                </li>
+            
+        </ul>
+    </div>
+
+		
+	
+        </div>
+        
+            <div class="pull-right">
+                
+
+    <form id="search" action="/?search" method="POST" name="siteSearch">
+        <div class="input-append search">
+            <input type="text" id="searchfield" name="search" class="input-xlarge" placeholder="Search">
+            <button class="btn" name="search" type="submit" value="" title="Start search" id="btnsitesearch"><i class="icon-search"></i></button>
+        </div>
+    </form>
+
+            </div>
+        
+    </div>
+    
+    
+        <div id="breadcrumb" class="container relative">
+            <div class="row-fluid">
+                <div class="span12 hidden-phone">
+                    
+		
+
+		
+			
+    <nav id="nav-breadcrumb" class="fullsize">
+        
+            <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="inline-block">
+                <a href="/" itemprop="url" rel="nofollow"><span itemprop="title">Welcome</span></a> &nbsp;/&nbsp;
+            </div>
+        
+            <div itemscope itemprop="child" itemtype="http://data-vocabulary.org/Breadcrumb" class="inline-block">
+                <a href="/The-Freight-Exchange/Transport-exchange" itemprop="url" rel="nofollow"><span itemprop="title">Transport platform</span></a> &nbsp;/&nbsp;
+            </div>
+        
+            <div itemscope itemprop="child" itemtype="http://data-vocabulary.org/Breadcrumb" class="inline-block">
+                <a href="/Transport-platform/References" itemprop="url" rel="nofollow"><span itemprop="title">References</span></a> 
+            </div>
+        
+    </nav>
+
+		
+	
+                </div>
+            </div>
+        </div>
+    
+    <div id="nojs" class="hide">
+        <div class="container">
+            <div class="alert js-warning">
+                <h4>JavaScript is deactivated in your browser.</h4>
+                The range of functions of this webpage is therefore reduced. To increase the range of use and comfort, please enable JavaScript temporarily in your browser settings.
+            </div>
+        </div>
+    </div>
+    <div class="hidden-phone">
+        
+    </div>
+</header>
+
+    <main>
+        
+        <section id="stage">
+            
+            <div class="content"
+                
+                    data-umenuid="151123114600008"
+                    data-pagetag="reference-timocom"
+                >
+                
+
+    
+		<div class="contentContainer tcStage"><div class="fullsize-header fullsize-bg fullsize-default">
+    <div class="container">
+        <div class="row-fluid margin-top-large">
+            <div class="span12 margin-top margin-bottom">
+                <section>
+                    <div class="row-fluid">
+                        <div class="span12">
+                            <div class="module articleHeader">
+                                <header>
+                                    <h1 class="h1-large text-white"> 
+                                       Satisfied customers are the measure of all things
+                                    </h1>
+                                </header>
+                            </div>
+                            <article>
+                                <div class="module articleBody">
+                                    <p class="margin-bottom text-white copy-large">
+                                    Here is an extract from the list of companies that we have been successfully working and cooperating with.
+                                    </p>
+                                </div>
+                                <div class="module cfModule">
+                                    <ul class="referenceListWrapper span12 clearfix">
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-amco.png">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.amcoservices.co.uk/" target="_blank" rel="noopener noreferrer nofollow">                                            
+                                        
+                                            AMCO Services (International) Limited
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since 12/2012 / TimoCom ID: 201154</strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"TimoCom is one of the best tools for freight forwarding. It has helped us reach out to a whole new partnership base. Our daily success with TimoCom helps to grow our business and to satisfy our customers’ demands."
+<br><br><strong>Phil Schiaffino</strong><br>European Key Account Manager
+</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-adar.png">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="https://adar.pl/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            Adar Sp. z o. o.
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: April 2000 / TimoCom ID: 5591</strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"The use of TC eMap® is immediately noticeable. We do not have to constantly keep our business partners posted. They are able to view the current position of the vehicles which are transporting their goods of their own accord. This saves a great deal of time." 
+<br><br><strong>Adam Aszyk</strong><br>Managing Director</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="http://www.agility.com" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Agility.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Agrorit.jpg">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.agrorit.rs/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            Agrorit d.o.o.
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: May 2003 / TimoCom ID: 22144</strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"In addition to the high success rate and low costs, the amount of time saved is also particularly important. TimoCom has good knowledge of the market through everyday contact with national and international customers. And if somebody does default on payment, their access to the platform can be blocked – this is a quick means of exerting pressure which also works very well internationally." 
+<br><br><strong>Nedeljko Mijatov</strong><br>Transport manager
+</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Arcese-Kech.png">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.kech-transport.de/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            Arcese-Kech Logistics GmbH
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: March 2004 / TimoCom ID: 40099 </strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"We are a satisfied customer of TimoCom because thanks to the platform we have access to up to 450,000 international freight and vehicle offers daily. Quality and security are particularly important to us. The TimoCom ID helps us to generate the necessary trust when it comes to searching for major customers in Belgium and abroad." 
+<br><br><strong>Mario Maccallini</strong><br>Warehouse manager</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/logo-bmk.jpg">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                    <img class="repsonsive" src="/STATIC/binary/900000/contentModule/reference/logo-bmk.jpg">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="https://www.bmk-espana.es/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            BMK España Transporte y Logística S.L
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: Nov 2008 / TimoCom ID: 123871 </strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p><p>You will not be able to make it, if you only work to make money. But if you like what you do and you put your customers first above all, then you will be successful. TimoCom has shown me that they prioritise me as the customer first.</p><br><br><strong>Mr. Youssef Trabelsi</strong><br>Managing Director</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="http://www.btg.de/" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-BTG.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Beeren-s-Internationaal-Transportbedrijf-B-V.png">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://beeren-transport.nl/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            Beeren’s Internationaal Transportbedrijf B.V. 
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: July 2002 / TimoCom ID: 17830 </strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"We have been a customer of TimoCom for almost 13 years now. The freight exchange provides us with access to up to 450,000 international freight and vehicle offers each day. The TimoCom ID often helps us to reinforce a positive impression and to find clients in Germany and the Benelux countries even quicker." 
+<br><br><strong>Mrs. Beeren</strong><br>Managing Director</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-codognotto.png">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.codognotto.eu/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            CODOGNOTTO FRANCE SASU
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: June 2012 / TimoCom ID: 207086</strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"The electronic transport exchange of TimoCom has become essential for us over the last few years. Up to 450,000 freight and vehicle offers daily – that is a real statement. This means that we are always able to utilise our capacities which is both cost effective and environmentally friendly." 
+<br><br><strong>Matteo Codognotto</strong><br>Freight forwarding manager</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Cargoliner-Belgium-BVBA.png">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.cargoliner-europe.com/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            Cargoliner Belgium BVBA
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: June 2011 / TimoCom ID: 187603 </strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"We are in safe hands with TC Truck&Cargo®. This is mainly due to its commitment to security. With the many security measures, black sheep do not have a chance neither on the client nor the suppliers' side. And thanks to the new product TC eMap®, we can now track vehicles everywhere in Europe. The TimoCom Identify service can also be used to verify the identity of a potential business partner in advance." 
+<br><br><strong>Andy Verstrepen Shooten</strong><br>Managing Director</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-cargo-ways.png">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.cargoways.co.uk/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            Cargoways Logistics & Transport Ltd
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since 05/2017 / TimoCom ID: 324237</strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"As an established UK freight forwarder, we are in high demand to offer the best transport solutions to our clients. TimoCom helps us to meet our clients’ needs by matching their requirements with the most suitable, efficient and cost-effective solutions. Reducing empty mileage, finding suitable partners, as well as being able to offer short term solutions, are only some of the benefits we create through our TimoCom membership.  Furthermore, we feel that members of TimoCom are trustworthy partners for Cargoways Logistics & Transport Ltd. to deal with for managing our daily challenges in freight forwarding."<br><br><strong>Michael Duben</strong><br>Managing Director</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="http://www.classen.de" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-Referenz-Classen.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-combinex.png">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.combinex.eu/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            Combinex B.V.
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: December 2000 / TimoCom ID: 81796</strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"In TimoCom we have found a long-term and reliable partner offering us sufficient flexibility through the diversity of offers, even in short-term transport orders." 
+<br><br><strong>Hans de Visser</strong><br>Manager Operations</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-DFDS.jpg">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.dfdslogistics.com" target="_blank" rel="noopener noreferrer">
+                                        
+                                            DFDS Logistics Ltd. - Immingham
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since 11/2011 / TimoCom ID: 199403</strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"DFDS operates one of Europe's largest integrated shipping and logistics networks, offering comprehensive supply chain and shipping solutions to our customers.<br>
+We find TimoCom a very useful tool to find complementary cargo for our fleet to reduce the number of empty trips. It is easy to use and we receive good service from the TimoCom team when necessary."<br><br><strong>Viktor Hansson</strong><br>Commercial Director</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="http://www.dhl.com/" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-DHL.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="http://www.dsv.com/" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-Referenz-DSV.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="http://www.dachser.com/" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Dachser.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-deltatrans.png">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.deltatrans.de/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            Deltatrans Logistics GmbH
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: February 2013 / TimoCom ID: 229132</strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"The programme is very easy to use and you can make many new contacts. TimoCom's customer support staff is also really friendly and supports us effectively." 
+<br><br><strong>Kristina Vassilev</strong><br>Managing Director</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="http://www.ek-pack.com" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-Referenz-EK-Pack.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="http://www.elvis-ag.com/" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-elvis.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="http://www.ewals.com/" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-ECC.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-F-und-R-LOGISTIK.jpg">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.fr-logistik.com/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            F und R LOGISTIK Südost-Europa Spedition GmbH
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: October 2003 / TimoCom ID: 135790</strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"A forwarder called us and asked about the spaces on offer in the TimoCom warehousing exchange. His problem was that he was unable to unload some of his goods at a neighbouring trading company due to an acceptance refusal. This meant that he quickly needed to find a place to store his freight. 30 minutes later, 20 pallets were delivered to our warehouse door." 
+<br><br><strong>Siegfried Rott</strong><br>Owner </p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-FME-Frachtmanagement-Europa-GmbH.png">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://fmeuropa.de/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            FME Frachtmanagement Europa GmbH
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: September 2012 / TimoCom ID: 216382</strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"It was worthwhile for us to use the platform for transportation tendering across Europe, as we were able to establish numerous long-term customer relationships using TC eBid®. We benefit from this in our day-to-day business because we are able to achieve good capacity utilisation of our fleet through fixed and predictable shipments. And this is exactly what we expected from the tendering platform." 
+<br><br><strong>Christopher Kranholdt</strong><br>Branch manager</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="http://www.feigl.de/" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-Referenz-Feigl.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="http://www.fercam.com/" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Fercam.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Fercam-Bulgaria-Srl.png">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.fercam.com" target="_blank" rel="noopener noreferrer">
+                                        
+                                            Fercam Bulgaria Srl
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: July 2007 / TimoCom ID: 95802</strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"We can establish contacts with transport companies from all over Europe and create customised transport solutions using the company information in TC Profile® of TimoCom.“ 
+<br><br><strong>Eli Ilieva</strong><br>Managing Director</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="https://www.fiege.com/" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Fiege.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="http://www.freja.com/" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Freja.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="http://www.gderecyclage.com" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-Referenz-GDE.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="https://www.gefco.net/" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-Referenz-Gefco.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="https://www.geodis.com/" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Geodis.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="http://www.persiehl.de" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-Referenz-H.O.Persiehl.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="http://www.hellmann.net/" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Hellmann.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Cleff-Spedition.png">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.speditioncleff.eu/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            Hermann Cleff GmbH Internationale Spedition
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: May 2001 / TimoCom ID: 10384</strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"When it comes to setting our vehicle capacity, we make sure that we can be tracked in the TC Truck&Cargo® freight exchange for the duration of an order. This is very well-received by potential business partners. We can therefore definitely recommend working with both our partners LOSTnFOUND and TimoCom for the day-to-day transport business based on our own experience." 
+<br><br><strong>Joaquin Ruiz</strong><br>Authorised representative</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Hermes.jpg">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="https://www.hermesworld.com/int/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            Hermes Transport Logistics GmbH 
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: October 2012 / TimoCom ID: 220129 </strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"TimoCom, as a market leader, offers an intuitive user interface in addition to the largest range of cargo and cargo spaces. With the aid of the electronic freight exchange, backlogs can be cleared quickly or available vehicle capacities of our fleet can be fully utilised." 
+<br><br><strong>Marc von der Fecht</strong><br>Department Head of Branch Management North/West </p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Hussar.jpg">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.hussar-gruppa.co.uk/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            Hussar Gruppa Ltd. - Crawley
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: 12/2014 / TimoCom ID: 268856</strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"Hussar Gruppa Ltd has vehicles transporting good across Europe on a daily basis. Having the support of TimoCom, we are able to ensure that our vehicles never have to make empty runs.<br>
+We find that the business partners on TimoCom all seem to have the experience and understanding of the transport industry. It is an essential tool for us when we have challenging requirements from our customers.<br>
+Having this facility open to us enables us to provide the best service possible to our customers."<br><br><strong>Paul Morfett</strong><br>Logistics Manager</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <h3 class="refrenceNoLogo">IKO</h3>
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="" target="_blank" rel="noopener noreferrer">
+                                        
+                                            IKO
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>An expert breaks new grounds</strong>
+                                    </p>
+                                
+                                
+                                    <div class="row-fluid">
+                                        <div class="span12">
+                                            <div class="well">
+                                                <p><p><strong>All under one roof</strong><br />It is sometimes easy to make an expert change to something new. The shingle-specialist IKO Sales recently assigns transport orders through TimoCom's European-wide procurement platform TC eBid&reg; . The online program's huge international reach and user-friendliness was what convinced them.</p></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                
+                                    <p><p><strong>Significant time saving, wide scope</strong><br />The figures speak for themselves: with TC eBid&reg;, IKO Sales reaches up to 30,000 active transport service providers in the whole of Europe per online tender. In 2010 more than 4,300 tenders were placed in the online platform. &quot;The scope is much bigger than expected. For example: a French transport service provider can now also participate in a tender for a shipment from Poland to Hungary. We could not have searched for this ourselves in France&quot;, says Philippe Cremie, <a target="_blank" href="http://www.iko.be">IKO Sales International's</a> Supply Chain Manager</p></p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-IbertransOy.jpg">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://ibertrans.fi" target="_blank" rel="noopener noreferrer">
+                                        
+                                            Ibertrans Oy
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: December 2004 / TimoCom ID: 47237</strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>Our business activities depend on the seasons, as we are working with mainly transport of fruit and vegetables. TimoCom is useful for us in both the high and low seasons. When we are transporting for the existing clients, we use the transport platform to find suitable back loads for our refrigerated thermal vehicles.<br><br><strong>Marita Saarres-Lakso</strong><br>Managing Director</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="http://www.ibis-backwaren.de" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-Referenz-IBIS-GmbH.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/International Forwarding Limited.png">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.internationalforwarding.co.uk/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            International Forwarding Ltd
+                                        </a>
+                                    </h2>
+                                
+                                
+                                
+                                
+                                    <p> </p>
+                                
+                                
+                                    <div class="row-fluid">
+                                        <div class="span12">
+                                            <div class="well">
+                                                <h3>
+                                                    Find the full story here:
+                                                </h3>
+                                                <a class="btn btn-primary" target="_blank" href="/STATIC/binary/900000/contentModule/reference/EN_IFL_web.pdf">
+                                                    Download
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-John-Corneth-B-V.jpg">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.corneth.nl" target="_blank" rel="noopener noreferrer">
+                                        
+                                            John Corneth Int. Transportbedrijf B.V.
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>Customer since: November 2006 / TimoCom ID: 84165</strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"The mere mention of our ID number inspires confidence among our clients - in the same way as a quality seal - because they know that we are a verified TimoCom customer and will deliver their products properly." 
+<br><br><strong>John Corneth</strong><br>Managing Director</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Kern-GmbH-&-Co-KG.jpg">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.kern-baustoffe.de" target="_blank" rel="noopener noreferrer">
+                                        
+                                            Kern GmbH & Co. KG
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: September 2003 / TimoCom ID: 33444 </strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"You used to go on a tour fully loaded and return empty. Today, no one can afford that anymore. Sometimes even three or four of our trucks will be empty at the same time. For those cases we got the freight exchange of TimoCom. You will always find return loads here at short notice." 
+<br><br><strong>Ronny Kern</strong><br>Dispatcher </p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Kleyling-internationale-Transporte.png">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.kleyling.de" target="_blank" rel="noopener noreferrer">
+                                        
+                                            Kleyling Spedition GmbH
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: January 2001 / TimoCom ID: 8665 </strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"TimoCom was one of the first freight and vehicle exchange platforms not only for us but also in Germany. The excellent value for money made it possible to us to find freight and offer vehicles in Germany and Europe. Thanks to the numerous offerings we were able to gain a foothold on the German and East-European markets and also avoid empty runs. As a member of ASTRE Group, we use the association's exchange within <span class="nowrap">TC Truck&Cargo®</span> to quickly find tailor-made offers for us." 
+<br><br><strong>Thierry Leidemer</strong><br>Directeur Général</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-Referenz-La-martiniquaise.jpg">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.la-martiniquaise.com/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            La Martiniquaise Groupe
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>Seek and you will find</strong>
+                                    </p>
+                                
+                                
+                                    <div class="row-fluid">
+                                        <div class="span12">
+                                            <div class="well">
+                                                <p><p><strong>On the one side Hinterland a French haulage contractor from Brest, on the other La Martiniquaise the second largest spirits producer in France. In principle, they would hardly have had an opportunity to meet each other... </strong></p></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                
+                                    <p><p>Thanks to TC eBid&reg;, the European-wide online tendering platform, they entered into a successful cooperation. Initially, La Martiniquaise merely wanted to test TC&nbsp;eBid&reg;. The spirits producer was searching in the platform for new business partners with specific characteristics for selected routes. No problem with TC&nbsp;eBid&reg;: through the tendering platform, shippers can specify their needs to the haulage contractors and consequently search more efficiently for business partners. Hinterland met their profile needs and placed his bid for free. Lucky strike for both, as a result of the original encounter a partnership was developed.</p><br /><p><img title="TimoCom TC eBid® Referenzen: La Martiniquaise Groupe" alt="TimoCom - TC eBid® - Referenzen: La Martiniquaise Groupe" src="/STATIC/binary/900000/contentModule/success_tcb/images/TimoCom-TC-eBid®-References-Hinterland-La-Martiniquaise-Groupe-intro.jpg" class="thumbnail margin-fluid-right margin-fluid-bottom pull-left"/> La Martiniquaise was looking for an efficient and fast user friendly tool... TC&nbsp;eBid&reg; convinced them completely after the first test. <br /><br /><em>&quot;TC eBid&reg;: only invites haulage contractors to our tenders that are previously selected entirely according to our requirements. This way we obtain an optimised list of suitable haulage contractors with their bids. Finding reliable haulage contractors that can meet the needs of the shippers takes specific know-how, which is not necessarily ours, but is TimoCom's!&quot;. </em>(Madame Lyet, Purchasing Manager <a target="_blank" href="http://www.la-martiniquaise.fr">La&nbsp;Martiniquaise</a>).</p></p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Laztrans-B-V-B-A.png">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.laztrans.be/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            Laztrans B.V.B.A.
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: February 2005 / TimoCom ID: 55955</strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"We have installed telematics from Sycada in all our vehicles and we have also been working with TimoCom's freight exchange for 10 years now. Sycada can be tracked using TimoCom's TC eMap®. We initially tested the interface for free – and afterwards connected our entire fleet of 35 vehicles to it." 
+<br><br><strong>Eyüp Kumas</strong><br>Owner</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-Referenz-Lekkerland.jpg">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.lekkerland.com/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            Lekkerland
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>Everything from one source</strong>
+                                    </p>
+                                
+                                
+                                    <div class="row-fluid">
+                                        <div class="span12">
+                                            <div class="well">
+                                                <p><p><strong>Everything from one source</strong><br />Lekkerland Deutschland GmbH &amp; Co. KG ensures that 59,100 delivery points in Germany alone, such as petrol station shops, kiosks, tobacco shops and the beverage market are supplied with a full range of tobacco, confectionery, beverages, food and non food items. There are 131,450 points of sale across Europe.</p></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                
+                                    <p><p><img class="thumbnail margin-fluid-right margin-fluid-bottom pull-left" title="TimoCom - TC eBid&reg; - References clients: Lekkerland" alt="TimoCom - TC eBid&reg; - References clients: Lekkerland" src="/STATIC/binary/900000/contentModule/success_tcb/images/TimoCom-TC-eBid®-References-clients-Lekkerland-intro.jpg" /><strong>Reduce process costs, achieve transparency<br /></strong>Since November 2009 Lekkerland benefits from using TC&nbsp;eBid&reg; 's software. Here, the company places part and full load tenders conveniently, online and securely, such as regional routes between individual logistics centres as well as international routes. Also for fresh products, the convenience wholesaler easily finds suitable partners for refrigerated transports, thanks to the detailed service provider selection in TC&nbsp;eBid&reg;.<br /><br /><em>Heiko Schreck, </em><a href="http://www.lekkerland.de" target="_blank"><em>Lekkerland AG &amp; Co. KG's</em></a><em> Head of Inbound Logistics: &ldquo;TC&nbsp;eBid&reg; corresponds to the full extent of our requirements: the software's utilisation is simple and pragmatic. We can place our tenders according to our needs in just a few steps.&quot;</em></p></p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="https://www.linnenbecker.de" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-Referenz-Linnenbecker.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Logistik-in-XXL.png">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.logistik-in-xxl.de/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            Logistik in XXL GmbH
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: November 1999 / TimoCom ID: 4170</strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"Our forwarders are able to determine the location of the goods in real time, plan the best possible routes and always provide the customer with information about the location of the cargo. Via Daimler FleetBoard's connection to TimoCom's freight and vehicle exchange the whole fleet is displayed on just one screen, making complicated switching between different applications a thing of the past. Time-consuming telephone calls with the drivers are also not required and there is no restriction on the flow of information." 
+<br><br><strong>Volker Asche</strong><br>Logistics manager/Managing Director </p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Maranata-Logistik-OOD.png">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.maranata-bg.com/ " target="_blank" rel="noopener noreferrer">
+                                        
+                                            Maranata Logistik OOD
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: December 2006 / TimoCom ID: 84766 </strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"It is important that the exchange has plenty of offers. And this is most definitely the case with the freight exchange. Here you can access up to 450,000 international freight and vehicle offers each day from 100,000 users which ensures that we almost always find what we are looking for. The data in the TC Truck&Cargo® is also always up-to-date which means that our employees can allocate orders directly. We can continue to work professionally even if routes are changed at short notice thanks to the easy-to-use platform. If we find a suitable business partner, we are able to clarify the transport details and establish a good basis for negotiation as a result of the wide range of offers. The programme therefore improves efficiency." 
+<br><br><strong>Ivaylo Ivanov</strong><br>Managing Director</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="http://www.eur.yusen-logistics.com/" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-yusen-logistics.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/DK_ reference Nordic Transport Group AS.png">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://ntg.dk/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            NTG Nordic A/S
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since 04/2011 / TimoCom ID: 185700</strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"TimoCom is a trustworthy and reliable partner to have at our side, and their user friendly transport platform helps us to maximise our working capacities."<br><br><strong>Lars Olsen</strong><br>Branch Manager</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-OWEG.jpg">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.oweg.es" target="_blank" rel="noopener noreferrer">
+                                        
+                                            OWEG Transport S.A.
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: April 2001 / TimoCom ID: 9305</strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"We consider the freight exchange to be extremely comprehensive and perfect for the shipments we make. We often look for freights which do not have to be transported from or to Spain. TC Truck&Cargo® is ideal for this and there are now up to 450,000 international offers each day. It is also very useful to be able to enter and search for specific vehicle and body types as we often have to enter special vehicles. We also find the huge, current database, TC Profile®, to be extremely helpful with full company profiles and addresses from the transport and logistics industry. It is practically priceless. Our TimoCom ID is 9305. This is a very low number compared to new customers and shows that we have been in the business for a very long time. It is extremely valuable for the users and it is a sign of security and reliability. This means that we enjoy a great deal of trust from new business contacts."
+<br><br><strong>Javier Campos Iñarra</strong><br></p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-Referenz-POFerrymasters.jpg">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.poferrymasters.com/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            P&O Ferrymasters
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>Tested and commended</strong>
+                                    </p>
+                                
+                                
+                                    <div class="row-fluid">
+                                        <div class="span12">
+                                            <div class="well">
+                                                <p><p><strong>Tested and commended</strong><br />For five years, the European logistics service provider P&amp;O Ferrymasters has been using TimoCom's online freight and vehicle exchange TC Truck&amp;Cargo&reg; to its advantage. 80,000 freight offers have been published yearly on the online platform up to now - tendency is increasing.</p></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                
+                                    <p><p><img width="216" title="TimoCom - TC eBid&reg; - References clients: P&amp;O Ferrymasters" alt="TimoCom - TC eBid&reg; - References clients: P&amp;O Ferrymasters" style="padding-bottom: 18px; padding-right: 18px; float: left;" src="/STATIC/binary/900000/contentModule/press/poferries1col.jpg" />P&amp;O Ferrymasters belongs to <br />P&amp;O Ferries - the leading ferry company in Europe according to the World Travel Awards 2010. The company employs 600 people at 27 strategic locations across 13 European countries. Intermodal transport belongs to the expert's tailor-made solutions. Here, multiple modes of transportation, for example ferries and trucks, are used without any handling of the freight itself<br />when changing modes.</p><p><br /><strong>Security, quality and many extra services</strong><br /><em>&quot;The daily use of the electronic freight exchange in the fast day-to-day scheduling does not only save workload, but also costs. We benefit from the many, verified international service providers in TC Truck&amp;Cargo&reg; and this way we can ensure a seamless transition in the transport chain from sea to road transport&quot; says Herman Braam, Director Freight Management Division <a href="http://www.poferries.com">P&amp;O Ferrymasters</a>. </em></p></p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Aerofruti.png">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.aerofruti.com/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            PREDUZEĆE AEROFRUTI DOO SEVOJNO
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since 2009 / TimoCom ID: 148537</strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"As the leading company within the business of trade with fruit and vegetables in Western Serbia with more than 1000 national and international business partners, we need a well coordinated transport chain. TimoCom simplifies our daily work and saves us time and money."<br><br><strong>Mirko Mandić</strong><br>Managing Director</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="http://www.panalpina.com/" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Panalpina.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Quehenberger-Logistics.png">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.quehenberger.com" target="_blank" rel="noopener noreferrer">
+                                        
+                                            Quehenberger Logistics DE GmbH
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: February 2012 / TimoCom ID: 205673 </strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"Since we started using the transport platform, we have saved ourselves a great deal of time, which is a huge advantage for us. We simply enter our offers on the platform and after a short period of time a suitable partner finds them.  On average this takes only a few hours at most. This proves that we have chosen the right provider with TimoCom."  
+<br><br><strong>Vencislav Kirov</strong><br>Branch manager</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Ray-Moran-International-Transport.png">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.raymorantransport.com/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            Ray Moran International Transport
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: 06/2007 - TimoCom ID: 77688</strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"The freight exchange from TimoCom, TC Truck&amp;Cargo&reg;, provides efficiency for my company. We avoid many empty transports thanks to the large amount of freight offers in TC Truck&amp;Cargo&reg; and furthermore, we have a very good basis for negotiation when it comes to negotiating the transport details with business partners."
+<br><br><strong>Ray Moran</strong><br>Managing Director / Operations / Sales </p>
+                                
+                                
+                                    <div class="row-fluid">
+                                        <div class="span12">
+                                            <div class="well">
+                                                <h3>
+                                                    Find the full story here:
+                                                </h3>
+                                                <a class="btn btn-primary" target="_blank" href="/STATIC/binary/900000/contentModule/reference/EN_Moran_web.pdf">
+                                                    Download
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Rosskothen-Transporte-GmbH.jpg">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.rosskothen-transporte.de/" target="_blank" rel="noopener noreferrer nofollow">                                            
+                                        
+                                            Rosskothen Transporte GmbH
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: June 2011 / TimoCom ID: 188441</strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"We can find a suitable freight quickly thanks to the large number available and are therefore able to fill the voids in the vehicle fleet and avoid environmentally damaging empty runs. We also receive a detailed presentation of what is happening on the individual routes and we are provided with an excellent overview of prices".
+<br><br><strong>Markus Herzig</strong><br>Logistics manager</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="http://www.roto-frank.com" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-Referenz-Roto.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="http://www.rubinmuehle.de/" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-Referenz-Rubinmuehle.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Sita-Suez.png">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="https://www.sita-deutschland.de/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            SITA Service GmbH
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: November 2013 / TimoCom ID: 244248</strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"We only have to record transport data once with the TC Connect interface. You are signed up to the TimoCom freight exchange with just one single mouse click and once a deal is closed in our system, the offer is simultaneously deleted again in the TC Truck&Cargo®." 
+<br><br><strong>Manfred Blauss</strong><br>Managing Director of the Long Distance Traffic division </p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="http://www.stef.com/" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Stef-tfe.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="https://www.dbschenker.com/" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-DBSchenker.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="http://www.schoenfelder-papierfabrik.de/" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-Referenz-Schoenfelder-Papierfabrik.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-SpedLog.jpg">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.spedlog.com/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            Spedlog GmbH Internationale Spedition
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: September 2010 / TimoCom ID: 172302</strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"TimoCom is the market leader in Europe with TC Truck&Cargo®. Nowhere else are there so many suppliers, so many service providers and nowhere else we find as much cargo as here. That's why the freight and vehicle exchange is very important to us." 
+<br><br><strong>Robert Svikart</strong><br>Transport manager</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-TL-Trans.jpg">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.tltrans.fi/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            TL Trans Oy
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: August 2004 / TimoCom ID: 45498 </strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"Eleven years ago we received a call from one of TimoCom's employees in Germany who introduced the freight and vehicle exchange to us in – to our astonishment – an accent free Swedish. We tested the programme during a whole month for free and have been a satisfied TimoCom customer ever since. TC Truck&Cargo® is for us the most important tool to avoid empty runs and efficiently maximise our capacity. We have had no need for another freight exchange because we find all we need at TimoCom." 
+<br><br><strong>Daniel Enkvist</strong><br>Import Manager</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Transfrigoroute-Deutschland.png">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="https://www.transfrigoroute.de" target="_blank" rel="noopener noreferrer">
+                                        
+                                            Transfrigoroute Deutschland (TD) e.V. 
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: June 2003 / TimoCom ID: 32299</strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"The Transfrigoroute CUG (Closed User Group) provides real added value for our members. The connection to TimoCom enables forwarders and road hauliers to receive temperature-controlled goods and meet short-term order peaks as well as avoid empty runs. And all this with the greatest possible security – because all transactions in the CUG are conducted between TRANSFRIGOROUTE members." 
+<br><br><strong>Hubertus Kobernuß</strong><br>President </p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Geodis.jpg">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://www.geodis.fr/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            WALBAUM GEODIS
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: March 2007 / TimoCom ID: 87866</strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"Introducing TC Connect as an interface offers our users better productivity and the opportunity to develop. It is important to be able to work with service providers which offer top quality and have a transport exchange which carefully chooses freight companies."
+<br><br><strong>Christophe Gaultier</strong><br>Direction Production & Qualité </p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="http://www.gw-world.com/" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-GebruederWeiss.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="https://www.wincanton.co.uk/" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-Wincanton.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        
+                        <a class="referenceListItem span3 thumbnail pull-left" href="https://www.winkels.de" target="_blank" rel="noopener noreferrer">
+                        
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-Referenz-Winkels.jpg">
+                            
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        <a class="referenceListItem span3 thumbnail pull-left referenceDetailButton" href="#referenceDetail" data-rel="referenceDetail" data-inline="true" data-width="60%">
+                            
+                            <span class="refrenceQuoteIcon"></span>
+                            
+                            
+                                <img src="/STATIC/binary/900000/contentModule/reference/TimoCom-reference-andres-logistics-GmbH.jpg">
+                            
+                        </a>
+                        
+                            <div class="detail">
+                                
+                                
+                                    <h2 class="highlight">
+                                        
+                                        <a href="http://andres-logistics.de/" target="_blank" rel="noopener noreferrer">
+                                        
+                                            andres logistics GmbH
+                                        </a>
+                                    </h2>
+                                
+                                
+                                    <p>
+                                        <strong>TimoCom customer since: January 2015 / TimoCom ID: 269835 </strong>
+                                    </p>
+                                
+                                
+                                
+                                    <p>"I think TimoCom's debt collection service is close to perfection. The success rate is high, the communication with the debt collection department is exemplary and it is excellent value for money both nationally and internationally."  
+<br><br><strong>Patrick Andres</strong><br>Freight forwarding manager
+</p>
+                                
+                                
+                            </div>
+                        
+                    
+                </li>
+            
+        </ul>
+    
+    <div id="referenceDetail"></div>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+</div></div>
+	
+	
+
+            </div>
+            
+        </section>
+        
+<section id="stagebelow">
+    <div class="separator margin-fluid-top"></div>
+    <div id="lexikon" class="container">
+        <div class="content">
+            <div class="row-fluid">
+                <div class="span12">
+                    
+		
+
+		
+			
+    
+        
+            
+            <section>
+                <header>
+                    <h3 class="margin-top padding-top-small center">
+                        <a href='/lexicon/The%20transport%20lexicon/'
+                           title='The transport lexicon' target='_self'>
+                            The transport lexicon
+                        </a>
+                        &ndash;
+                        Answers to transport topics
+                    </h3>
+                </header>
+                <div class="center">
+                    <ul>
+                        
+                            <li>
+                                <span class="nowrap"><i class="icon-chevron-right highlight"></i>&nbsp;<a href="/lexicon/The-transport-lexicon/Courier service/802151116111401" title="Courier service">Courier service</a></span>
+                            </li>
+                        
+                            <li>
+                                <span class="nowrap"><i class="icon-chevron-right highlight"></i>&nbsp;<a href="/lexicon/The-transport-lexicon/Logistics management/1203220913100063" title="Logistics management">Logistics management</a></span>
+                            </li>
+                        
+                            <li>
+                                <span class="nowrap"><i class="icon-chevron-right highlight"></i>&nbsp;<a href="/lexicon/The-transport-lexicon/Corporate logistics/1708041116097268" title="Corporate logistics">Corporate logistics</a></span>
+                            </li>
+                        
+                            <li>
+                                <span class="nowrap"><i class="icon-chevron-right highlight"></i>&nbsp;<a href="/lexicon/The-transport-lexicon/Fridge transport/1203220901255228" title="Fridge transport">Fridge transport</a></span>
+                            </li>
+                        
+                            <li>
+                                <span class="nowrap"><i class="icon-chevron-right highlight"></i>&nbsp;<a href="/lexicon/The-transport-lexicon/TC Login/1305221130060652" title="TC Login">TC Login</a></span>
+                            </li>
+                        
+                    </ul>
+                </div>
+            </section>
+        
+    
+
+		
+	
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+    </main>
+        
+    
+
+    <footer>
+        <div id="siteCopy" class="footer">
+            <a class="toplink affix" href="#" data-spy="affix" data-offset-top="300">
+                to the top <i class="icon-arrow-up"></i>
+            </a>
+            <div class="container clearfix">
+                
+
+<cite class="pull-left">
+    <div class="muted">
+        &copy; TimoCom Soft- und Hardware GmbH 2018. All rights reserved <span class="divider">/</span> 
+        
+		
+
+		
+			
+    
+        
+            
+            <a class="inline-block" href="/TimoCom/Legal-notice" target="_self"  title="Find the legal notice of TimoCom Soft- und Hardware GmbH here." >Legal notice</a>
+        
+            
+                <span class="divider">/</span>
+            
+            <a class="inline-block" href="/TimoCom/Data-protection" target="_self"  title="We care about the protection of your data when visiting and using the TimoCom homepage.  Inform yourself about our regulations on data protection here." >Data protection</a>
+        
+            
+                <span class="divider">/</span>
+            
+            <a class="inline-block" href="/TimoCom/T-Cs" target="_self"  title="Read the General Terms and Conditions (GTC) for your TimoCom agreement and the rights of use here." >T&Cs</a>
+        
+    
+
+		
+	
+    </div>
+</cite>
+
+                <div class="pull-right">
+                    
+ 
+
+<div class="clearfix hidden-print">
+    <section>
+        
+        
+            
+    
+    
+    
+    
+        <a href="https://www.facebook.com/pages/TimoCom-Int-Freight-Exchange/228118853876323" target="_blank" 
+           title="TimoCom -> Facebook"
+            >
+            <div class="socialIcons facebook "><i class="icon-facebook"></i></div>
+        </a>
+            
+
+        
+        
+    
+    
+    
+    
+        <a href="https://www.youtube.com/user/TimoCom" target="_blank" 
+           title="TimoCom -> Youtube"
+            >
+            <div class="socialIcons youtube "><i class="icon-youtube"></i></div>
+        </a>
+            
+
+        
+    
+    
+    
+    
+        <a href="https://www.xing.com/company/timocom" target="_blank" 
+           title="Marktführer unter den Frachtenbörsen Europas - Xing-Gruppe"
+            >
+            <div class="socialIcons xing "><i class="icon-xing"></i></div>
+        </a>
+            
+
+        
+    
+    
+    
+    
+        <a href="https://www.linkedin.com/company/timocom-soft--und-hardware-gmbh" target="_blank" 
+           title="TimoCom -> LinkedIn"
+            >
+            <div class="socialIcons linked-in "><i class="icon-linked-in"></i></div>
+        </a>
+            
+
+        
+    
+    
+    
+    
+        <a href="https://twitter.com/TimoCom_UK" target="_blank" 
+           title="TimoCom -> Twitter-Stream"
+            >
+            <div class="socialIcons twitter "><i class="icon-twitter"></i></div>
+        </a>
+            
+
+        
+    
+    
+    
+    
+        <a href="https://plus.google.com/+TimoComTransportplattform" target="_blank" 
+           title="TimoCom Google+ Page"
+            >
+            <div class="socialIcons google-plus "><i class="icon-google-plus"></i></div>
+        </a>
+            
+
+        
+    
+    
+    
+    
+        <a href="https://instagram.com/timocom" target="_blank" 
+           title="Join us on instagram"
+            >
+            <div class="socialIcons instagram "><i class="icon-instagram"></i></div>
+        </a>
+            
+
+                 
+            
+		
+
+		
+			
+    <div data-name="icon-envelope" class="pull-left">
+        <span class="iconsitem">
+            <a href="/News/Newsletter" title="Newsletter" id="orderNewsletter" class="btn btn-default"><i class="icon-envelope-mini"></i></a>
+        </span>
+    </div>
+
+		
+	
+        
+        <span class="margin-right">&nbsp;</span>
+    </section>
+</div> 
+                </div>
+            </div>
+        </div>
+        <div id="siteNav" class="footer">
+            <div class="container">
+                <div id="siteMap" class="row-fluid">
+                    <div class="span12">
+                        <nav class="nav-main-footer">
+                            <a name="sitemap-panel"></a>
+                            
+		
+
+		
+			
+    <ul class="nav">
+        
+            <li class="dropdown">
+                
+                    <a href="/" class="brand dropdown-toggle " data-toggle="dropdown"><i class="icon-timocom"></i></a>
+                
+                <ul class="dropdown-menu hidden-phone" role="menu">
+                    
+                        
+                        
+                            
+                                <li>
+                                    <a href="/" target="_self" title="The market leader among Europe's vehicle and freight exchanges! Reasonable monthly flat rate - with no hidden costs. Up to 4-week free, non-obligatory test phase." >Welcome</a>
+                                </li>
+                            
+                        
+                    
+                </ul>
+            </li>
+        
+            <li class="dropdown">
+                
+                    <a title=""
+                        
+                            target="_self"
+                            
+                                href="/The-Freight-Exchange/Transport-exchange"
+                            
+                         
+                        id="rubLnkCurr_1706260916000000" 
+                        class="dropdown-toggle active">Transport platform</a>
+                
+                <ul class="dropdown-menu hidden-phone" role="menu">
+                    
+                        
+                            <li class="nav-header">The Freight Exchange</li>
+                        
+                        
+                            
+                        
+                            
+                                <li>
+                                    <a href="/The-Freight-Exchange/Transport-exchange" target="_self" title="Reasonable monthly flat rate – with no hidden costs. Up to four week free, non-obligatory testphase. The market leader among Europe's vehicle and freight exchanges!" >Transport exchange</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/The-Freight-Exchange/Freight-offers" target="_self" title="All types of freights are offered in the freight exchange TC Truck&amp;Cargo. From a large envelope that is transported by courier to an oversize machine." >Freight offers</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/The-Freight-Exchange/Vehicle-offers" target="_self" title="Available vehicle space for all types of loads. From curtain siders to silo semi-trailers." >Vehicle offers</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/The-Freight-Exchange/Warehouse-offers" target="_self" title="Europe's largest warehousing exchange – with up to 30,000 warehousing and logistics possibilities. Find all contact details as well as warehousing type and usage in TimoCom's warehousing directory." >Warehouse offers</a>
+                                </li>
+                            
+                        
+                    
+                        
+                            <li class="nav-header">Transport tenders</li>
+                        
+                        
+                            
+                                <li>
+                                    <a href="/Tendering-system" target="_self" title="The tendering system for the contract market." >Tendering system</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/The-Tendering-Platform/Service-provider-search" target="_self" title="Reach a logistics network of over 40,000 verified companies with only one tender." >Service provider search</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/The-Tendering-Platform/Current-tenders" target="_self" title="Obtain long-term transport contracts and permanent business partners." >Current tenders</a>
+                                </li>
+                            
+                        
+                    
+                        
+                            <li class="nav-header">Transport orders</li>
+                        
+                        
+                            
+                                <li>
+                                    <a href="/Transport-platform/Quote-request" target="_self" title="TC Transport Order – Quote requests & order handling on TimoCom's transport platform" >Quote request</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Transport-platform/Order-Handling" target="_self" title="TC Transport Order – Quote requests & order handling on TimoCom's transport platform" >Order Handling</a>
+                                </li>
+                            
+                        
+                    
+                        
+                            <li class="nav-header">Tracking</li>
+                        
+                        
+                            
+                                <li>
+                                    <a href="/Tracking/Vehicle-localisation" target="_self" title="All vehicle telematics systems at a glance. Increased security in managing your fleet with GPS tracking in TimoCom Tracking." >Vehicle localisation</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Tracking/Telematics-provider" target="_self" title="Fleet management with GPS exact vehicle localisation: our partners in terms of truck tracking are renowned European telematics providers." >Telematics provider</a>
+                                </li>
+                            
+                        
+                    
+                        
+                            <li class="nav-header">Connecting customers</li>
+                        
+                        
+                            
+                                <li>
+                                    <a href="/Transport-platform/Business-directory" target="_self" title="TC Profile is your professional business card in TC Truck&amp;Cargo! Enter your most important company details and keep them up-to-date. Other TimoCom users do the same." >Business directory</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Transport-platform/Messenger" target="_self" title="Diverse communication tool integrated into Europe's largest transport platform. Simplify your personal business communication with the TimoCom Messenger" >Messenger</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Transport-platform/TimoCom-mobile" target="_self" title="With the TimoCom app you have mobile access to Europe's biggest transport platform and can find freight and offer vehicle space wherever you are." >TimoCom mobile</a>
+                                </li>
+                            
+                        
+                    
+                        
+                            <li class="nav-header">Services</li>
+                        
+                        
+                            
+                                <li>
+                                    <a href="https://updatepool.timocom.com/en/update" target="_blank" title="Update Pool. All TimoCom updates and new features down to the point." >Update Pool</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Transport-platform/References" target="_self" title="The following freight forwarding and transport companies as well as companies from manufacturing and trade successfully work with the transport platform TimoCom." class="active">References</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Download/Customers-recruit-customers" target="_self" title="Get a €50 bonus for successfully recommending the vehicle and freight exchange TC Truck&amp;Cargo." >Customers recruit customers</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Transport-plattform/Value-for-money" target="_self" title="Up to 750,000 freight and vehicle offers, more than 127,000 users, 44 European countries." >Value for money</a>
+                                </li>
+                            
+                        
+                    
+                </ul>
+            </li>
+        
+            <li class="dropdown">
+                
+                    <a title=""
+                        
+                            target="_self"
+                             
+                                href="/Security/Security-net"
+                            
+                         
+                        id="rubLnkCurr_1003171235455618" 
+                        class="dropdown-toggle">Security</a>
+                
+                <ul class="dropdown-menu hidden-phone" role="menu">
+                    
+                        
+                        
+                            
+                                <li>
+                                    <a href="/Security/Security-net" target="_self" title="Security is a fundamental issue in a freight exchange. It is about protecting customers from 'black sheep' in the transport industry." >Security net</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Security/New-customer-verification" target="_self" title="Before TimoCom grants companies access to the freight exchange or other platforms they are verified by us – our contribution to preventing cargo theft." >New customer verification</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Security/Debt-collection-international" target="_self" title="Our legal department takes care of debt collection and claims management for transport and logistic companies.  Outstanding amounts? Contact TimoCom for assistance!" >Debt collection international</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Security/Technologies" target="_self" title="Security in freight exchange already begins prior to the goods being transported! As a freight exchange we therefore offer a high level of technical security to protect you as our customers." >Technologies</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Security/Access-software" target="_self" title="Our contribution to more security in freight exchanges and for transport tenders! You can only access TimoCom by means of a personalised login software." >Access software</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Security/Check-lists" target="_self" title="Important rules and tips for even more security in the freight exchange. Find the most important rules as to how to actively protect your company against freight theft here." >Check lists</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/Security/Identity-verification" target="_self" title="The new, free of charge service TimoCom Identify assists in identifying your business partner if you have doubts." >Identity verification</a>
+                                </li>
+                            
+                        
+                    
+                </ul>
+            </li>
+        
+            <li class="dropdown">
+                
+                    <a title=""
+                        
+                            target="_self"
+                            
+                                href="/TimoCom/About-Us"
+                            
+                         
+                        id="rubLnkCurr_1710051145000006" 
+                        class="dropdown-toggle">Company</a>
+                
+                <ul class="dropdown-menu hidden-phone" role="menu">
+                    
+                        
+                            <li class="nav-header">TimoCom</li>
+                        
+                        
+                            
+                        
+                            
+                                <li>
+                                    <a href="/TimoCom/About-Us" target="_self" title="TimoCom is an IT service provider for the European transport business Among other things we offer a market leading freight exchange and a universal tracking solution." >About Us</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/TimoCom/Partners" target="_self" title="Networking pays off: TimoCom cooperates with the following companies from the fields of transport, economy and education." >Partners</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/TimoCom/Commitment" target="_self" title="TimoCom shows social responsibility and is committed to environmental sustainability. We are convinced of the importance of corporate social responsibility." >Commitment</a>
+                                </li>
+                            
+                        
+                    
+                        
+                            <li class="nav-header">Careers</li>
+                        
+                        
+                            
+                                <li>
+                                    <a href="/TimoCom/Jobs-careers" target="_self" title="Here you find job vacancies for our headquarter in Erkrath, Germany. " >Jobs & careers</a>
+                                </li>
+                            
+                        
+                    
+                        
+                            <li class="nav-header">News</li>
+                        
+                        
+                            
+                                <li>
+                                    <a href="/News/Press-information" target="_self" title="Read TimoCom's press releases and articles from newspapers, magazines as well as specialist journals. 
+" >Press information</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/News/Newsletter" target="_self" title="" >Newsletter</a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/News/Media-library" target="_self" title="Searching for a suitable transport image for your article? No problem! Simply download photos, graphics or images from TimoCom free of charge." >Media library</a>
+                                </li>
+                            
+                        
+                    
+                </ul>
+            </li>
+        
+            <li class="dropdown">
+                
+                    <a title=""
+                        
+                            target="_self"
+                             
+                                href="/Contact/Info-Center"
+                            
+                         
+                        id="rubLnkCurr_711211033200663" 
+                        class="dropdown-toggle">Contact</a>
+                
+                <ul class="dropdown-menu hidden-phone" role="menu">
+                    
+                        
+                        
+                            
+                                <li>
+                                    <a href="/Contact/Info-Center" target="_self" title="Get in contact with TimoCom, e.g. by phone, fax or email. Also find the telephone number and the customer service hotline for the freight exchange here." >Info Center</a>
+                                </li>
+                            
+                        
+                    
+                </ul>
+            </li>
+        
+            <li class="dropdown">
+                
+                    <a title=""
+                        
+                            target="_self"
+                             
+                                href="/Apply-now/"
+                            
+                         
+                        id="rubLnkCurr_711211032511469" 
+                        class="dropdown-toggle">Apply now</a>
+                
+                <ul class="dropdown-menu hidden-phone" role="menu">
+                    
+                        
+                        
+                            
+                                <li>
+                                    <a href="/Apply-now/" target="_self" title="Test Europe's largest transport platform  including the freight exchange, warehousing exchange, transport tenders and tracking for up to 4 weeks for free." >Apply to test</a>
+                                </li>
+                            
+                        
+                    
+                </ul>
+            </li>
+        
+    </ul>
+
+		
+	
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    
+
+
+    
+        
+        <div class="showCookieInformation clearfix">
+            <div class="container">
+                <div class="row-fluid">
+                    <div class="span9">
+                        By using this site you agree to the use of cookies for analytics, personalised content and ads.
+                    </div>
+                    <div class="span3">
+                        <a href="/TimoCom/Data-protection">
+                            Find out more
+                        </a>
+                        <form method="post" action="/Transport-platform/References" class="pull-right">
+                            <button type="submit" name="hideCookieMessage" class="btn btn-large btn-link" title='Close'><i class="icon-outline-remove"></i></button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+
+    <script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+fbq('init', '249945081877893');
+fbq('track', "PageView");
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=249945081877893&ev=PageView&noscript=1"/></noscript>
+
+     
+        <script type="text/javascript"> 
+     _linkedin_data_partner_id = "152505"; 
+    (function(){var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(); 
+</script>
+<noscript><img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=152505&fmt=gif" /></noscript> 
+    
+
+    
+
+    <script src="/WWW/sec/themes/tcportal_tcgui/framework/tcgui/js/tcgui.min.js?v=1526285106"></script>
+    <script src="/WWW/ext/js/jquery/jquery.UI.js?v=1526285106"></script>
+    <script src="/WWW/sec/themes/tcportal_tcgui/js/tcSlider2/tcSlider2.min.js?v=1526285106"></script>
+    <script src="/WWW/sec/themes/tcportal_tcgui/js/tcportal.main.min.js?v=1526285106"></script>
+
+    
+    
+    
+
+
+    
+    
+    
+
+    
+        
+            
+            <script>
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+                ga('create', 'UA-1301439-31', 'auto');
+                ga('set', 'anonymizeIp', true);
+                ga('send', 'pageview');
+
+                
+                    ga('create', 'UA-1301439-47', 'auto', 'globalTracker');
+                    ga('globalTracker.send', 'pageview');
+                
+                $('#analyticsDisabledMessage').hide();
+
+                var gaProperty = 'UA-1301439-31';
+                // Disable tracking if the opt-out cookie exists.
+                var disableStr = 'ga-disable-' + gaProperty;
+                if (document.cookie.indexOf(disableStr + '=true') > -1) {
+                    window[disableStr] = true;
+                    $('#analyticsDisabledMessage').show();
+                }
+                // Opt-out-fnc like in dataprotection
+                function gaOptout() {
+                    document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+                    window[disableStr] = true;
+                    $('#analyticsDisabledMessage').show();
+                }
+            </script>
+            
+        
+        
+            
+        
+    
+
+    
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+	    
+	
+
+    
+    
+    
+
+    
+    
+    
+</body>
+</html>
+
+
